@@ -24,5 +24,6 @@
 
 ## Templates
 
-* [Untitled](templates/untitled.md)
+* [Normal template](templates/untitled.md)
+* [USACO template](templates/usaco-template.md)
 
