@@ -8,7 +8,7 @@
 
 ## Data Structure
 
-* [Untitled](data-structure/untitled.md)
+* [Union Find](data-structure/untitled.md)
 
 ## Graph
 
