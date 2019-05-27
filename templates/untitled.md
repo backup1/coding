@@ -1,16 +1,15 @@
 # Normal template
 
-\#include &lt;bits/stdc++.h&gt;
-
+```cpp
+#include <bits/stdc++.h>
 using namespace std;
-
-int main\(\){
-
-   ios::sync\_with\_stdio\(false\);
-
-   cin.tie\(nullptr\);
-
+int main(){
+   ios::sync_with_stdio(false);
+   cin.tie(nullptr);
+   // TODO
    return 0;
-
 }
+```
+
+
 
