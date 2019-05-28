@@ -26,4 +26,5 @@
 
 * [Normal template](templates/untitled.md)
 * [USACO template](templates/usaco-template.md)
+* [Code Jam template](templates/code-jam-template.md)
 
