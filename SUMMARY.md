@@ -4,7 +4,7 @@
 
 ## Mathematics
 
-* [Untitled](mathematics/untitled.md)
+* [Power](mathematics/untitled.md)
 
 ## Data Structure
 
