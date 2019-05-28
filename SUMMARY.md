@@ -4,11 +4,11 @@
 
 ## Mathematics
 
-* [Power](mathematics/untitled.md)
+* [Power](mathematics/power.md)
 
 ## Data Structure
 
-* [Union Find](data-structure/untitled.md)
+* [Union Find](data-structure/union-find.md)
 
 ## Graph
 
@@ -24,8 +24,9 @@
 
 ## Templates
 
-* [Normal template](templates/untitled.md)
+* [Normal template](templates/normal-template.md)
 * [USACO template](templates/usaco-template.md)
 * [Code Jam template](templates/code-jam-template.md)
 * [UVa template](templates/uva-template.md)
+* [Compilation](templates/compilation.md)
 
