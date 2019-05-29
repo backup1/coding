@@ -21,6 +21,7 @@
 ## C++ tips and tricks
 
 * [auto](c++-tips-and-tricks/auto.md)
+* [lambda expression](c++-tips-and-tricks/lambda-expression.md)
 
 ## Templates
 

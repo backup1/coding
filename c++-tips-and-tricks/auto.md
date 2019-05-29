@@ -1,3 +1,7 @@
+---
+description: (re)introduced since C++11
+---
+
 # auto
 
 ## Structured binding \(C++17\)
@@ -17,14 +21,14 @@ tie(a,b) = v;
 ## Function declaration \(C++17\)
 
 ```cpp
-auto merge(auto va,auto vb){
+auto merge(const auto& va,const auto& vb){
   auto ret = va;
   for(auto item : vb) ret.push_back(item);
   return ret;
 }
 ```
 
-## lambda expression \(C++11\)
+## lambda expression \(C++14\)
 
 ```cpp
 sort(begin(v),end(v),[](const auto& a,const auto& b){
