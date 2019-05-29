@@ -9,7 +9,7 @@ description: (re)introduced since C++11
 Structured binding is working for array, tuple and data members in a structure. This feature is available since C++17.
 
 ```cpp
-vector<int> v = {1,2};
+pair<int,int> v = make_pair(1,2);
 // C++17
 auto [a,b] = v;
 auto& [a_ref,b_ref] = v;
