@@ -20,7 +20,7 @@
 
 ## C++ tips and tricks
 
-* [Untitled](c++-tips-and-tricks/untitled.md)
+* [auto](c++-tips-and-tricks/auto.md)
 
 ## Templates
 
