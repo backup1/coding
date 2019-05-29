@@ -1,3 +1,7 @@
+---
+description: introduced in C++17
+---
+
 # initialization
 
 ## Initialization in if or switch statement

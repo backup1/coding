@@ -1,5 +1,5 @@
 ---
-description: (re)introduced since C++11
+description: (re)introduced in C++11
 ---
 
 # auto
