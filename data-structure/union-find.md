@@ -29,7 +29,7 @@ int main(){
     cin >> x >> y >> z;
     merge(comp,level,x,y);
   }
-  set<int> st;
+  unordered_set<int> st;
   for(int i = 1; i <= n; ++i) st.insert(getComp(comp,i));
   cout << st.size();
   return 0;

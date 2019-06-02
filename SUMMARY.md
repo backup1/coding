@@ -16,7 +16,7 @@
 
 ## Utilities
 
-* [Untitled](utilities/untitled.md)
+* [STL utilities](utilities/stl-utilities.md)
 
 ## C++ tips and tricks
 
