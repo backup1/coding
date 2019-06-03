@@ -5,6 +5,7 @@
 ## Mathematics
 
 * [Power](mathematics/power.md)
+* [Complex Number](mathematics/complex-number.md)
 
 ## Data Structure
 
@@ -17,6 +18,7 @@
 ## Utilities
 
 * [STL utilities](utilities/stl-utilities.md)
+* [STL parallel utilities](utilities/stl-parallel-utilities.md)
 
 ## C++ tips and tricks
 
