@@ -22,3 +22,21 @@ void init(ll N){
 }
 ```
 
+## Sieve of Eratosthenes in nloglogn time
+
+```cpp
+void sieve(){
+	unordered_map<int,int> prime_pos;
+	set<int> prime;
+	int n=2750131,idx=1;
+	for (int i=2; i<=n; ++i){
+		if (vu[i]){
+			for (int j=2*i; j<=n; j += i) vu[j]=true;
+			prime_pos[i]=idx;
+			s.emplace(i);
+			++idx;
+		}
+	}
+}
+```
+
