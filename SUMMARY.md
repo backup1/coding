@@ -5,6 +5,7 @@
 ## Mathematics
 
 * [Power](mathematics/power.md)
+* [Prime Number](mathematics/prime-number.md)
 * [Complex Number](mathematics/complex-number.md)
 
 ## Data Structure
