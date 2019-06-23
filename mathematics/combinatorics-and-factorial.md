@@ -39,6 +39,8 @@ ll C(ll a,ll b){
 }
 ```
 
+## Questions
+
 {% embed url="https://atcoder.jp/contests/abc042/tasks/arc058\_b" %}
 
 ```cpp

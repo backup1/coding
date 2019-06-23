@@ -1,5 +1,7 @@
 # Union Find
 
+## Questions
+
 {% embed url="https://atcoder.jp/contests/abc126/tasks/abc126\_e" %}
 
 ```cpp
