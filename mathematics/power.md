@@ -33,9 +33,7 @@ long long getInverse(long long a){
 }
 ```
 
-Questions:
-
-* [https://atcoder.jp/contests/m-solutions2019/tasks/m\_solutions2019\_e](https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_e)
+{% embed url="https://atcoder.jp/contests/m-solutions2019/tasks/m\_solutions2019\_e" %}
 
 ```cpp
 #include <bits/stdc++.h>

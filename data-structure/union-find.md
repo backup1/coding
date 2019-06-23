@@ -1,8 +1,6 @@
 # Union Find
 
-Questions :
-
-* [https://atcoder.jp/contests/abc126/tasks/abc126\_e](https://atcoder.jp/contests/abc126/tasks/abc126_e)
+{% embed url="https://atcoder.jp/contests/abc126/tasks/abc126\_e" %}
 
 ```cpp
 #include <bits/stdc++.h>
