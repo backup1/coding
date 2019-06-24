@@ -126,6 +126,44 @@
 
 {% embed url="https://atcoder.jp/contests/agc013/tasks/agc013\_d" %}
 
+{% embed url="https://atcoder.jp/contests/agc012/tasks/agc012\_d" %}
+
+{% embed url="https://atcoder.jp/contests/agc012/tasks/agc012\_f" %}
+
+{% embed url="https://atcoder.jp/contests/agc009/tasks/agc009\_e" %}
+
+{% embed url="https://atcoder.jp/contests/agc009/tasks/agc009\_c" %}
+
+{% embed url="https://atcoder.jp/contests/agc008/tasks/agc008\_e" %}
+
+{% embed url="https://atcoder.jp/contests/agc005/tasks/agc005\_f" %}
+
+{% embed url="https://atcoder.jp/contests/agc005/tasks/agc005\_d" %}
+
+{% embed url="https://atcoder.jp/contests/agc003/tasks/agc003\_f" %}
+
+{% embed url="https://atcoder.jp/contests/agc002/tasks/agc002\_f" %}
+
+{% embed url="https://atcoder.jp/contests/agc001/tasks/agc001\_e" %}
+
+{% embed url="https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019\_2\_e" %}
+
+{% embed url="https://atcoder.jp/contests/m-solutions2019/tasks/m\_solutions2019\_c" %}
+
+{% embed url="https://atcoder.jp/contests/diverta2019/tasks/diverta2019\_f" %}
+
+{% embed url="https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1\_2019\_d" %}
+
+{% embed url="https://atcoder.jp/contests/tenka1-2019/tasks/tenka1\_2019\_f" %}
+
+{% embed url="https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1\_2019\_d" %}
+
+{% embed url="https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019\_e" %}
+
+{% embed url="https://atcoder.jp/contests/wtf19-open/tasks/wtf19\_e" %}
+
+{% embed url="https://atcoder.jp/contests/wtf19-open/tasks/wtf19\_b" %}
+
 
 
 
