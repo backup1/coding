@@ -8,6 +8,7 @@
 * [Combinatorics and Factorial](mathematics/combinatorics-and-factorial.md)
 * [Prime Number](mathematics/prime-number.md)
 * [Complex Number](mathematics/complex-number.md)
+* [Questions](mathematics/questions.md)
 
 ## Data Structure
 
