@@ -8,9 +8,15 @@
 
 {% embed url="https://atcoder.jp/contests/abc065/tasks/arc076\_a" %}
 
+{% embed url="https://atcoder.jp/contests/abc129/tasks/abc129\_c" %}
+
+{% embed url="https://atcoder.jp/contests/abc130/tasks/abc130\_e" %}
+
 ## Powers
 
 {% embed url="https://atcoder.jp/contests/m-solutions2019/tasks/m\_solutions2019\_e" %}
+
+{% embed url="https://atcoder.jp/contests/abc129/tasks/abc129\_e" %}
 
 ## Combinatorics
 
