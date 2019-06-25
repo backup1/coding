@@ -216,6 +216,16 @@
 
 {% embed url="https://atcoder.jp/contests/code-festival-2017-quala/tasks/code\_festival\_2017\_quala\_e" %}
 
+{% embed url="https://atcoder.jp/contests/s8pc-4/tasks/s8pc\_4\_e" %}
+
+{% embed url="https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin\_pc\_2017\_d" %}
+
+{% embed url="https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin\_pc\_2017\_a" %}
+
+{% embed url="https://atcoder.jp/contests/agc009/tasks/agc009\_c" %}
+
+{% embed url="https://atcoder.jp/contests/agc009/tasks/agc009\_e" %}
+
 
 
 
