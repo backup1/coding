@@ -226,6 +226,12 @@
 
 {% embed url="https://atcoder.jp/contests/agc009/tasks/agc009\_e" %}
 
+{% embed url="https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16\_exhibition\_final\_h" %}
+
+{% embed url="https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16\_exhibition\_final\_j" %}
+
+{% embed url="https://atcoder.jp/contests/cf16-exhibition-final-open/tasks/cf16\_exhibition\_final\_a" %}
+
 
 
 
