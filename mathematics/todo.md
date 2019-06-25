@@ -180,6 +180,42 @@
 
 {% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_h" %}
 
+{% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_k" %}
+
+{% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_a" %}
+
+{% embed url="https://atcoder.jp/contests/apc001/tasks/apc001\_i" %}
+
+{% embed url="https://atcoder.jp/contests/apc001/tasks/apc001\_j" %}
+
+{% embed url="https://atcoder.jp/contests/cf17-relay-open/tasks/relay2\_i" %}
+
+{% embed url="https://atcoder.jp/contests/cf17-tournament-round3-open/tasks/asaporo2\_f" %}
+
+{% embed url="https://atcoder.jp/contests/cf17-exhibition-open/tasks/cf17\_exhibition\_a" %}
+
+{% embed url="https://atcoder.jp/contests/cf17-final/tasks/cf17\_final\_g" %}
+
+{% embed url="https://atcoder.jp/contests/jag2017autumn/tasks/jag2017autumn\_h" %}
+
+{% embed url="https://atcoder.jp/contests/jag2017autumn/tasks/jag2017autumn\_i" %}
+
+{% embed url="https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code\_festival\_2017\_qualc\_e" %}
+
+{% embed url="https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code\_festival\_2017\_qualc\_f" %}
+
+{% embed url="https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code\_festival\_2017\_qualb\_e" %}
+
+{% embed url="https://atcoder.jp/contests/kupc2017/tasks/kupc2017\_d" %}
+
+{% embed url="https://atcoder.jp/contests/kupc2017/tasks/kupc2017\_j" %}
+
+{% embed url="https://atcoder.jp/contests/kupc2017/tasks/kupc2017\_k" %}
+
+{% embed url="https://atcoder.jp/contests/tenka1-2017/tasks/tenka1\_2017\_f" %}
+
+{% embed url="https://atcoder.jp/contests/code-festival-2017-quala/tasks/code\_festival\_2017\_quala\_e" %}
+
 
 
 
