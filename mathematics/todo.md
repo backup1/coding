@@ -164,6 +164,22 @@
 
 {% embed url="https://atcoder.jp/contests/wtf19-open/tasks/wtf19\_b" %}
 
+{% embed url="https://atcoder.jp/contests/dp/tasks/dp\_s" %}
+
+{% embed url="https://atcoder.jp/contests/dp/tasks/dp\_t" %}
+
+{% embed url="https://atcoder.jp/contests/dp/tasks/dp\_v" %}
+
+{% embed url="https://atcoder.jp/contests/dp/tasks/dp\_y" %}
+
+{% embed url="https://atcoder.jp/contests/caddi2018/tasks/caddi2018\_d" %}
+
+{% embed url="https://atcoder.jp/contests/dwacon5th-prelims/tasks/dwacon5th\_prelims\_e" %}
+
+{% embed url="https://atcoder.jp/contests/tenka1-2018/tasks/tenka1\_2018\_f" %}
+
+{% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_h" %}
+
 
 
 
