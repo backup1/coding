@@ -228,5 +228,13 @@ Precision, Probabilities, Prime Numbers, Matrix and XOR
 
 {% embed url="https://atcoder.jp/contests/arc070/tasks/arc070\_d" %}
 
+{% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_d" %}
+
+{% embed url="https://atcoder.jp/contests/s8pc-5/tasks/s8pc\_5\_d" %}
+
+{% embed url="https://atcoder.jp/contests/s8pc-5/tasks/s8pc\_5\_i" %}
+
+{% embed url="https://atcoder.jp/contests/apc001/tasks/apc001\_c" %}
+
 
 
