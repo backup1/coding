@@ -182,8 +182,6 @@
 
 {% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_k" %}
 
-{% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_a" %}
-
 {% embed url="https://atcoder.jp/contests/apc001/tasks/apc001\_i" %}
 
 {% embed url="https://atcoder.jp/contests/apc001/tasks/apc001\_j" %}

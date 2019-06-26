@@ -1,6 +1,6 @@
 # Modulo - Big Number
 
-## Modulo
+{% embed url="https://atcoder.jp/contests/jag2018summer-day2/tasks/jag2018summer\_day2\_a" %}
 
 {% embed url="https://atcoder.jp/contests/agc031/tasks/agc031\_a" %}
 
