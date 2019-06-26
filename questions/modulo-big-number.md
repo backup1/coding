@@ -10,8 +10,6 @@
 
 {% embed url="https://atcoder.jp/contests/abc129/tasks/abc129\_c" %}
 
-{% embed url="https://atcoder.jp/contests/abc127/tasks/abc127\_e" %}
-
 {% embed url="https://atcoder.jp/contests/abc130/tasks/abc130\_e" %}
 
 {% embed url="https://atcoder.jp/contests/dp/tasks/dp\_h" %}

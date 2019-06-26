@@ -43,4 +43,5 @@
 ## Questions
 
 * [Modulo - Big Number](questions/modulo-big-number.md)
+* [Modulo - Power and Combi](questions/modulo-power-and-combi.md)
 
