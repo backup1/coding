@@ -1,7 +1,5 @@
 # TODO
 
-{% embed url="https://atcoder.jp/contests/abc127/tasks/abc127\_e" %}
-
 {% embed url="https://atcoder.jp/contests/abc122/tasks/abc122\_d" %}
 
 {% embed url="https://atcoder.jp/contests/abc113/tasks/abc113\_d" %}
