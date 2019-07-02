@@ -24,6 +24,10 @@
 * [STL utilities](utilities/stl-utilities.md)
 * [STL parallel utilities](utilities/stl-parallel-utilities.md)
 
+## Tree
+
+* [Re-rooting \(DP\)](tree/re-rooting-dp.md)
+
 ## C++ tips and tricks
 
 * [auto](c++-tips-and-tricks/auto.md)
