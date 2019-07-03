@@ -14,6 +14,7 @@
 ## Data Structure
 
 * [Union Find](data-structure/union-find.md)
+* [Segment Tree](data-structure/segment-tree.md)
 
 ## Graph
 
