@@ -3,20 +3,14 @@
 ## Min Segment Tree
 
 ```cpp
-int getMin(vector<int>& segt,
-           int idx,int left,int right,
-           int L,int R){
+int getMin(vector<int>& segt,int idx,int left,int right,int L,int R){
   if(L >= R) return inf;
   if(L == left and R == right) return segt[idx];
   int mid = (left+right)/2;
-  return min(getMin(segt,2*idx+1,left,mid,
-                    L,min(R,mid)),
-             getMin(segt,2*idx+2,mid,right,
-                    max(L,mid),R));
+  return min(getMin(segt,2*idx+1,left,mid,L,min(R,mid)),
+             getMin(segt,2*idx+2,mid,right,max(L,mid),R));
 }
-void update(vector<int>& segt,
-            int idx,int left,int right,
-            int pos,int val){
+void update(vector<int>& segt,int idx,int left,int right,int pos,int val){
   if(right-left <= 1){
     segt[idx] = val;
     return;
@@ -36,20 +30,14 @@ void update(vector<int>& segt,
 #include <bits/stdc++.h>
 using namespace std;
 const int inf = INT_MAX/2;
-int getMin(vector<int>& segt,
-           int idx,int left,int right,
-           int L,int R){
+int getMin(vector<int>& segt,int idx,int left,int right,int L,int R){
   if(L >= R) return inf;
   if(L == left and R == right) return segt[idx];
   int mid = (left+right)/2;
-  return min(getMin(segt,2*idx+1,left,mid,
-                    L,min(R,mid)),
-             getMin(segt,2*idx+2,mid,right,
-                    max(L,mid),R));
+  return min(getMin(segt,2*idx+1,left,mid,L,min(R,mid)),
+             getMin(segt,2*idx+2,mid,right,max(L,mid),R));
 }
-void update(vector<int>& segt,
-            int idx,int left,int right,
-            int pos,int val){
+void update(vector<int>& segt,int idx,int left,int right,int pos,int val){
   if(right-left <= 1){
     segt[idx] = val;
     return;
