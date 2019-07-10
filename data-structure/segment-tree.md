@@ -145,3 +145,57 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/641/E" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int getSum(vector<int>& segt,int idx,int left,int right,int L,int R){
+  if(L >= R) return 0;
+  if(L == left and R == right) return segt[idx];
+  int mid = (left+right)/2;
+  return getSum(segt,2*idx+1,left,mid,L,min(R,mid))+
+         getSum(segt,2*idx+2,mid,right,max(L,mid),R);
+}
+void update(vector<int>& segt,int idx,int left,int right,int pos,int delta){
+  if(right-left <= 1){
+    segt[idx] += delta;
+    return;
+  }
+  int mid = (left+right)/2;
+  if(pos < mid) update(segt,2*idx+1,left,mid,pos,delta);
+  else update(segt,2*idx+2,mid,right,pos,delta);
+  segt[idx] = segt[2*idx+1]+segt[2*idx+2];
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int n,a,t,x;
+  cin >> n;
+  vector<tuple<int,int,int>> cmds;
+  map<int,set<int>> ts;
+  while(n--){
+    cin >> a >> t >> x;
+    cmds.emplace_back(a,t,x);
+    ts[x].emplace(t);
+  }
+  map<int,vector<int>> tv;
+  for(auto& p : ts) tv[p.first].assign(begin(p.second),end(p.second));
+  map<int,map<int,int>> mt;
+  map<int,int> ls;
+  for(auto& p : tv){
+    ls[p.first] = p.second.size();
+    for(int i = 0; i < p.second.size(); ++i) mt[p.first][p.second[i]] = i;
+  }
+  map<int,vector<int>> m;
+  for(auto& p : cmds){
+    tie(a,t,x) = p;
+    if(!m.count(x)) m[x] = vector<int>(4*ls[x]+4);
+    if(a == 1) update(m[x],0,0,ls[x],mt[x][t],1);
+    else if(a == 2) update(m[x],0,0,ls[x],mt[x][t],-1);
+    else cout << getSum(m[x],0,0,ls[x],0,mt[x][t]) << '\n';
+  }
+  return 0;
+}
+```
+
