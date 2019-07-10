@@ -88,3 +88,60 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/292/E" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+vector<vector<int>> v;
+int get(vector<pair<int,int>>& segt,int idx,int left,int right,int pos){
+  if(segt[idx].first){
+    int array,i;
+    tie(array,i) = segt[idx];
+    return v[array-1][i+pos-left];
+  }
+  int mid = (left+right)/2;
+  if(pos < mid) return get(segt,2*idx+1,left,mid,pos);
+  return get(segt,2*idx+2,mid,right,pos);
+}
+void update(vector<pair<int,int>>& segt,int idx,int left,int right,int L,int R,int array,int beg){
+  if(L >= R) return;
+  if(L == left and R == right){
+    segt[idx] = make_pair(array,beg);
+    return;
+  }
+  int mid = (left+right)/2;
+  if(segt[idx].first){
+    segt[2*idx+1] = segt[idx];
+    segt[2*idx+2] = segt[idx];
+    segt[2*idx+2].second += mid-left;
+    segt[idx] = make_pair(0,0);
+  }
+  update(segt,2*idx+1,left,mid,L,min(R,mid),array,beg);
+  update(segt,2*idx+2,mid,right,max(L,mid),R,array,beg+max(mid-L,0));
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int n,m,t,x,y,k;
+  cin >> n >> m;
+  v = vector<vector<int>>(2,vector<int>(n+1));
+  for(int i = 1; i <= n; ++i) cin >> v[0][i];
+  for(int i = 1; i <= n; ++i) cin >> v[1][i];
+  vector<pair<int,int>> segt(4*n+5);
+  update(segt,0,1,n+1,1,n+1,2,1);
+  while(m--){
+    cin >> t;
+    if(t == 1){
+      cin >> x >> y >> k;
+      update(segt,0,1,n+1,y,y+k,1,x);
+    }
+    else{
+      cin >> x;
+      cout << get(segt,0,1,n+1,x) << '\n';
+    }
+  }
+  return 0;
+}
+```
+
