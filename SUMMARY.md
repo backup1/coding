@@ -22,6 +22,7 @@
 
 * [Flood Fill](graph/untitled.md)
 * [0-1 BFS](graph/0-1-bfs.md)
+* [Detect Cycle and Output Loop](graph/detect-cycle-and-output-loop.md)
 
 ## Tree
 
