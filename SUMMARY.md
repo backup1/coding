@@ -28,6 +28,10 @@
 
 * [Re-rooting \(DP\)](tree/re-rooting-dp.md)
 
+## Methods
+
+* [DP on Graph](methods/dp-on-graph.md)
+
 ## Utilities
 
 * [STL utilities](utilities/stl-utilities.md)
