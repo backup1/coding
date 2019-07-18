@@ -18,6 +18,7 @@
 * [Prefix Tree](data-structure/prefix-tree.md)
 * [Indexed Set](data-structure/indexed-set.md)
 * [Bitset](data-structure/bitset.md)
+* [Deque](data-structure/deque.md)
 
 ## Graph
 
