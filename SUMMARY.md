@@ -34,6 +34,7 @@
 ## Methods
 
 * [DP on Graph](methods/dp-on-graph.md)
+* [DP on Array](methods/dp-on-array.md)
 
 ## Utilities
 
