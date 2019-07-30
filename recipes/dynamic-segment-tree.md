@@ -9,6 +9,12 @@ ll get(ll x){
   return (seg.find(x) == seg.end()) ? 0 : seg[x];
 }
 
+void build(){
+  for(int i = n-1; i > 0; --i){
+    seg[i] = get(i<<1) + get(i<<1|1);
+  }
+}
+
 void modify(ll p, ll val){
   for(seg[p += N] = val; p > 0; p >>= 1){
     seg[p>>1] = get(p) + get(p^1);
