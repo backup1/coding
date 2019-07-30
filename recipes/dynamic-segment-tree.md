@@ -2,6 +2,8 @@
 
 ## Modify one element + Query on interval
 
+2e5 insertions and 2e5 queries
+
 ```cpp
 gp_hash_table<ll, ll, chash> seg;
 
