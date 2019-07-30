@@ -59,6 +59,11 @@
 * [UVa template](templates/uva-template.md)
 * [Compilation](templates/compilation.md)
 
+## Recipes
+
+* [Classic Segment Tree](recipes/classic-segment-tree.md)
+* [Dynamic Segment Tree](recipes/dynamic-segment-tree.md)
+
 ## Questions
 
 * [Modulo - Big Number](questions/modulo-big-number.md)
