@@ -34,3 +34,35 @@ int main(){
 }
 ```
 
+## Modify on interval + Query one element
+
+```cpp
+void modify(int l, int r, int value){
+  for(l += n,r += n; l < r; l >>= 1,r >>= 1){
+    if(l&1) t[l++] += value;
+    if(r&1) t[--r] += value;
+  }
+}
+
+int query(int p){
+  int res = 0;
+  for(p += n; p > 0; p >>= 1) res += t[p];
+  return res;
+}
+
+// If at some point after modifications we need to
+// inspect all the elements in the array, we can push
+// all the modifications to the leaves using the
+// following code. After that we can just traverse
+// elements starting with index n. This way we reduce
+// the complexity from O(nlog(n)) to O(n) similarly to
+// using build instead of n modifications.
+void push(){
+  for(int i = 1; i < n; ++i){
+    t[i<<1] += t[i];
+    t[i<<1|1] += t[i];
+    t[i] = 0;
+  }
+}
+```
+
