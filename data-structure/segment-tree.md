@@ -199,3 +199,83 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/482/B" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int N = 1e5;
+int n;
+vector<int> t;
+void build(){
+  for(int i = n-1; i > 0; --i){
+    t[i] = t[2*i] + t[2*i+1];
+  }
+}
+int query(int l,int r){
+  int res = 0;
+  l += n;
+  r += n;
+  while(l < r){
+    if(l&1){
+      res += t[l];
+      ++l;
+    }
+    if(r&1){
+      res += t[r-1];
+      --r;
+    }
+    l /= 2;
+    r /= 2;
+  }
+  return res;
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int m,l,r,q;
+  cin >> n >> m;
+  vector<tuple<int,int,int>> qs;
+  while(m--){
+    cin >> l >> r >> q;
+    qs.emplace_back(l-1,r-1,q);
+  }
+  vector<int> ans(n);
+  for(int pos = 0; pos < 30; ++pos){
+    t = vector<int>(2*n);
+    vector<int> cnt(n+1);
+    for(auto& tpl : qs){
+      tie(l,r,q) = tpl;
+      if(q&(1<<pos)){
+        ++cnt[l];
+        --cnt[r+1];
+      }
+    }
+    for(int i = 0; i < n; ++i){
+      if(i > 0) cnt[i] += cnt[i-1];
+      if(cnt[i] > 0){
+        t[n+i] = 1;
+        ans[i] += (1<<pos);
+      }
+    }
+    build();
+    for(auto& tpl : qs){
+      tie(l,r,q) = tpl;
+      if(q&(1<<pos)){
+        if(query(l,r+1) < r-l+1){
+          cout << "NO";
+          return 0;
+        }
+      }
+      else if(query(l,r+1) == r-l+1){
+        cout << "NO";
+        return 0;
+      }
+    }
+  }
+  cout << "YES\n";
+  for(int i : ans) cout << i << ' ';
+  return 0;
+}
+```
+
