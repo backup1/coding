@@ -37,6 +37,7 @@
 * [DP on Array](methods/dp-on-array.md)
 * [Binary Lifting Method](methods/binary-lifting-method.md)
 * [Implicit Graph](methods/implicit-graph.md)
+* [String - KMP](methods/string-kmp.md)
 
 ## Utilities
 
