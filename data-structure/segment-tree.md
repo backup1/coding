@@ -339,3 +339,66 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/contest/474/problem/F" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+vector<pair<int,int>> segt;
+int getGCD(int l,int r){
+  int ret = 0;
+  while(l <= r){
+    if(l&1){
+      ret = __gcd(ret,segt[l].first);
+      ++l;
+    }
+    if(r%2 == 0){
+      ret = __gcd(ret,segt[r].first);
+      --r;
+    }
+    l >>= 1;
+    r >>= 1;
+  }
+  return ret;
+}
+int getNb(int l,int r,int gcd){
+  int ret = 0;
+  while(l <= r){
+    if(l&1){
+      if(gcd == segt[l].first) ret += segt[l].second;
+      ++l;
+    }
+    if(r%2 == 0){
+      if(gcd == segt[r].first) ret += segt[r].second;
+      --r;
+    }
+    l >>= 1;
+    r >>= 1;
+  }
+  return ret;
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int n,t,l,r;
+  cin >> n;
+  segt = vector<pair<int,int>>(2*n);
+  for(int i = n; i < 2*n; ++i){
+    cin >> segt[i].first;
+    segt[i].second = 1;
+  }
+  for(int i = n-1; i >= 1; --i){
+    segt[i].first = __gcd(segt[2*i].first,segt[2*i+1].first);
+    if(segt[i].first == segt[2*i].first) segt[i].second += segt[2*i].second;
+    if(segt[i].first == segt[2*i+1].first) segt[i].second += segt[2*i+1].second;
+  }
+  cin >> t;
+  while(t--){
+    cin >> l >> r;
+    int gcd = getGCD(n+l-1,n+r-1);
+    cout << r-l+1-getNb(n+l-1,n+r-1,gcd) << '\n';
+  }
+  return 0;
+}
+```
+
