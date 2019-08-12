@@ -279,3 +279,63 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/1198/B" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+const ll inf = (LLONG_MAX>>2);
+vector<ll> segt;
+ll get(ll idx,ll left,ll right,ll pos){
+  if(right-left <= 1) return segt[idx];
+  if(segt[idx] > -inf){
+    segt[2*idx+1] = max(segt[2*idx+1],segt[idx]);
+    segt[2*idx+2] = max(segt[2*idx+2],segt[idx]);
+    segt[idx] = -inf;
+  }
+  ll mid = (left+right)/2;
+  if(pos < mid) return get(2*idx+1,left,mid,pos);
+  return get(2*idx+2,mid,right,pos);
+}
+void update(ll idx,ll left,ll right,ll pos,ll val){
+  if(right-left <= 1){
+    segt[idx] = val;
+    return;
+  }
+  if(segt[idx] > -inf){
+    segt[2*idx+1] = max(segt[2*idx+1],segt[idx]);
+    segt[2*idx+2] = max(segt[2*idx+2],segt[idx]);
+    segt[idx] = -inf;
+  }
+  ll mid = (left+right)/2;
+  if(pos < mid) update(2*idx+1,left,mid,pos,val);
+  else update(2*idx+2,mid,right,pos,val);
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll n,q,a,op,p,x;
+  cin >> n;
+  segt = vector<ll>(1000000,-inf);
+  for(ll i = 0; i < n; ++i){
+    cin >> a;
+    update(1,0,n,i,a);
+  }
+  cin >> q;
+  while(q--){
+    cin >> op;
+    if(op == 1){
+      cin >> p >> x;
+      update(1,0,n,p-1,x);
+    }
+    else{
+      cin >> x;
+      segt[1] = max(segt[1],x);
+    }
+  }
+  for(ll i = 0; i < n; ++i) cout << get(1,0,n,i) << ' ';
+  return 0;
+}
+```
+
