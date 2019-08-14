@@ -4,7 +4,7 @@
 
 {% embed url="https://atcoder.jp/contests/dp/tasks/dp\_r" %}
 
-## TODO
+## Fermat's little theorem
 
 {% embed url="https://atcoder.jp/contests/abc137/tasks/abc137\_f" %}
 
