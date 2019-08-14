@@ -10,6 +10,7 @@
 * [Complex Number](mathematics/complex-number.md)
 * [Questions](mathematics/questions.md)
 * [TODO](mathematics/todo.md)
+* [Summary](mathematics/summary.md)
 
 ## Data Structure
 

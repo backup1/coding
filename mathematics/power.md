@@ -3,9 +3,9 @@
 ## Modular Power
 
 ```cpp
-const long long MOD = 1e9+7;
-long long getPow(long long a,long long p){
-  long long ret = 1,cp = a;
+const ll MOD = 1e9+7;
+ll getPow(ll a,ll p){
+  ll ret = 1,cp = a;
   while(p){
     if(p&1) ret = (ret*cp)%MOD;
     p >>= 1;
@@ -18,9 +18,9 @@ long long getPow(long long a,long long p){
 ## Modular Inverse
 
 ```cpp
-const long long MOD = 1e9+7; // prime number
-long long getPow(long long a,long long p){
-  long long ret = 1,cp = a;
+const ll MOD = 1e9+7; // prime number
+ll getPow(ll a,ll p){
+  ll ret = 1,cp = a;
   while(p){
     if(p&1) ret = (ret*cp)%MOD;
     p >>= 1;
@@ -28,7 +28,7 @@ long long getPow(long long a,long long p){
   }
   return ret;
 }
-long long getInverse(long long a){
+ll getInverse(ll a){
   return getPow(a,MOD-2)%MOD;
 }
 ```
