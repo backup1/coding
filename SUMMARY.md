@@ -16,6 +16,7 @@
 
 * [Union Find](data-structure/union-find.md)
 * [Segment Tree](data-structure/segment-tree.md)
+* [Lazy Segment Tree](data-structure/lazy-segment-tree.md)
 * [Prefix Tree](data-structure/prefix-tree.md)
 * [Indexed Set](data-structure/indexed-set.md)
 * [Bitset](data-structure/bitset.md)
