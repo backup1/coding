@@ -21,6 +21,7 @@
 * [Indexed Set](data-structure/indexed-set.md)
 * [Bitset](data-structure/bitset.md)
 * [Deque](data-structure/deque.md)
+* [2D Segment Tree](data-structure/2d-segment-tree.md)
 
 ## Graph
 

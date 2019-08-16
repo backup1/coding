@@ -402,3 +402,59 @@ int main(){
 }
 ```
 
+## With index compression
+
+{% embed url="https://www.spoj.com/problems/BGSHOOT/" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+vector<ll> v;
+inline ll query(ll b,ll e){
+  ll ans = 0;
+  while(b <= e){
+    if(b%2 == 1) ans = max(ans,v[b++]);
+    if(e%2 == 0) ans = max(ans,v[e--]);
+    b >>= 1;
+    e >>= 1;
+  }
+  return ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  ll N,Q,a,b;
+  cin >> N;
+  vector<pair<ll,ll>> vp;
+  set<ll> xs;
+  for(ll i = 0; i < N; ++i){
+    cin >> a >> b;
+    vp.emplace_back(a,b);
+    xs.insert(a);
+    xs.insert(b);
+  }
+  vector<ll> vxs;
+  vxs.assign(begin(xs),end(xs));
+  ll n = vxs.size();
+  map<ll,ll> mx;
+  for(ll i = 0; i < n; ++i) mx[vxs[i]] = i;
+  v = vector<ll>(4*n+1);
+  for(ll i = 0; i < N; ++i){
+    tie(a,b) = vp[i];
+    ++v[2*n+2*mx[a]];
+    --v[2*n+2*mx[b]+1];
+  }
+  for(ll i = 2*n+1; i <= 4*n; ++i) v[i] += v[i-1];
+  for(ll i = 2*n-1; i > 0; --i) v[i] = max(v[2*i],v[2*i+1]);
+  cin >> Q;
+  while(Q--){
+    cin >> a >> b;
+    ll xa = lower_bound(begin(vxs),end(vxs),a)-begin(vxs);
+    ll xb = upper_bound(begin(vxs),end(vxs),b)-begin(vxs);
+    cout << query(2*n+2*xa-1,2*n+2*xb-1) << '\n';
+  }
+  return 0;
+}
+```
+
