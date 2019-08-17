@@ -20,6 +20,7 @@
 * [2D Segment Tree](data-structure/2d-segment-tree.md)
 * [Prefix Tree](data-structure/prefix-tree.md)
 * [Indexed Set](data-structure/indexed-set.md)
+* [Rope](data-structure/rope.md)
 * [Bitset](data-structure/bitset.md)
 * [Deque](data-structure/deque.md)
 
