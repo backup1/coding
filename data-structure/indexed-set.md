@@ -1,5 +1,7 @@
 # Indexed Set
 
+Tags : `rb_tree_tag`\(red-black tree\), `splay_tree_tag` \(splay tree\) and `ov_tree_tag` \(ordered-vector tree\). Sadly, at competitions we can use only red-black trees for this because splay tree and OV-tree using linear-timed split operation that prevents us to use them.
+
 ## Problems
 
 {% embed url="https://codeforces.com/problemset/problem/1154/E" %}
