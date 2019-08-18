@@ -2,7 +2,40 @@
 
 Tags : `rb_tree_tag`\(red-black tree\), `splay_tree_tag` \(splay tree\) and `ov_tree_tag` \(ordered-vector tree\). Sadly, at competitions we can use only red-black trees for this because splay tree and OV-tree using linear-timed split operation that prevents us to use them.
 
+index starting from 0.
+
 ## Problems
+
+{% embed url="https://www.spoj.com/problems/ORDERSET/" %}
+
+```cpp
+#include <bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+using namespace std;
+using namespace __gnu_pbds;
+using ll = long long;
+using indexed_set = tree<ll,null_type,less<ll>,rb_tree_tag,tree_order_statistics_node_update>;
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll q,x;
+  char c;
+  cin >> q;
+  indexed_set st;
+  while(q--){
+    cin >> c >> x;
+    if(c == 'I') st.insert(x);
+    else if(c == 'D') st.erase(x);
+    else if(c == 'K'){
+      auto it = st.find_by_order(x-1);
+      if(it == end(st)) cout << "invalid\n";
+      else cout << *it << '\n';
+    }
+    else cout << st.order_of_key(x) << '\n';
+  }
+  return 0;
+}
+```
 
 {% embed url="https://codeforces.com/problemset/problem/1154/E" %}
 
