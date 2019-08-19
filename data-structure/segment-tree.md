@@ -507,3 +507,85 @@ int main(){
 }
 ```
 
+## Others
+
+{% embed url="https://www.spoj.com/problems/ILKQUERY2/" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int N = 100005;
+vector<int> a(N);
+map<int,int> ml;
+map<int,vector<int>> m,m2;
+inline int getCnt(int val,int left,int right){
+  int ans = 0;
+  while(left <= right){
+    if(left&1){
+      ans += m2[val][left];
+      ++left;
+    }
+    if(right%2 == 0){
+      ans += m2[val][right];
+      --right;
+    }
+    left >>= 1;
+    right >>= 1;
+  }
+  return ans;
+}
+inline void updCnt(int val,int idx,int delta){
+  while(idx >= 1){
+    m2[val][idx] += delta;
+    idx >>= 1;
+  }
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int n,q,cmd,l,r,k;
+  cin >> n >> q;
+  for(int i = 0; i < n; ++i){
+    cin >> a[i];
+    m[a[i]].push_back(i);
+  }
+  for(auto& p : m){
+    int val = p.first;
+    ml[val] = p.second.size();
+    m2[val] = vector<int>(2*ml[val],1);
+    for(int i = ml[val]-1; i > 0; --i){
+      m2[val][i] = m2[val][2*i] + m2[val][2*i+1];
+    }
+  }
+  while(q--){
+    cin >> cmd;
+    if(cmd == 0){
+      cin >> l >> r >> k;
+      if(!m.count(k)){
+        cout << 0 << '\n';
+        continue;
+      }
+      auto it1 = lower_bound(begin(m[k]),end(m[k]),l);
+      if(it1 == end(m[k])){
+        cout << 0 << '\n';
+        continue;
+      }
+      int left = it1-begin(m[k]);
+      int right = upper_bound(begin(m[k]),end(m[k]),r)-begin(m[k]);
+      left += ml[k];
+      right += ml[k]-1;
+      cout << getCnt(k,left,right) << '\n';
+    }
+    else{
+      cin >> r;
+      int val = a[r];
+      int idx = lower_bound(begin(m[val]),end(m[val]),r)-begin(m[val]);
+      idx += ml[val];
+      if(m2[val][idx] == 1) updCnt(val,idx,-1);
+      else updCnt(val,idx,1);
+    }
+  }
+  return 0;
+}
+```
+
