@@ -458,3 +458,52 @@ int main(){
 }
 ```
 
+## Update on interval and query on points
+
+{% embed url="https://www.spoj.com/problems/UPDATEIT/" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+vector<int> v;
+int querySum(int l,int r){
+  int ans = 0;
+  while(l <= r){
+    if(l&1){
+      ans += v[l];
+      ++l;
+    }
+    if(r%2 == 0){
+      ans += v[r];
+      --r;
+    }
+    l >>= 1;
+    r >>= 1;
+  }
+  return ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int t;
+  cin >> t;
+  while(t--){
+    int n,u,q,l,r,val,idx;
+    cin >> n >> u;
+    v = vector<int>(2*n+5);
+    while(u--){
+      cin >> l >> r >> val;
+      v[n+l] += val;
+      v[n+r+1] -= val;
+    }
+    for(int i = n-1; i > 0; --i) v[i] = v[2*i] + v[2*i+1];
+    cin >> q;
+    while(q--){
+      cin >> idx;
+      cout << querySum(n,n+idx) << '\n';
+    }
+  }
+  return 0;
+}
+```
+
