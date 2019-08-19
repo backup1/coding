@@ -42,6 +42,7 @@
 * [Binary Lifting Method](methods/binary-lifting-method.md)
 * [Implicit Graph](methods/implicit-graph.md)
 * [String - KMP](methods/string-kmp.md)
+* [Mo's algorithm](methods/mos-algorithm.md)
 
 ## Utilities
 
