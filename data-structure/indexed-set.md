@@ -125,3 +125,54 @@ int main(){
 }
 ```
 
+{% embed url="https://www.spoj.com/problems/ILKQUERY/" %}
+
+```cpp
+#include <bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+using namespace std;
+using namespace __gnu_pbds;
+using ll = long long;
+using indexed_set = tree<ll,null_type,less<ll>,rb_tree_tag,tree_order_statistics_node_update>;
+const ll shift = (1ll<<30);
+inline ll getKey(ll x,ll y){
+  return ((x+shift)<<20)+y;
+}
+inline ll getVal(ll x){
+  return (x>>20)-shift;
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll n,q,k,idx,l,qid;
+  cin >> n >> q;
+  vector<ll> a(n);
+  map<ll,vector<ll>> m;
+  for(ll i = 0; i < n; ++i){
+    cin >> a[i];
+    m[a[i]].push_back(i);
+  }
+  vector<tuple<ll,ll,ll,ll>> queries(q);
+  for(ll i = 0; i < q; ++i){
+    cin >> k >> idx >> l;
+    queries[i] = make_tuple(idx,k,l,i);
+  }
+  sort(begin(queries),end(queries));
+  vector<ll> ans(q,-1);
+  ll last = -1;
+  indexed_set st;
+  for(ll i = 0; i < q; ++i){
+    tie(idx,k,l,qid) = queries[i];
+    while(last < idx){
+      ++last;
+      st.insert(getKey(a[last],last));
+    }
+    auto it = st.find_by_order(k-1);
+    ll val = getVal(*it);
+    if(m[val].size() >= l) ans[qid] = m[val][l-1];
+  }
+  for(int i : ans) cout << i << '\n';
+  return 0;
+}
+```
+
