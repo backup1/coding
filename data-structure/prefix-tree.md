@@ -1,4 +1,4 @@
-# Prefix Tree
+# Trie / Prefix Tree
 
 ## Questions
 

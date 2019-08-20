@@ -18,7 +18,7 @@
 * [Segment Tree](data-structure/segment-tree.md)
 * [Lazy Segment Tree](data-structure/lazy-segment-tree.md)
 * [2D Segment Tree](data-structure/2d-segment-tree.md)
-* [Prefix Tree](data-structure/prefix-tree.md)
+* [Trie / Prefix Tree](data-structure/prefix-tree.md)
 * [Indexed Set](data-structure/indexed-set.md)
 * [Rope](data-structure/rope.md)
 * [Bitset](data-structure/bitset.md)
