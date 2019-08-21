@@ -24,6 +24,7 @@
 * [Rope](data-structure/rope.md)
 * [Bitset](data-structure/bitset.md)
 * [Deque](data-structure/deque.md)
+* [HLD / High Light Decomposition](data-structure/hld-high-light-decomposition.md)
 
 ## Graph
 
