@@ -36,6 +36,7 @@
 ## Tree
 
 * [Re-rooting \(DP\)](tree/re-rooting-dp.md)
+* [Tree with Segment Tree \(not HLD\)](tree/tree-with-segment-tree-not-hld.md)
 
 ## Methods
 
