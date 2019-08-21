@@ -72,6 +72,7 @@
 
 * [Classic Segment Tree](recipes/classic-segment-tree.md)
 * [Dynamic Segment Tree](recipes/dynamic-segment-tree.md)
+* [Big Integer](recipes/big-integer.md)
 
 ## Questions
 
