@@ -16,15 +16,15 @@
 
 * [Union Find](data-structure/union-find.md)
 * [Segment Tree](data-structure/segment-tree.md)
+* [2D Segment Tree](data-structure/2d-segment-tree.md)
 * [Lazy Segment Tree](data-structure/lazy-segment-tree.md)
 * [Persistent Segment Tree](data-structure/persistent-segment-tree.md)
-* [2D Segment Tree](data-structure/2d-segment-tree.md)
+* [HLD / High Light Decomposition](data-structure/hld-high-light-decomposition.md)
 * [Trie / Prefix Tree](data-structure/prefix-tree.md)
 * [Indexed Set](data-structure/indexed-set.md)
 * [Rope](data-structure/rope.md)
 * [Bitset](data-structure/bitset.md)
 * [Deque](data-structure/deque.md)
-* [HLD / High Light Decomposition](data-structure/hld-high-light-decomposition.md)
 
 ## Graph
 
