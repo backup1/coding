@@ -60,3 +60,53 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/86/D" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+const ll N = 1e6+5;
+const ll bloc = 500;
+ll cnt[N],psum;
+inline void add(int val){
+  psum += (2*cnt[val]+1)*val;
+  ++cnt[val];
+}
+inline void remove(int val){
+  --cnt[val];
+  psum -= (2*cnt[val]+1)*val;
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll n,t,l,r,idx;
+  cin >> n >> t;
+  vector<ll> a(n);
+  for(ll i = 0; i < n; ++i) cin >> a[i];
+  vector<tuple<ll,ll,ll>> cmds;
+  for(ll i = 0; i < t; ++i){
+    cin >> l >> r;
+    cmds.emplace_back(l-1,r-1,i);
+  }
+  sort(begin(cmds),end(cmds),[](const tuple<ll,ll,ll>& c1,const tuple<ll,ll,ll>& c2){
+    int b1 = get<0>(c1)/bloc, b2 = get<0>(c2)/bloc;
+    if(b1 != b2) return b1 < b2;
+    return get<1>(c1) < get<1>(c2);
+  });
+  vector<ll> ans(t);
+  psum = 0;
+  ll mo_left = 0,mo_right = -1;
+  for(auto& tpl : cmds){
+    tie(l,r,idx) = tpl;
+    while(mo_right < r) ++mo_right, add(a[mo_right]);
+    while(mo_right > r) remove(a[mo_right]), mo_right--;
+    while(mo_left < l) remove(a[mo_left]), mo_left++;
+    while(mo_left > l) --mo_left, add(a[mo_left]);
+    ans[idx] = psum;
+  }
+  for(int i = 0; i < t; ++i) cout << ans[i] << '\n';
+  return 0;
+}
+```
+
