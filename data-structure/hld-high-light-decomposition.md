@@ -189,3 +189,108 @@ int main(){
 }
 ```
 
+{% embed url="https://www.spoj.com/problems/QTREE3/" %}
+
+The solution below get only 41.67 points over 100. Any idea ?
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+const ll N = 1000005;
+ll chainNo;
+vector<ll> parent;
+ll key[N],subsz[N],chainSz[N],chainHead[N],chainIdx[N],posInChain[N];
+vector<ll> adj[N];
+set<ll> chainSet[N];
+inline ll getKey(ll pos,ll node){
+  return (pos<<20)+node;
+}
+inline pair<ll,ll> getVal(ll x){
+  return {x>>20,x&((1<<20)-1)};
+}
+inline void dfs(ll node,ll pere){
+  parent[node] = pere;
+  subsz[node ] = 1;
+  for(ll i : adj[node]){
+    if(i == pere) continue;
+    dfs(i,node);
+    subsz[node] += subsz[i];
+  }
+}
+inline void HLD(ll node,ll pere){
+  if(chainHead[chainNo] == -1) chainHead[chainNo] = node;
+  chainIdx[node] = chainNo;
+  posInChain[node] = chainSz[chainNo];
+  ++chainSz[chainNo];
+  ll schild = -1;
+  for(ll i : adj[node]){
+    if(i == pere) continue;
+    if(schild == -1 or subsz[schild] < subsz[i]){
+      schild = i;
+    }
+  }
+  if(schild != -1) HLD(schild,node);
+  for(ll i : adj[node]){
+    if(i == pere) continue;
+    if(i == schild) continue;
+    ++chainNo;
+    HLD(i,node);
+  }
+}
+int main(){
+  ll n,q,u,v,cmd;
+  scanf("%lld%lld",&n,&q);
+  if(n == 0){
+    while(q--){
+      scanf("%lld%lld",&cmd,&u);
+      cout << "-1\n";
+    }
+    return 0;
+  }
+  chainNo = 0;
+  parent = vector<ll>(n,-1);
+  for(ll i = 0; i < n-1; ++i){
+    scanf("%lld%lld",&u,&v);
+    --u;
+    --v;
+    adj[u].push_back(v);
+    adj[v].push_back(u);
+  }
+  dfs(0,-1);
+  HLD(0,-1);
+  for(ll i = 0; i < n; ++i){
+    key[i] = getKey(posInChain[i],i);
+  }
+  while(q--){
+    scanf("%lld%lld",&cmd,&u);
+    --u;
+    if(cmd == 0){
+      set<ll>& st = chainSet[chainIdx[u]];
+      if(st.count(key[u])) st.erase(key[u]);
+      else st.insert(key[u]);
+    }
+    else{
+      bool ok = false;
+      ll x,y,ans;
+      while(true){
+        ll uchain = chainIdx[u];
+        if(!chainSet[uchain].empty()){
+          tie(x,y) = getVal(*begin(chainSet[uchain]));
+          if(x <= posInChain[u]){
+            ans = y+1;
+            ok = true;
+          }
+        }
+        u = chainHead[uchain];
+        if(u == 0) break;
+        u = parent[u];
+      }
+      if(ok) printf("%lld\n",ans);
+      else printf("-1\n");
+    }
+  }
+  return 0;
+}
+```
+
