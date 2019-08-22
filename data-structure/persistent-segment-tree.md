@@ -115,7 +115,7 @@ inline int LCA(int u,int v){
   }
   return parent[0][u];
 }
-inline query(node *u,node *v,node *lca,node *plca,int left,int right,int k){
+inline int query(node *u,node *v,node *lca,node *plca,int left,int right,int k){
   if(left+1 == right) return left;
   int cnt = u->left->count + v->left->count - lca->left->count - plca->left->count;
   int mid = (left+right)/2;
