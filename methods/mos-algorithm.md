@@ -110,3 +110,61 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/220/B" %}
+
+best bloc size is not 100, by the way :-\)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int N = 1e5;
+const int bloc = 100;
+vector<int> a;
+int cnt[N+5],psum;
+inline void add(int val){
+  if(val <= N){
+    ++cnt[val];
+    if(cnt[val] == val) ++psum;
+    else if(cnt[val] == val+1) --psum;
+  }
+}
+inline void remove(int val){
+  if(val <= N){
+    --cnt[val];
+    if(cnt[val] == val) ++psum;
+    else if(cnt[val] == val-1) --psum;
+  }
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int n,m,l,r,idx;
+  cin >> n >> m;
+  a = vector<int>(n);
+  for(int i = 0; i < n; ++i) cin >> a[i];
+  vector<tuple<int,int,int>> queries(m);
+  for(int i = 0; i < m; ++i){
+    cin >> l >> r;
+    queries[i] = make_tuple(l-1,r-1,i);
+  }
+  sort(begin(queries),end(queries),[](const tuple<int,int,int>& t1,const tuple<int,int,int>& t2){
+    int b1 = get<0>(t1)/bloc, b2 = get<0>(t2)/bloc;
+    if(b1 != b2) return b1 < b2;
+    return get<1>(t1) < get<1>(t2);
+  });
+  vector<int> ans(m);
+  psum = 0;
+  int mo_left = 0,mo_right = -1;
+  for(auto& t : queries){
+    tie(l,r,idx) = t;
+    while(mo_right < r) ++mo_right, add(a[mo_right]);
+    while(mo_right > r) remove(a[mo_right]), mo_right--;
+    while(mo_left < l) remove(a[mo_left]), mo_left++;
+    while(mo_left > l) --mo_left, add(a[mo_left]);
+    ans[idx] = psum;
+  }
+  for(int i : ans) cout << i << '\n';
+  return 0;
+}
+```
+
