@@ -35,3 +35,41 @@ int main(){
 }
 ```
 
+{% embed url="https://www.spoj.com/problems/AROPE/" %}
+
+```cpp
+#include <bits/stdc++.h>
+#include <ext/rope>
+using namespace std;
+using namespace __gnu_cxx;
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  string s;
+  cin >> s;
+  rope<char> S = s.c_str();
+  int Q,cmd,x,y;
+  cin >> Q;
+  while(Q--){
+    cin >> cmd;
+    if(cmd == 1){
+      cin >> x >> y;
+      rope<char> tmp = S.substr(x,y-x+1);
+      S.erase(x,y-x+1);
+      S = tmp + S;
+    }
+    else if(cmd == 2){
+      cin >> x >> y;
+      rope<char> tmp = S.substr(x,y-x+1);
+      S.erase(x,y-x+1);
+      S = S + tmp;
+    }
+    else{
+      cin >> y;
+      cout << S[y] << '\n';
+    }
+  }
+  return 0;
+}
+```
+

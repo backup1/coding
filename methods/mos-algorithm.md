@@ -168,3 +168,58 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/contest/617/problem/E" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+const ll N = (1<<20)+5;
+const ll bloc = 333;
+ll cnt[N],ret,k;
+vector<ll> prefix;
+inline void add(ll val){
+  ret += cnt[val^k];
+  ++cnt[val];
+}
+inline void remove(ll val){
+  --cnt[val];
+  ret -= cnt[val^k];
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll n,m,l,r,idx;
+  cin >> n >> m >> k;
+  prefix = vector<ll>(n+1);
+  for(ll i = 1; i <= n; ++i){
+    cin >> prefix[i];
+    prefix[i] ^= prefix[i-1];
+  }
+  vector<tuple<ll,ll,ll>> queries(m);
+  for(ll i = 0; i < m; ++i){
+    cin >> l >> r;
+    queries[i] = make_tuple(l,r,i);
+  }
+  sort(begin(queries),end(queries),[](const tuple<ll,ll,ll>& t1,const tuple<ll,ll,ll>& t2){
+    ll b1 = get<0>(t1)/bloc, b2 = get<0>(t2)/bloc;
+    if(b1 != b2) return b1 < b2;
+    return get<1>(t1) < get<1>(t2);
+  });
+  vector<ll> ans(m);
+  ret = 0;
+  ll mo_left = 0,mo_right = -1;
+  for(auto& t : queries){
+    tie(l,r,idx) = t;
+    --l;
+    while(mo_right < r) ++mo_right, add(prefix[mo_right]);
+    while(mo_right > r) remove(prefix[mo_right]), mo_right--;
+    while(mo_left < l) remove(prefix[mo_left]), mo_left++;
+    while(mo_left > l) --mo_left, add(prefix[mo_left]);
+    ans[idx] = ret;
+  }
+  for(ll i : ans) cout << i << '\n';
+  return 0;
+}
+```
+
