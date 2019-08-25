@@ -2,9 +2,9 @@
 
 Key points of the classical Mo's algorithm:
 
-1. No updates;
-2. Bloc size is $$\sqrt{n}$$
-3. comp function for the sort :
+1. No updates among all queries;
+2. Bloc size is $$\sqrt{n}$$, complexity is $$O((n+q)\sqrt{n})$$
+3. Comparison function for the sort :
 
 ```cpp
 inline bool mo_cmp(const tuple<int,int,int>& x,const tuple<int,int,int>& y){
