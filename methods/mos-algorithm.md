@@ -1,5 +1,19 @@
 # Mo's algorithm
 
+Key points of the classical Mo's algorithm:
+
+1. No updates;
+2. Bloc size is $$\sqrt{n}$$
+3. comp function for the sort :
+
+```cpp
+inline bool mo_cmp(const tuple<int,int,int>& x,const tuple<int,int,int>& y){
+  int block_x = get<0>(x)/BLOCK, block_y = get<0>(y)/BLOCK;
+  if(block_x != block_y) return block_x < block_y;
+  return (block_x < block_y) ? (get<1>(x) < get<1>(y)) : (get<1>(x) > get<1>(y));
+}
+```
+
 {% embed url="https://www.hackerearth.com/fr/practice/notes/mos-algorithm/" %}
 
 The algorithm is applicable if all following conditions are met:
