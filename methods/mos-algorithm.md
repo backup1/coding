@@ -64,9 +64,9 @@ int main(){
   for(int i = 0; i < q; ++i){
     tie(l,r,idx) = queries[i];
     while(mo_right < r) ++mo_right, add(a[mo_right]);
+    while(mo_left > l) --mo_left, add(a[mo_left]);
     while(mo_right > r) remove(a[mo_right]), mo_right--;
     while(mo_left < l) remove(a[mo_left]), mo_left++;
-    while(mo_left > l) --mo_left, add(a[mo_left]);
     ans[idx] = cnt;
   }
   for(int i = 0; i < q; ++i) printf("%d\n",ans[i]);
@@ -114,9 +114,9 @@ int main(){
   for(auto& tpl : cmds){
     tie(l,r,idx) = tpl;
     while(mo_right < r) ++mo_right, add(a[mo_right]);
+    while(mo_left > l) --mo_left, add(a[mo_left]);
     while(mo_right > r) remove(a[mo_right]), mo_right--;
     while(mo_left < l) remove(a[mo_left]), mo_left++;
-    while(mo_left > l) --mo_left, add(a[mo_left]);
     ans[idx] = psum;
   }
   for(int i = 0; i < t; ++i) cout << ans[i] << '\n';
@@ -172,9 +172,9 @@ int main(){
   for(auto& t : queries){
     tie(l,r,idx) = t;
     while(mo_right < r) ++mo_right, add(a[mo_right]);
+    while(mo_left > l) --mo_left, add(a[mo_left]);
     while(mo_right > r) remove(a[mo_right]), mo_right--;
     while(mo_left < l) remove(a[mo_left]), mo_left++;
-    while(mo_left > l) --mo_left, add(a[mo_left]);
     ans[idx] = psum;
   }
   for(int i : ans) cout << i << '\n';
@@ -227,12 +227,104 @@ int main(){
     tie(l,r,idx) = t;
     --l;
     while(mo_right < r) ++mo_right, add(prefix[mo_right]);
+    while(mo_left > l) --mo_left, add(prefix[mo_left]);
     while(mo_right > r) remove(prefix[mo_right]), mo_right--;
     while(mo_left < l) remove(prefix[mo_left]), mo_left++;
-    while(mo_left > l) --mo_left, add(prefix[mo_left]);
     ans[idx] = ret;
   }
   for(ll i : ans) cout << i << '\n';
+  return 0;
+}
+```
+
+{% embed url="https://www.spoj.com/problems/ADANUM/" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+const int N = 2e5+5;
+const int bloc = 447;
+int dn[N],cnt[N];
+ll L[N],H[N];
+ll ret;
+struct query{
+  int l,r,idx;
+  query() : l(-1), r(-1), idx(-1) {}
+  query(int _l,int _r,int _idx) : l(_l), r(_r), idx(_idx) {}
+  ~query() = default;
+  inline bool operator<(const query& q){
+    if(dn[l] != dn[q.l]) return l < q.l;
+    return (dn[l]&1) ? (r < q.r) : (r > q.r);
+  }
+};
+inline void add(int idx){
+  int val = cnt[idx];
+  ++cnt[idx];
+  ll low = L[val];
+  if(H[val] == L[val]){
+    H[val] = -1ll;
+    L[val] = -1ll;
+  }
+  else L[val]++;
+  H[val+1] = low;
+  if(L[val+1] == -1ll) L[val+1] = low;
+  ret += low+1ll;
+}
+inline void remove(int idx){
+  int val = cnt[idx];
+  --cnt[idx];
+  ll high = H[val];
+  if(H[val] == L[val]){
+    H[val] = -1ll;
+    L[val] = -1ll;
+  }
+  else H[val]--;
+  L[val-1] = high;
+  if(H[val-1] == -1ll) H[val-1] = high;
+  ret -= high+1ll;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int n,q,l,r;
+  cin >> n >> q;
+  vector<int> a(n);
+  map<int,int> midx;
+  for(int i = 0; i < n; ++i){
+    cin >> a[i];
+    midx[a[i]];
+    dn[i] = i/bloc;
+  }
+  int nb = 0;
+  for(auto& p : midx) midx[p.first] = nb++;
+  for(int i = 0; i < n; ++i) a[i] = midx[a[i]];
+  vector<query> queries;
+  queries.reserve(q);
+  for(int i = 0; i < q; ++i){
+    cin >> l >> r;
+    queries.push_back(query(l-1,r-1,i));
+  }
+  sort(begin(queries),end(queries));
+  ret = 0ll;
+  int mo_left = 0,mo_right = -1;
+  vector<ll> ans(q);
+  L[0] = 0ll;
+  H[0] = N;
+  for(int i = 1; i < N; ++i){
+    L[i] = -1;
+    H[i] = -1;
+  }
+  int pos = 0;
+  for(const auto& t : queries){
+    ++pos;
+    while(mo_right < t.r) ++mo_right, add(a[mo_right]);
+    while(mo_left > t.l) --mo_left, add(a[mo_left]);
+    while(mo_right > t.r) remove(a[mo_right]), mo_right--;
+    while(mo_left < t.l) remove(a[mo_left]), mo_left++;
+    ans[t.idx] = ret;
+  }
+  for(int i = 0; i < q; ++i) cout << ans[i] << '\n';
   return 0;
 }
 ```
