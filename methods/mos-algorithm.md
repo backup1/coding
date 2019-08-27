@@ -315,9 +315,7 @@ int main(){
     L[i] = -1;
     H[i] = -1;
   }
-  int pos = 0;
   for(const auto& t : queries){
-    ++pos;
     while(mo_right < t.r) ++mo_right, add(a[mo_right]);
     while(mo_left > t.l) --mo_left, add(a[mo_left]);
     while(mo_right > t.r) remove(a[mo_right]), mo_right--;
