@@ -71,5 +71,35 @@ int main(){
 
 {% embed url="https://codeforces.com/contest/1207/problem/F" %}
 
-
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+const ll N = 5e5;
+const ll Q = 710;
+ll a[N+5];
+ll R[Q][Q];
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll q,cmd,x,y;
+  cin >> q;
+  while(q--){
+    cin >> cmd >> x >> y;
+    if(cmd == 1){
+      for(ll i = 1; i < Q; ++i) R[i][x%i] += y;
+      a[x] += y;
+    }
+    else{
+      if(x < Q) cout << R[x][y] << '\n';
+      else{
+        ll ans = 0;
+        for(ll i = y; i <= N; i += x) ans += a[i];
+        cout << ans << '\n';
+      }
+    }
+  }
+  return 0;
+}
+```
 
