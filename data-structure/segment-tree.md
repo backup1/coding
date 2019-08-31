@@ -589,3 +589,115 @@ int main(){
 }
 ```
 
+{% embed url="https://www.spoj.com/problems/IQUERY/" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+const ll MOD = 1e9+7;
+ll n;
+vector<ll> mult,bit[17];
+inline ll getPow(ll a,ll p){
+  ll ret = 1,cp = a;
+  while(p){
+    if(p&1) ret = (ret*cp)%MOD;
+    p >>= 1;
+    cp = (cp*cp)%MOD;
+  }
+  return ret;
+}
+inline ll getInverse(ll a){
+  return getPow(a,MOD-2)%MOD;
+}
+inline void init(){
+  for(ll i = n-1; i > 0; --i){
+    ll i1 = (i<<1), i2 = i1+1;
+    mult[i] = (mult[i1]*mult[i2])%MOD;
+    for(ll j = 0; j < 17; ++j) bit[j][i] = bit[j][i1]+bit[j][i2];
+  }
+}
+inline void update(ll pos,ll val){
+  ll posm = pos,oldinv = getInverse(mult[pos]),delta = ((val+1)*oldinv)%MOD;
+  do{
+    mult[posm] = (mult[posm]*delta)%MOD;
+    posm >>= 1;
+  } while(posm > 0);
+  for(ll j = 0; j < 17; ++j){
+    ll posb = pos,oldval = bit[j][posb],newval = (val>>j)&1,delta = newval-oldval;
+    if(delta == 0) continue;
+    do{
+      bit[j][posb] += delta;
+      posb >>= 1;
+    } while(posb > 0);
+  }
+}
+inline ll getM(ll b,ll e){
+  ll ans = 1;
+  while(b <= e){
+    if(b&1){
+      ans = (ans*mult[b])%MOD;
+      ++b;
+    }
+    if(e%2 == 0){
+      ans = (ans*mult[e])%MOD;
+      --e;
+    }
+    b >>= 1;
+    e >>= 1;
+  }
+  return (ans+MOD-1)%MOD;
+}
+inline ll getB(ll b,ll e){
+  ll ans = 0;
+  for(ll i = 0; i < 17; ++i){
+    ll tmp = 0,bi = b,ei = e;
+    while(bi <= ei){
+      if(bi&1){
+        tmp += bit[i][bi];
+        ++bi;
+      }
+      if(ei%2 == 0){
+        tmp += bit[i][ei];
+        --ei;
+      }
+      bi >>= 1;
+      ei >>= 1;
+    }
+    ans = (ans+(getPow(2,tmp)-1)*getPow(2,i))%MOD;
+  }
+  return ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  ll a,b,q;
+  cin >> n;
+  mult = vector<ll>(2*n);
+  for(ll i = 0; i < 17; ++i) bit[i] = vector<ll>(2*n);
+  for(ll i = 0; i < n; ++i){
+    cin >> a;
+    mult[n+i] = a+1;
+    for(ll j = 0; j < 17; ++j){
+      if((a>>j)&1) bit[j][n+i] = 1;
+    }
+  }
+  init();
+  cin >> q;
+  char cmd;
+  while(q--){
+    cin >> cmd >> a >> b;
+    if(cmd == 'U'){
+      update(n+a-1,b);
+    }
+    else if(cmd == 'M'){
+      cout << getM(n+a-1,n+b-1) << '\n';
+    }
+    else{
+      cout << getB(n+a-1,n+b-1) << '\n';
+    }
+  }
+  return 0;
+}
+```
+
