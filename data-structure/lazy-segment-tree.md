@@ -155,3 +155,114 @@ int main(){
 }
 ```
 
+{% embed url="https://www.spoj.com/problems/ZING01/" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int N = 100005;
+int n;
+vector<vector<int>> segt(26,vector<int>(4*N+5)),lazy(26,vector<int>(4*N+5,-1));
+inline void update(int n,int idx,int left,int right,int pos,int val){
+  if(right-left <= 1){
+    segt[n][idx] = val;
+    return;
+  }
+  int mid = (left+right)/2;
+  if(pos < mid) update(n,2*idx,left,mid,pos,val);
+  else update(n,2*idx+1,mid,right,pos,val);
+  segt[n][idx] = segt[n][2*idx] + segt[n][2*idx+1];
+}
+inline void updateLazy(int n,int idx,int left,int right,int L,int R,int val){
+  if(lazy[n][idx] != -1){
+    segt[n][idx] = (right-left)*lazy[n][idx];
+    lazy[n][2*idx] = lazy[n][idx];
+    lazy[n][2*idx+1] = lazy[n][idx];
+    lazy[n][idx] = -1;
+  }
+  if(L >= right or R <= left) return;
+  if((right-left == 1) or (L == left and R == right)){
+    segt[n][idx] = (right-left)*val;
+    if(right-left > 1){
+      lazy[n][2*idx] = val;
+      lazy[n][2*idx+1] = val;
+    }
+    lazy[n][idx] = -1;
+    return;
+  }
+  int mid = (left+right)/2;
+  updateLazy(n,2*idx,left,mid,L,min(R,mid),val);
+  updateLazy(n,2*idx+1,mid,right,max(L,mid),R,val);
+  segt[n][idx] = segt[n][2*idx] + segt[n][2*idx+1];
+}
+inline int getSum(int n,int idx,int left,int right,int L,int R){
+  if(lazy[n][idx] != -1){
+    segt[n][idx] = (right-left)*lazy[n][idx];
+    if(right-left > 1){
+      lazy[n][2*idx] = lazy[n][idx];
+      lazy[n][2*idx+1] = lazy[n][idx];
+    }
+    lazy[n][idx] = -1;
+  }
+  if(L >= right or R <= left) return 0;
+  if((right-left == 1) or (left == L and right == R)){
+    return segt[n][idx];
+  }
+  int mid = (left+right)/2;
+  int ans = 0;
+  ans += getSum(n,2*idx,left,mid,L,min(R,mid));
+  ans += getSum(n,2*idx+1,mid,right,max(L,mid),R);
+  segt[n][idx] = segt[n][2*idx] + segt[n][2*idx+1];
+  return ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  string s;
+  cin >> s;
+  n = s.size();
+  for(int i = 0; i < n; ++i) update(s[i]-'a',1,0,n,i,1);
+  int q,cmd,l,r,k;
+  char c;
+  cin >> q;
+  while(q--){
+    cin >> cmd;
+    if(cmd == 0){
+      cin >> l >> r >> c;
+      --l;
+      for(int i = 0; i < 26; ++i){
+        if(i == c-'a') updateLazy(i,1,0,n,l,r,1);
+        else updateLazy(i,1,0,n,l,r,0);
+      }
+    }
+    else{
+      cin >> k >> c;
+      int tot = getSum(c-'a',1,0,n,0,n);
+      if(tot < k) cout << "-1\n";
+      else{
+        int b = 0, e = n, k2 = k;
+        while(b+1 < e){
+          int mid = (b+e)/2;
+          int tmp = getSum(c-'a',1,0,n,b,mid);
+          if(tmp >= k2) e = mid;
+          else{
+            k2 -= tmp;
+            b = mid;
+          }
+        }
+        int tmp = getSum(c-'a',1,0,n,0,b+1);
+        if(tmp >= k){
+          if(k == getSum(c-'a',1,0,n,0,b)) cout << b << '\n';
+          else cout << b+1 << '\n';
+        }
+        else{
+          if(k == getSum(c-'a',1,0,n,0,b+2)) cout << b+2 << '\n';
+          else cout << b+3 << '\n';
+        }
+      }
+    }
+  }
+  return 0;
+}
+```
+
