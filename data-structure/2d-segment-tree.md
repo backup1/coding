@@ -4,6 +4,8 @@
 
 {% embed url="https://www.codechef.com/JCWR2019/problems/JCWC04" %}
 
+The update function is wrong is this AC solution. This is silly.
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -107,6 +109,93 @@ int main(){
       ll x1 = n+Xidx1[X1], x2 = n+Xidx2[X2]-1;
       ll y1 = m+Yidx1[Y1], y2 = m+Yidx2[Y2]-1;
       cout << getSum(x1,x2,y1,y2) << '\n';
+    }
+  }
+  return 0;
+}
+```
+
+{% embed url="https://www.spoj.com/problems/ADABEHIVE/" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+vector<vector<ll>> bit;
+inline ll getSum2(ll x,ll y1,ll y2){
+  ll ret = 0;
+  while(y1 <= y2){
+    if(y1&1){
+      ret += bit[x][y1];
+      ++y1;
+    }
+    if(!(y2&1)){
+      ret += bit[x][y2];
+      --y2;
+    }
+    y1 >>= 1;
+    y2 >>= 1;
+  }
+  return ret;
+}
+inline ll getSum(ll x1,ll x2,ll y1,ll y2){
+  ll ret = 0;
+  while(x1 <= x2){
+    if(x1&1){
+      ret += getSum2(x1,y1,y2);
+      ++x1;
+    }
+    if(!(x2&1)){
+      ret += getSum2(x2,y1,y2);
+      --x2;
+    }
+    x1 >>= 1;
+    x2 >>= 1;
+  }
+  return ret;
+}
+inline void update(ll x,ll y,ll val){
+  while(x > 0){
+    ll ty = y;
+    while(ty > 0){
+      bit[x][ty] += val;
+      ty >>= 1;
+    }
+    x >>= 1;
+  }
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  ll n,m,q;
+  cin >> n >> m >> q;
+  bit = vector<vector<ll>>(2*n,vector<ll>(2*m));
+  for(ll i = 0; i < n; ++i){
+    for(ll j = 0; j < m; ++j){
+      cin >> bit[n+i][m+j];
+      //update(n+i,m+j,a); <== correct but inefficient
+    }
+  }
+  for(ll x = 2*n-1; x >= n; --x){
+    for(ll y = m-1; y > 0; --y){
+      bit[x][y] = bit[x][2*y] + bit[x][2*y+1];
+    }
+  }
+  for(ll x = n-1; x > 0; --x){
+    for(ll y = 2*m-1; y > 0; --y){
+      bit[x][y] = bit[2*x][y] + bit[2*x+1][y];
+    }
+  }
+  ll cmd,x1,x2,y1,y2,val;
+  while(q--){
+    cin >> cmd;
+    if(cmd == 1){
+      cin >> x1 >> y1 >> val;
+      update(n+x1-1,m+y1-1,val);
+    }
+    else{
+      cin >> x1 >> y1 >> x2 >> y2;
+      cout << getSum(n+x1-1,n+x2-1,m+y1-1,m+y2-1) << '\n';
     }
   }
   return 0;
