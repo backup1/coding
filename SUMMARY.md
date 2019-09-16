@@ -8,6 +8,7 @@
 * [Combinatorics and Factorial](mathematics/combinatorics-and-factorial.md)
 * [Prime Number](mathematics/prime-number.md)
 * [Complex Number](mathematics/complex-number.md)
+* [Normalization \(vector space basis\)](mathematics/normalization-vector-space-basis.md)
 * [Questions](mathematics/questions.md)
 * [TODO](mathematics/todo.md)
 * [Summary](mathematics/summary.md)
