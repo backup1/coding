@@ -3,7 +3,7 @@
 ## Factorial and its modular reverse
 
 ```cpp
-ll getPow(ll a,ll p){
+inline ll getPow(ll a,ll p){
   ll ret = 1,cp = a;
   while(p){
     if(p&1) ret = (ret*cp)%MOD;
@@ -12,11 +12,11 @@ ll getPow(ll a,ll p){
   }
   return ret;
 }
-ll getInverse(ll a){
+inline ll getInverse(ll a){
   return getPow(a,MOD-2)%MOD;
 }
 vector<ll> fact(200001,1),factinv(200001,1);
-void init(ll l){
+inline void init(ll l){
   for(ll i = 1; i < l; ++i){
     fact[i] = (fact[i-1]*i)%MOD;
     factinv[i] = (factinv[i-1]*getInverse(i))%MOD;
