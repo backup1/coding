@@ -18,10 +18,13 @@ inline ll Inverse(ll a){
   return Pow(a,mod-2);
 }
 vector<ll> fact(SZ,1),factinv(SZ,1);
-inline void init(ll l){
-  for(ll i = 1; i < l; ++i){
+inline void init(){
+  for(ll i = 2; i < SZ; ++i){
     fact[i] = (fact[i-1]*i)%mod;
-    factinv[i] = (factinv[i-1]*Inverse(i))%mod;
+  }
+  factinv[SZ-1] = Inverse(fact[SZ-1]);
+  for(ll i = SZ-2; i > 1; --i){
+    factinv[i] = (factinv[i+1]*(i+1))%mod;
   }
 }
 ```
@@ -48,10 +51,13 @@ inline ll Inverse(ll a){
   return Pow(a,mod-2);
 }
 vector<ll> fact(SZ,1),factinv(SZ,1);
-inline void init(ll l){
-  for(ll i = 1; i < l; ++i){
+inline void init(){
+  for(ll i = 2; i < SZ; ++i){
     fact[i] = (fact[i-1]*i)%mod;
-    factinv[i] = (factinv[i-1]*Inverse(i))%mod;
+  }
+  factinv[SZ-1] = Inverse(fact[SZ-1]);
+  for(ll i = SZ-2; i > 1; --i){
+    factinv[i] = (factinv[i+1]*(i+1))%mod;
   }
 }
 inline ll C(ll n,ll a){
