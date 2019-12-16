@@ -7,6 +7,7 @@
 * [Power and Sum](mathematics/power.md)
 * [Combinatorial and Factorial](mathematics/combinatorics-and-factorial.md)
 * [Prime Number](mathematics/prime-number.md)
+* [FFT / NTT](mathematics/fft-ntt.md)
 * [Complex Number](mathematics/complex-number.md)
 * [Normalization \(vector space basis\)](mathematics/normalization-vector-space-basis.md)
 * [Questions](mathematics/questions.md)
