@@ -26,6 +26,7 @@
 * [Rope](data-structure/rope.md)
 * [Bitset](data-structure/bitset.md)
 * [Deque](data-structure/deque.md)
+* [Set / Map](data-structure/set-map.md)
 
 ## Graph
 
