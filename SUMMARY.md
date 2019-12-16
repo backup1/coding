@@ -4,7 +4,7 @@
 
 ## Mathematics
 
-* [Power](mathematics/power.md)
+* [Power and Sum](mathematics/power.md)
 * [Combinatorial and Factorial](mathematics/combinatorics-and-factorial.md)
 * [Prime Number](mathematics/prime-number.md)
 * [Complex Number](mathematics/complex-number.md)
