@@ -41,6 +41,18 @@ $$
 x^n + x^{n-1} + \cdots + x^3 + x^2 + x + 1 = \frac{x^{n+1} - 1}{x - 1}
 $$
 
+{% tabs %}
+{% tab title="O \( ln n \)" %}
+```cpp
+// O(ln n) solution - faster using formula
+inline ll Sum(ll x,ll n){
+  if(x%mod == 1) return n+1;
+  return (Pow(x,n+1)-1)*Inverse(x-1)%mod;
+}
+```
+{% endtab %}
+
+{% tab title="O \( ln^2 n\)" %}
 ```cpp
 // O(ln^2 n) solution
 inline ll Sum(ll x,ll n){
@@ -52,12 +64,9 @@ inline ll Sum(ll x,ll n){
   if(n%2 == 0) ans = (1+x*ans)%mod;
   return ans;
 }
-// O(ln n) solution - faster using formula
-inline ll Sum(ll x,ll n){
-  if(x%mod == 1) return n+1;
-  return (Pow(x,n+1)-1)*Inverse(x-1)%mod;
-}
 ```
+{% endtab %}
+{% endtabs %}
 
 
 
