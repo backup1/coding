@@ -52,7 +52,7 @@ inline ll Sum(ll x,ll n){
 ```
 {% endtab %}
 
-{% tab title="O \( ln^2 n\)" %}
+{% tab title="O \( ln^2 n \)" %}
 ```cpp
 // O(ln^2 n) solution
 inline ll Sum(ll x,ll n){
