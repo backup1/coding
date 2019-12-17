@@ -49,7 +49,7 @@ inline ll PrimitiveRoot(){
 #include <bits/stdc++.h>
 using namespace std;
 using ll = int64_t;
-const ll mod = 998244353, G=3;
+const ll mod = 998244353, G = 3;
 inline ll Pow(ll b,int p){
   ll r = 1;
   while(p){
