@@ -21,7 +21,7 @@ inline ll PrimitiveRoot(){
   ll phi = mod-1, n = phi;
   for(ll i = 2; i*i <= n; ++i){
     if(n%i == 0){
-      fact.push_back (i);
+      fact.push_back(i);
       while(n%i == 0) n /= i;
     }
   }
