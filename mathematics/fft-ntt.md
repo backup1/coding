@@ -54,7 +54,7 @@ inline ll PrimitiveRoot(){
 using namespace std;
 using ll = int64_t;
 const ll mod = 998244353, G = 3;
-// 998244353 = 119 x 2^23, 3 is its one primitive root
+// 998244353-1 = 119 x 2^23, 3 is its one primitive root
 inline ll Pow(ll b,int p){
   ll r = 1;
   while(p){
