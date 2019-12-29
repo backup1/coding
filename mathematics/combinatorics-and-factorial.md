@@ -69,3 +69,46 @@ inline ll C(ll n,ll a){
 }
 ```
 
+[https://atcoder.jp/contests/arc068/submissions/9201778](https://atcoder.jp/contests/arc068/submissions/9201778)
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+
+const int MOD = int(1e9)+7;
+
+int modinv(int a, int m) {
+  return (a == 1) ? 1 : m - int(ll(modinv(m % a, a)) * m / a);
+}
+
+int fact(int n) {
+  int res = 1;
+  for (int i = 1; i <= n; i++) res = int(ll(res) * i % MOD);
+  return res;
+}
+
+int choose(int n, int r) {
+  if (r<0 || r>n) return 0;
+  return ll(fact(n)) * modinv(ll(fact(r)) * ll(fact(n-r)) % MOD, MOD) % MOD;
+}
+
+int solve(int N, int K) {
+  int ans = choose(N-1+K-1, K-1) - choose(N-1+K-1, K-2);
+  if (ans < 0) ans += MOD;
+  for (int i = K+1; i <= N-1; i++) {
+    ans *= 2;
+    if (ans >= MOD) ans -= MOD;
+  }
+  return ans;
+}
+
+int main() {
+  int N, K; cin >> N >> K;
+  cout << solve(N, K) << '\n';
+}
+```
+
+
+
