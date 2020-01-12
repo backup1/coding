@@ -14,6 +14,10 @@
 * [TODO](mathematics/todo.md)
 * [Summary](mathematics/summary.md)
 
+## Geometry
+
+* [CircumCenter](geometry/circumcenter.md)
+
 ## Data Structure
 
 * [Union Find](data-structure/union-find.md)
@@ -92,8 +96,4 @@
 ## Past Codes
 
 * [Maths](past-codes/maths.md)
-
-## Geometry
-
-* [CircumCenter](geometry/circumcenter.md)
 
