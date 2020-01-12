@@ -93,3 +93,7 @@
 
 * [Maths](past-codes/maths.md)
 
+## Geometry
+
+* [CircumCenter](geometry/circumcenter.md)
+
