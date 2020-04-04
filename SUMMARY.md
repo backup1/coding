@@ -81,6 +81,7 @@
 * [Code Jam template](templates/code-jam-template.md)
 * [UVa template](templates/uva-template.md)
 * [Compilation](templates/compilation.md)
+* [Code Jam Interactive Problem](templates/code-jam-interactive-problem.md)
 
 ## Recipes
 
