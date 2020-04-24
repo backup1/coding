@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Links](links.md)
 
 ## Mathematics
 
@@ -39,7 +40,7 @@
 * [0-1 BFS](graph/0-1-bfs.md)
 * [Detect Cycle and Output Loop](graph/detect-cycle-and-output-loop.md)
 * [DFS tree](graph/dfs-tree.md)
-* [Bipartite / MAx matching](graph/bipartite-max-matching.md)
+* [Bipartite / Max matching](graph/bipartite-max-matching.md)
 
 ## Tree
 

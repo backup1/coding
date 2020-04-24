@@ -1,4 +1,4 @@
-# Bipartite / MAx matching
+# Bipartite / Max matching
 
 Fario 2017
 
