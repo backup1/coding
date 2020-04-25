@@ -70,7 +70,7 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 
 ```text
 2019 May Week 1 - Binary Search
-         Tom      Daddy
+          T        D
 - 1400 --------------------------------------------------------------------
 251A     TODO     DONE     https://codeforces.com/problemset/problem/251/A
 - 1600 --------------------------------------------------------------------
@@ -90,7 +90,7 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 
 ```text
 2019 May Week 2 - Math
-         Tom      Daddy
+          T        D
 - 1400 ----------------------------------------------------------------------
 248B     TODO     DONE      https://codeforces.com/problemset/problem/248/B
 337B     TODO     TODO      https://codeforces.com/problemset/problem/337/B
@@ -102,7 +102,7 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 
 ```text
 2019 May Week 3 - Graph
-         Tom      Daddy
+          T        D
 - 1400 ----------------------------------------------------------------------
 862B     TODO     DONE      https://codeforces.com/problemset/problem/862/B
 24A      TODO     DONE      https://codeforces.com/problemset/problem/24/A
@@ -116,7 +116,7 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 
 ```text
 2019 May Week 4 - DP
-         Tom      Daddy
+          T        D
 - 1400 ---------------------------------------------------------------------
 698A     TODO     DONE     https://codeforces.com/problemset/problem/698/A
 602B     TODO     DONE     https://codeforces.com/problemset/problem/602/B
