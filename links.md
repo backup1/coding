@@ -26,9 +26,9 @@ Rope API :  [http://www.martinbroadhurst.com/stl/Rope.html](http://www.martinbro
 
 
 
-Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
+\[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
 
-Question - Union Find : [https://www.spoj.com/problems/CHUNK2/](https://www.spoj.com/problems/CHUNK2/)
+\[DONE\] Question - Union Find : [https://www.spoj.com/problems/CHUNK2/](https://www.spoj.com/problems/CHUNK2/)
 
 Question - SQRT decomposition : [https://codeforces.com/contest/444/problem/C](https://codeforces.com/contest/444/problem/C)
 
