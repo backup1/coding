@@ -6,11 +6,15 @@ description: 2020.05.01
 
 Data Structure / Graph / DP / Others \(Interactive ?\)
 
-\#04 \[\]
+\#06 \[Data Structure 1600\] [https://codeforces.com/problemset/problem/1252/C](https://codeforces.com/problemset/problem/1252/C)
+
+\#05 \[Data Structure 1600\] [https://codeforces.com/problemset/problem/962/D](https://codeforces.com/problemset/problem/962/D)
+
+\#04 \[Data Structure 1600\] [https://codeforces.com/problemset/problem/383/A](https://codeforces.com/problemset/problem/383/A)
 
 \#03 \[Data Structure 1600\] [https://codeforces.com/problemset/problem/283/A](https://codeforces.com/problemset/problem/283/A)
 
-\#02 \[Data Structure 1600\] [https://codeforces.com/problemset/problem/722/C](https://codeforces.com/problemset/problem/722/C)
+~~\#02 \[DONE\] \[Data Structure 1600\]~~ [~~https://codeforces.com/problemset/problem/722/C~~](https://codeforces.com/problemset/problem/722/C)~~~~
 
 ~~\#01 \[DONE\] \[Data Structure 1500\]~~ [~~https://codeforces.com/problemset/problem/713/A~~](https://codeforces.com/problemset/problem/713/A)~~~~
 
