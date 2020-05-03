@@ -30,7 +30,7 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#08 \[DP 1500\] [https://codeforces.com/problemset/problem/1245/C](https://codeforces.com/problemset/problem/1245/C)
 
-\#07 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/622/C](https://codeforces.com/problemset/problem/622/C)
+~~\#07 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/622/C~~](https://codeforces.com/problemset/problem/622/C)~~~~
 
 ~~\#06 \[DONE\] \[Data Structure 1600\]~~ [~~https://codeforces.com/problemset/problem/1252/C~~](https://codeforces.com/problemset/problem/1252/C)~~~~
 
