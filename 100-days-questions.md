@@ -6,15 +6,9 @@ description: 2020.05.01
 
 Data Structure / Graph / DP / Others \(Interactive ?\)
 
-\#19 \[DP 1500\] [https://codeforces.com/problemset/problem/120/F](https://codeforces.com/problemset/problem/120/F)
 
-\#18 \[DP 1500\] [https://codeforces.com/problemset/problem/859/C](https://codeforces.com/problemset/problem/859/C)
 
-\#17 \[DP 1500\] [https://codeforces.com/problemset/problem/873/B](https://codeforces.com/problemset/problem/873/B)
 
-\#16 \[DP 1500\] [https://codeforces.com/problemset/problem/855/B](https://codeforces.com/problemset/problem/855/B)
-
-\#15 \[DP 1500\] [https://codeforces.com/problemset/problem/991/D](https://codeforces.com/problemset/problem/991/D)
 
 \#14 \[DP 1500\] [https://codeforces.com/problemset/problem/835/C](https://codeforces.com/problemset/problem/835/C)
 
