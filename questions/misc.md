@@ -74,3 +74,39 @@
 
 \[DP 1500\] [https://codeforces.com/problemset/problem/991/D](https://codeforces.com/problemset/problem/991/D)
 
+Sement Tree USACO:
+
+2006/January/Silver/lineup
+
+2008/Special/Gold/holpaint
+
+2009/February/Gold/slowdown
+
+2010/February/Gold/protest
+
+2012/Open/Gold/photo
+
+2013/December/Gold/optmilk
+
+2013/March/Gold/lazy
+
+2013/Open/Gold/optics
+
+2014/December/Gold/marathon
+
+2018/February/Gold/cowland
+
+2019/January/Gold/boards
+
+2015/February/Platinum/balancing
+
+2016/December/Platinum/roboherd
+
+2016/February/Platinum/friendcross
+
+2016/Open/Platinum/art
+
+2016/Open/Platinum/grass
+
+2017/February/Platinum/slingshot
+
