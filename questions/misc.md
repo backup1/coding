@@ -74,9 +74,7 @@
 
 \[DP 1500\] [https://codeforces.com/problemset/problem/991/D](https://codeforces.com/problemset/problem/991/D)
 
-Sement Tree USACO:
-
-2006/January/Silver/lineup
+Segment Tree USACO:
 
 2008/Special/Gold/holpaint
 
