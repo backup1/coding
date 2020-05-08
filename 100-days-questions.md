@@ -6,6 +6,8 @@ description: 2020.05.01
 
 Data Structure / Graph / DP / Others \(Interactive ?\)
 
+\#21 \[Segment Tree\] 2008/Special/Gold/holpaint
+
 \#20 \[DP 1500\] [https://codeforces.com/problemset/problem/120/F](https://codeforces.com/problemset/problem/120/F)
 
 \#19 \[DP 1500\] [https://codeforces.com/problemset/problem/859/C](https://codeforces.com/problemset/problem/859/C)
@@ -14,9 +16,9 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#17 \[DP 1500\] [https://codeforces.com/problemset/problem/855/B](https://codeforces.com/problemset/problem/855/B)
 
-\#16 \[DP 1500\] [https://codeforces.com/problemset/problem/991/D](https://codeforces.com/problemset/problem/991/D)
+~~\#16 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/991/D~~](https://codeforces.com/problemset/problem/991/D)~~~~
 
-\#15 \[Segment Tree\] 2006/January/Silver/lineup
+~~\#15 \[DONE\] \[Segment Tree\] 2006/January/Silver/lineup~~
 
 ~~\#14 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/835/C~~](https://codeforces.com/problemset/problem/835/C)~~~~
 

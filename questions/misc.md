@@ -64,19 +64,7 @@
 
 \[Graph 1500\] [https://codeforces.com/problemset/problem/687/A](https://codeforces.com/problemset/problem/687/A)
 
-\[DP 1500\] [https://codeforces.com/problemset/problem/120/F](https://codeforces.com/problemset/problem/120/F)
-
-\[DP 1500\] [https://codeforces.com/problemset/problem/859/C](https://codeforces.com/problemset/problem/859/C)
-
-\[DP 1500\] [https://codeforces.com/problemset/problem/873/B](https://codeforces.com/problemset/problem/873/B)
-
-\[DP 1500\] [https://codeforces.com/problemset/problem/855/B](https://codeforces.com/problemset/problem/855/B)
-
-\[DP 1500\] [https://codeforces.com/problemset/problem/991/D](https://codeforces.com/problemset/problem/991/D)
-
 Segment Tree USACO:
-
-2008/Special/Gold/holpaint
 
 2009/February/Gold/slowdown
 
