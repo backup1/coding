@@ -8,11 +8,11 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#15 \[Segment Tree\] 2006/January/Silver/lineup
 
-\#14 \[DP 1500\] [https://codeforces.com/problemset/problem/835/C](https://codeforces.com/problemset/problem/835/C)
+~~\#14 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/835/C~~](https://codeforces.com/problemset/problem/835/C)~~~~
 
-\#13 \[DP 1500\] [https://codeforces.com/problemset/problem/877/B](https://codeforces.com/problemset/problem/877/B)
+~~\#13 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/877/B~~](https://codeforces.com/problemset/problem/877/B)~~~~
 
-\#12 \[DP 1500\] [https://codeforces.com/problemset/problem/1207/C](https://codeforces.com/problemset/problem/1207/C)
+~~\#12 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/1207/C~~](https://codeforces.com/problemset/problem/1207/C)~~~~
 
 ~~\#11 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/611/C~~](https://codeforces.com/problemset/problem/611/C)~~~~
 
