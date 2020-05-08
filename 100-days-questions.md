@@ -6,6 +6,16 @@ description: 2020.05.01
 
 Data Structure / Graph / DP / Others \(Interactive ?\)
 
+\#20 \[DP 1500\] [https://codeforces.com/problemset/problem/120/F](https://codeforces.com/problemset/problem/120/F)
+
+\#19 \[DP 1500\] [https://codeforces.com/problemset/problem/859/C](https://codeforces.com/problemset/problem/859/C)
+
+\#18 \[DP 1500\] [https://codeforces.com/problemset/problem/873/B](https://codeforces.com/problemset/problem/873/B)
+
+\#17 \[DP 1500\] [https://codeforces.com/problemset/problem/855/B](https://codeforces.com/problemset/problem/855/B)
+
+\#16 \[DP 1500\] [https://codeforces.com/problemset/problem/991/D](https://codeforces.com/problemset/problem/991/D)
+
 \#15 \[Segment Tree\] 2006/January/Silver/lineup
 
 ~~\#14 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/835/C~~](https://codeforces.com/problemset/problem/835/C)~~~~
