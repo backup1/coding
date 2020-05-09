@@ -196,16 +196,6 @@
 
 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/1106/D](https://codeforces.com/problemset/problem/1106/D)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/771/A](https://codeforces.com/problemset/problem/771/A)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/687/A](https://codeforces.com/problemset/problem/687/A)
-
 Segment Tree USACO:
 
 2009/February/Gold/slowdown

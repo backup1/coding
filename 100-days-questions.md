@@ -6,11 +6,19 @@ description: 2020.05.01
 
 Data Structure / Graph / DP / Others \(Interactive ?\)
 
-\#21 \[Segment Tree\] 2008/Special/Gold/holpaint
+\#25 \[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
 
-\#20 \[DP 1500\] [https://codeforces.com/problemset/problem/120/F](https://codeforces.com/problemset/problem/120/F)
+\#24 \[Graph 1500\] [https://codeforces.com/problemset/problem/1106/D](https://codeforces.com/problemset/problem/1106/D)
 
-\#19 \[DP 1500\] [https://codeforces.com/problemset/problem/859/C](https://codeforces.com/problemset/problem/859/C)
+\#23 \[Graph 1500\] [https://codeforces.com/problemset/problem/771/A](https://codeforces.com/problemset/problem/771/A)
+
+\#22 \[Graph 1500\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
+
+\#21 \[Graph 1500\] [https://codeforces.com/problemset/problem/687/A](https://codeforces.com/problemset/problem/687/A)
+
+\#20 \[Segment Tree\] 2008/Special/Gold/holpaint
+
+~~\#19 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/859/C~~](https://codeforces.com/problemset/problem/859/C)~~~~
 
 ~~\#18 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/873/B~~](https://codeforces.com/problemset/problem/873/B)~~~~
 
