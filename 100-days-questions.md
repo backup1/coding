@@ -6,23 +6,17 @@ description: 2020.05.01
 
 Data Structure / Graph / DP / Others \(Interactive ?\)
 
-\#28 \[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
+\#25 \[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
 
-\#27 \[Graph 1500\] [https://codeforces.com/problemset/problem/1106/D](https://codeforces.com/problemset/problem/1106/D)
+\#24 \[Graph 1500\] [https://codeforces.com/problemset/problem/1106/D](https://codeforces.com/problemset/problem/1106/D)
 
-\#26 \[Graph 1500\] [https://codeforces.com/problemset/problem/771/A](https://codeforces.com/problemset/problem/771/A)
+\#23 \[Graph 1500\] [https://codeforces.com/problemset/problem/771/A](https://codeforces.com/problemset/problem/771/A)
 
-\#25 \[Graph 1500\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
+\#22 \[Graph 1500\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
 
-\#24 \[Graph 1500\] [https://codeforces.com/problemset/problem/687/A](https://codeforces.com/problemset/problem/687/A)
+\#21 \[Graph 1500\] [https://codeforces.com/problemset/problem/687/A](https://codeforces.com/problemset/problem/687/A)
 
-\#23 \[USACO Special\] 2008/Special/Gold/perlbrac
-
-\#22 \[USACO Special\] 2008/Special/Gold/delay
-
-\#21 \[USACO Special\] 2008/Special/Gold/cattleb
-
-\#20 \[Segment Tree\] 2008/Special/Gold/holpaint
+~~\#20 \[Segment Tree\] 2008/Special/Gold/holpaint~~
 
 ~~\#19 \[DONE\] \[DP 1500\]~~ [~~https://codeforces.com/problemset/problem/859/C~~](https://codeforces.com/problemset/problem/859/C)~~~~
 

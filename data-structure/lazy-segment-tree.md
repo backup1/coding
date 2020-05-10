@@ -266,3 +266,91 @@ int main(){
 }
 ```
 
+2008/Special/Gold/holpaint
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+vector<int> sample[15],segt[15],lazy[15];
+void init_sample(int slot,int idx,int left,int right,int L,int R,vector<int>& val){
+  if(R < L) return;
+  if(left == right){
+    sample[slot][idx] = val[left];
+    return;
+  }
+  int mid = (left+right)/2;
+  init_sample(slot,2*idx,left,mid,L,min(R,mid),val);
+  init_sample(slot,2*idx+1,mid+1,right,max(L,mid+1),R,val);
+  sample[slot][idx] = sample[slot][2*idx] + sample[slot][2*idx+1];
+}
+void init_segt(int slot,int idx,int left,int right,int L,int R){
+  if(R < L) return;
+  if(left == right){
+    if(sample[slot][idx] == 0) segt[slot][idx] = 1;
+    return;
+  }
+  int mid = (left+right)/2;
+  init_segt(slot,2*idx,left,mid,L,min(R,mid));
+  init_segt(slot,2*idx+1,mid+1,right,max(L,mid+1),R);
+  segt[slot][idx] = segt[slot][2*idx] + segt[slot][2*idx+1];
+}
+void update(int slot,int idx,int left,int right,int L,int R,int val){
+  if(R < L) return;
+  if((left == L and right == R) or left == right){
+    lazy[slot][idx] = val;
+    if(val) segt[slot][idx] = sample[slot][idx];
+    else segt[slot][idx] = right-left+1-sample[slot][idx];
+    return;
+  }
+  int mid = (left+right)/2;
+  if(lazy[slot][idx] == 0){
+    lazy[slot][2*idx] = 0;
+    lazy[slot][2*idx+1] = 0;
+    segt[slot][2*idx] = mid-left+1-sample[slot][2*idx];
+    segt[slot][2*idx+1] = right-mid-sample[slot][2*idx+1];
+  }
+  else if(lazy[slot][idx] == 1){
+    lazy[slot][2*idx] = 1;
+    lazy[slot][2*idx+1] = 1;
+    segt[slot][2*idx] = sample[slot][2*idx];
+    segt[slot][2*idx+1] = sample[slot][2*idx+1];
+  }
+  lazy[slot][idx] = -1;
+  update(slot,2*idx,left,mid,L,min(R,mid),val);
+  update(slot,2*idx+1,mid+1,right,max(L,mid+1),R,val);
+  segt[slot][idx] = segt[slot][2*idx] + segt[slot][2*idx+1];
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int r,c,q,r1,r2,c1,c2,x;
+  cin >> r >> c >> q;
+  vector<string> vs(r);
+  for(int i = 0; i < r; ++i) cin >> vs[i];
+  vector<int> val(r);
+  for(int slot = 0; slot < c; ++slot){
+    sample[slot].resize(4*r+5);
+    segt[slot].resize(4*r+5);
+    lazy[slot].resize(4*r+5);
+    fill(begin(lazy[slot]),end(lazy[slot]),-1);
+    for(int j = 0; j < r; ++j){
+      if(vs[j][slot] == '1') val[j] = 1;
+      else val[j] = 0;
+    }
+    init_sample(slot,1,0,r-1,0,r-1,val);
+    init_segt(slot,1,0,r-1,0,r-1);
+  }
+  for(int i = 0; i < q; ++i){
+    cin >> r1 >> r2 >> c1 >> c2 >> x;
+    --r1, --r2, --c1, --c2;
+    int ans = 0;
+    for(int j = 0; j < c; ++j){
+      if(c1 <= j and j <= c2) update(j,1,0,r-1,r1,r2,x);
+      ans += segt[j][1];
+    }
+    cout << ans << '\n';
+  }
+  return 0;
+}
+```
+
