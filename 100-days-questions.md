@@ -16,7 +16,7 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#22 \[Graph 1500\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
 
-\#21 \[Graph 1500\] [https://codeforces.com/problemset/problem/687/A](https://codeforces.com/problemset/problem/687/A)
+~~\#21 \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/687/A~~](https://codeforces.com/problemset/problem/687/A)~~~~
 
 ~~\#20 \[Segment Tree\] 2008/Special/Gold/holpaint~~
 
