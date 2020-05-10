@@ -198,8 +198,6 @@
 
 Segment Tree USACO:
 
-2009/February/Gold/slowdown
-
 2010/February/Gold/protest
 
 2012/Open/Gold/photo

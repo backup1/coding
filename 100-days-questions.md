@@ -6,6 +6,8 @@ description: 2020.05.01
 
 Data Structure / Graph / DP / Others \(Interactive ?\)
 
+\#26 \[Segment Tree\] 2009/February/Gold/slowdown
+
 \#25 \[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
 
 \#24 \[Graph 1500\] [https://codeforces.com/problemset/problem/1106/D](https://codeforces.com/problemset/problem/1106/D)
