@@ -8,9 +8,13 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
 
-\#26 \[Segment Tree\] 2009/February/Gold/slowdown
+\#28 \[Segment Tree\] 2009/February/Gold/slowdown
 
-\#25 \[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
+\#27 \[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
+
+\#26 \[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
+
+~~\#25 \[DONE\] \[Interactive\]~~ [~~https://codeforces.com/gym/101021/problem/1~~](https://codeforces.com/gym/101021/problem/1)~~~~
 
 ~~\#24 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/1106/D~~](https://codeforces.com/problemset/problem/1106/D)~~~~
 
