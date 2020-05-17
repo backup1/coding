@@ -12,6 +12,7 @@
 * [FFT / NTT](mathematics/fft-ntt.md)
 * [Complex Number](mathematics/complex-number.md)
 * [Normalization \(vector space basis\)](mathematics/normalization-vector-space-basis.md)
+* [Summation of Beatty sequence: a\(n\) = floor\(n\*sqrt\(2\)\)](mathematics/summation-of-beatty-sequence-a-n-floor-n-sqrt-2.md)
 * [Questions](mathematics/questions.md)
 * [TODO](mathematics/todo.md)
 * [Summary](mathematics/summary.md)
