@@ -1,5 +1,9 @@
 # Misc
 
+\[DP / math\] [https://codeforces.com/contest/665/problem/F](https://codeforces.com/contest/665/problem/F)
+
+\[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
+
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1310/A](https://codeforces.com/problemset/problem/1310/A)
