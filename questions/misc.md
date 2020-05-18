@@ -68,16 +68,6 @@
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/1336/A](https://codeforces.com/problemset/problem/1336/A)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/1295/C](https://codeforces.com/problemset/problem/1295/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/1288/C](https://codeforces.com/problemset/problem/1288/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/1282/B2](https://codeforces.com/problemset/problem/1282/B2)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/1238/C](https://codeforces.com/problemset/problem/1238/C)
-
 \[DP 1600\] [https://codeforces.com/problemset/problem/1196/D2](https://codeforces.com/problemset/problem/1196/D2)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/1151/B](https://codeforces.com/problemset/problem/1151/B)
