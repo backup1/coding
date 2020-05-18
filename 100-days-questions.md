@@ -8,6 +8,8 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
 
+\# [https://codeforces.com/contest/665/problem/F](https://codeforces.com/contest/665/problem/F)
+
 \# \[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
 
 \# \[Segment Tree\] 2009/February/Gold/slowdown
