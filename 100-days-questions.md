@@ -14,7 +14,7 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#30 \[DP 1600\] [https://codeforces.com/problemset/problem/1295/C](https://codeforces.com/problemset/problem/1295/C)
 
-\#29 \[DP 1600\] [https://codeforces.com/problemset/problem/1288/C](https://codeforces.com/problemset/problem/1288/C)
+~~\#29 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1288/C~~](https://codeforces.com/problemset/problem/1288/C)~~~~
 
 ~~\#28 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1282/B2~~](https://codeforces.com/problemset/problem/1282/B2)~~~~
 
