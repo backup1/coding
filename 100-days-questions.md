@@ -20,7 +20,7 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#27 \[DP 1600\] [https://codeforces.com/problemset/problem/1238/C](https://codeforces.com/problemset/problem/1238/C)
 
-\#26 \[Graph 1500\] [https://codeforces.com/problemset/problem/441/C](https://codeforces.com/problemset/problem/441/C)
+~~\#26 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/441/C~~](https://codeforces.com/problemset/problem/441/C)~~~~
 
 ~~\#25 \[DONE\] \[Interactive\]~~ [~~https://codeforces.com/gym/101021/problem/1~~](https://codeforces.com/gym/101021/problem/1)~~~~
 
