@@ -158,6 +158,60 @@
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/209/A](https://codeforces.com/problemset/problem/209/A)
 
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1245/D](https://codeforces.com/problemset/problem/1245/D)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1214/D](https://codeforces.com/problemset/problem/1214/D)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1213/G](https://codeforces.com/problemset/problem/1213/G)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1205/B](https://codeforces.com/problemset/problem/1205/B)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1118/F1](https://codeforces.com/problemset/problem/1118/F1)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1095/F](https://codeforces.com/problemset/problem/1095/F)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1063/B](https://codeforces.com/problemset/problem/1063/B)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/989/C](https://codeforces.com/problemset/problem/989/C)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/949/C](https://codeforces.com/problemset/problem/949/C)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/883/G](https://codeforces.com/problemset/problem/883/G)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/847/I](https://codeforces.com/problemset/problem/847/I)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/792/D](https://codeforces.com/problemset/problem/792/D)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/717/E](https://codeforces.com/problemset/problem/717/E)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/263/D](https://codeforces.com/problemset/problem/263/D)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/95/C](https://codeforces.com/problemset/problem/95/C)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/33/B](https://codeforces.com/problemset/problem/33/B)
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/25/C](https://codeforces.com/problemset/problem/25/C)
+
 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
 
 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
