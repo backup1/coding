@@ -8,9 +8,19 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
 
-\# \[Segment Tree\] 2009/February/Gold/slowdown
+\#37 \[Segment Tree\] 2009/February/Gold/slowdown
 
-\#31 \[DP 1600\] [https://codeforces.com/problemset/problem/1336/A](https://codeforces.com/problemset/problem/1336/A)
+\#36 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
+
+\#35 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1310/A](https://codeforces.com/problemset/problem/1310/A)
+
+\#34 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1278/C](https://codeforces.com/problemset/problem/1278/C)
+
+\#33 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1257/D](https://codeforces.com/problemset/problem/1257/D)
+
+\#32 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1182/C](https://codeforces.com/problemset/problem/1182/C)
+
+~~\#31 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1336/A~~](https://codeforces.com/problemset/problem/1336/A)~~~~
 
 ~~\#30 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1295/C~~](https://codeforces.com/problemset/problem/1295/C)~~~~
 

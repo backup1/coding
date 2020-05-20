@@ -4,16 +4,6 @@
 
 \[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1310/A](https://codeforces.com/problemset/problem/1310/A)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1278/C](https://codeforces.com/problemset/problem/1278/C)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1257/D](https://codeforces.com/problemset/problem/1257/D)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1182/C](https://codeforces.com/problemset/problem/1182/C)
-
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1061/C](https://codeforces.com/problemset/problem/1061/C)
@@ -157,6 +147,8 @@
 \[DP 1600\] [https://codeforces.com/problemset/problem/71/C](https://codeforces.com/problemset/problem/71/C)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/209/A](https://codeforces.com/problemset/problem/209/A)
+
+\[Graph 1328\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
 
