@@ -24,6 +24,8 @@ Video - max-flow : [https://m.youtube.com/watch?v=K1i-wP82Zdo](https://m.youtube
 
 Rope API :  [http://www.martinbroadhurst.com/stl/Rope.html](http://www.martinbroadhurst.com/stl/Rope.html)
 
+G++ Release Notes \(replacing 9 by any number &lt;= 9\) : [https://gcc.gnu.org/gcc-9/changes.html](https://gcc.gnu.org/gcc-9/changes.html)
+
 
 
 \[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
