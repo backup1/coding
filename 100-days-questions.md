@@ -12,6 +12,20 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \# \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
 
+2010/February/Gold/protest
+
+2012/Open/Gold/photo
+
+\#45 \[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
+
+\#44 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
+
+\#43 \[Graph 1500\] [https://codeforces.com/problemset/problem/1263/D](https://codeforces.com/problemset/problem/1263/D)
+
+\#42 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
+
+\#41 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
+
 \#40 \[DP 1600\] [https://codeforces.com/problemset/problem/1196/D2](https://codeforces.com/problemset/problem/1196/D2)
 
 ~~\#39 \[DONE\] \[DP 1800\]~~ [~~https://codeforces.com/problemset/problem/1221/D~~](https://codeforces.com/problemset/problem/1221/D)~~~~

@@ -138,10 +138,6 @@
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/209/A](https://codeforces.com/problemset/problem/209/A)
 
-\[Graph 1328\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
-
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
@@ -242,17 +238,7 @@
 
 \[Graph 1500\] [https://codeforces.com/problemset/problem/574/B](https://codeforces.com/problemset/problem/574/B)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/1263/D](https://codeforces.com/problemset/problem/1263/D)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
-
 Segment Tree USACO:
-
-2010/February/Gold/protest
-
-2012/Open/Gold/photo
 
 2013/December/Gold/optmilk
 
