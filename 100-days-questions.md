@@ -12,29 +12,29 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \# \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
 
-2010/February/Gold/protest
+\[Segment Tree\] 2010/February/Gold/protest
 
-2012/Open/Gold/photo
+\[Segment Tree\] 2012/Open/Gold/photo
 
-\#45 \[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
+\#50 \[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
 
-\#44 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
+\#49 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
-\#43 \[Graph 1500\] [https://codeforces.com/problemset/problem/1263/D](https://codeforces.com/problemset/problem/1263/D)
+\#48 \[Graph 1500\] [https://codeforces.com/problemset/problem/1263/D](https://codeforces.com/problemset/problem/1263/D)
 
-\#42 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
+\#47 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
 
-\#41 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
+\#46 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
+\#45 \[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/1056/D](https://codeforces.com/problemset/problem/1056/D)
+\#44 \[DP 1600\] [https://codeforces.com/problemset/problem/1056/D](https://codeforces.com/problemset/problem/1056/D)
 
-DP 1800\] [https://codeforces.com/problemset/problem/946/D](https://codeforces.com/problemset/problem/946/D)
+\#43 \[DP 1800\] [https://codeforces.com/problemset/problem/946/D](https://codeforces.com/problemset/problem/946/D)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/1033/C](https://codeforces.com/problemset/problem/1033/C)
+\#42 \[DP 1600\] [https://codeforces.com/problemset/problem/1033/C](https://codeforces.com/problemset/problem/1033/C)
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/933/A](https://codeforces.com/problemset/problem/933/A)
+\#41 \[DP 1800\] [https://codeforces.com/problemset/problem/933/A](https://codeforces.com/problemset/problem/933/A)
 
 ~~\#40 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1196/D2~~](https://codeforces.com/problemset/problem/1196/D2)~~~~
 
