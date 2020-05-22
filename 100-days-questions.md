@@ -14,13 +14,13 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#40 \[DP 1600\] [https://codeforces.com/problemset/problem/1196/D2](https://codeforces.com/problemset/problem/1196/D2)
 
-\#39 \[DP 1800\] [https://codeforces.com/problemset/problem/1221/D](https://codeforces.com/problemset/problem/1221/D)
+~~\#39 \[DONE\] \[DP 1800\]~~ [~~https://codeforces.com/problemset/problem/1221/D~~](https://codeforces.com/problemset/problem/1221/D)~~~~
 
-\#38 \[DP 1600\] [https://codeforces.com/problemset/problem/1151/B](https://codeforces.com/problemset/problem/1151/B)
+~~\#38 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1151/B~~](https://codeforces.com/problemset/problem/1151/B)~~~~
 
-\#37 \[DP 1800\] [https://codeforces.com/problemset/problem/1096/D](https://codeforces.com/problemset/problem/1096/D)
+~~\#37 \[DONE\] \[DP 1800\]~~ [~~https://codeforces.com/problemset/problem/1096/D~~](https://codeforces.com/problemset/problem/1096/D)~~~~
 
-\#36 \[DP 1600\] [https://codeforces.com/problemset/problem/1109/A](https://codeforces.com/problemset/problem/1109/A)
+~~\#36 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1109/A~~](https://codeforces.com/problemset/problem/1109/A)~~~~
 
 ~~\#35 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/1310/A~~](https://codeforces.com/problemset/problem/1310/A)~~~~
 
