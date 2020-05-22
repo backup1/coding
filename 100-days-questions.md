@@ -4,7 +4,7 @@ description: 2020.05.01
 
 # 100 Days / Questions
 
-Data Structure / Graph / DP / Others \(Interactive ?\)
+Total **41** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **22**\] \[Interactive **1**\]
 
 \#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
 
