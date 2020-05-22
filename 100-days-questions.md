@@ -26,6 +26,16 @@ Data Structure / Graph / DP / Others \(Interactive ?\)
 
 \#41 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
 
+\[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
+
+\[DP 1600\] [https://codeforces.com/problemset/problem/1056/D](https://codeforces.com/problemset/problem/1056/D)
+
+DP 1800\] [https://codeforces.com/problemset/problem/946/D](https://codeforces.com/problemset/problem/946/D)
+
+\[DP 1600\] [https://codeforces.com/problemset/problem/1033/C](https://codeforces.com/problemset/problem/1033/C)
+
+\[DP 1800\] [https://codeforces.com/problemset/problem/933/A](https://codeforces.com/problemset/problem/933/A)
+
 ~~\#40 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1196/D2~~](https://codeforces.com/problemset/problem/1196/D2)~~~~
 
 ~~\#39 \[DONE\] \[DP 1800\]~~ [~~https://codeforces.com/problemset/problem/1221/D~~](https://codeforces.com/problemset/problem/1221/D)~~~~

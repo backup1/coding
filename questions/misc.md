@@ -62,12 +62,6 @@
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
-
-\[DP 1800\] [https://codeforces.com/problemset/problem/946/D](https://codeforces.com/problemset/problem/946/D)
-
-\[DP 1800\] [https://codeforces.com/problemset/problem/933/A](https://codeforces.com/problemset/problem/933/A)
-
 \[DP 1800\] [https://codeforces.com/problemset/problem/909/C](https://codeforces.com/problemset/problem/909/C)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
@@ -79,10 +73,6 @@
 \[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/1056/D](https://codeforces.com/problemset/problem/1056/D)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/1033/C](https://codeforces.com/problemset/problem/1033/C)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/913/C](https://codeforces.com/problemset/problem/913/C)
 
