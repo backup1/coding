@@ -4,7 +4,7 @@ description: 2020.05.01
 
 # 100 Days / Questions
 
-Total **43** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **24**\] \[Interactive **1**\]
+Total **44** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **25**\] \[Interactive **1**\]
 
 \#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
 
@@ -28,7 +28,7 @@ Total **43** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **24**\] \[Inte
 
 \#45 \[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
 
-\#44 \[DP 1600\] [https://codeforces.com/problemset/problem/1056/D](https://codeforces.com/problemset/problem/1056/D)
+~~\#44 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1056/D~~](https://codeforces.com/problemset/problem/1056/D)~~~~
 
 ~~\#43 \[DONE\] \[DP 1800\]~~ [~~https://codeforces.com/problemset/problem/946/D~~](https://codeforces.com/problemset/problem/946/D)~~~~
 
