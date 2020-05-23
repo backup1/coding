@@ -1,5 +1,17 @@
 # Misc
 
+\#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
+
+\# \[Segment Tree\] 2009/February/Gold/slowdown
+
+\# \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
+
+\[Segment Tree\] 2010/February/Gold/protest
+
+\[Segment Tree\] 2012/Open/Gold/photo
+
+\# \[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
+
 \[DP / math\] [https://codeforces.com/contest/665/problem/F](https://codeforces.com/contest/665/problem/F)
 
 \[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)

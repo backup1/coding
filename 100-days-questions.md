@@ -6,27 +6,15 @@ description: 2020.05.01
 
 Total **44** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **25**\] \[Interactive **1**\]
 
-\#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
+\#49 \[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
 
-\# \[Segment Tree\] 2009/February/Gold/slowdown
+\#48 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
-\# \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
+\#47 \[Graph 1500\] [https://codeforces.com/problemset/problem/1263/D](https://codeforces.com/problemset/problem/1263/D)
 
-\[Segment Tree\] 2010/February/Gold/protest
+\#46 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
 
-\[Segment Tree\] 2012/Open/Gold/photo
-
-\#50 \[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
-
-\#49 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
-
-\#48 \[Graph 1500\] [https://codeforces.com/problemset/problem/1263/D](https://codeforces.com/problemset/problem/1263/D)
-
-\#47 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
-
-\#46 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
-
-\#45 \[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
+\#45 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
 
 ~~\#44 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1056/D~~](https://codeforces.com/problemset/problem/1056/D)~~~~
 
