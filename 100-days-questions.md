@@ -4,7 +4,7 @@ description: 2020.05.01
 
 # 100 Days / Questions
 
-Total **44** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **25**\] \[Interactive **1**\]
+Total **45** DONE \[Data Structure **13**\] \[Graph **6**\] \[DP **25**\] \[Interactive **1**\]
 
 \#49 \[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
 
@@ -14,7 +14,7 @@ Total **44** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **25**\] \[Inte
 
 \#46 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
 
-\#45 \[Graph 1500\] [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
+~~\#45 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/1139/C~~](https://codeforces.com/problemset/problem/1139/C)~~~~
 
 ~~\#44 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1056/D~~](https://codeforces.com/problemset/problem/1056/D)~~~~
 
