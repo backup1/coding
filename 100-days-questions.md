@@ -32,7 +32,7 @@ Total **41** DONE \[Data Structure **13**\] \[Graph **5**\] \[DP **22**\] \[Inte
 
 \#43 \[DP 1800\] [https://codeforces.com/problemset/problem/946/D](https://codeforces.com/problemset/problem/946/D)
 
-\#42 \[DP 1600\] [https://codeforces.com/problemset/problem/1033/C](https://codeforces.com/problemset/problem/1033/C)
+~~\#42 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/1033/C~~](https://codeforces.com/problemset/problem/1033/C)~~~~
 
 ~~\#41 \[DONE\] \[DP 1800\]~~ [~~https://codeforces.com/problemset/problem/933/A~~](https://codeforces.com/problemset/problem/933/A)~~~~
 
