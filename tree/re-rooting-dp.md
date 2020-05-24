@@ -67,5 +67,52 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/1324/F" %}
 
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int inf = (INT_MAX>>1);
+void dfs(int node,int pere,vector<vector<int>>& adj,vector<int>& maxv){
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    dfs(i,node,adj,maxv);
+    if(maxv[i] > 0) maxv[node] += maxv[i];
+  }
+}
+void dfs2(int node,int pere,vector<vector<int>>& adj,vector<int>& maxv,vector<int>& ans){
+  int maxvnode = maxv[node];
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    maxv[node] = maxvnode;
+    if(maxv[i] > 0) maxv[node] -= maxv[i];
+    if(maxv[node] > 0) maxv[i] += maxv[node];
+    ans[i] = maxv[i];
+    dfs2(i,node,adj,maxv,ans);
+  }
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int n,a,u,v;
+  cin >> n;
+  vector<int> maxv(n+1),ans(n+1,-inf);
+  for(int i = 1; i <= n; ++i){
+    cin >> a;
+    if(a == 1) maxv[i] = 1;
+    else maxv[i] = -1;
+  }
+  vector<vector<int>> adj(n+1);
+  for(int i = 1; i < n; ++i){
+    cin >> u >> v;
+    adj[u].push_back(v);
+    adj[v].push_back(u);
+  }
+  dfs(1,-1,adj,maxv);
+  ans[1] = maxv[1];
+  dfs2(1,-1,adj,maxv,ans);
+  for(int i = 1; i <= n; ++i) cout << ans[i] << ' ';
+  return 0;
+}
+```
 
