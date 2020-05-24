@@ -4,13 +4,13 @@ description: 2020.05.01
 
 # 100 Days / Questions
 
-Total **45** DONE \[Data Structure **13**\] \[Graph **6**\] \[DP **25**\] \[Interactive **1**\]
+Total **46** DONE \[Data Structure **13**\] \[Graph **7**\] \[DP **25**\] \[Interactive **1**\]
 
 \#49 \[Graph 1500\] [https://codeforces.com/problemset/problem/982/C](https://codeforces.com/problemset/problem/982/C)
 
 \#48 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
-\#47 \[Graph 1500\] [https://codeforces.com/problemset/problem/1263/D](https://codeforces.com/problemset/problem/1263/D)
+~~\#47 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/1263/D~~](https://codeforces.com/problemset/problem/1263/D)~~~~
 
 \#46 \[Graph 1800\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
 
