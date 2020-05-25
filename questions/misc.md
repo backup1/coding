@@ -16,11 +16,24 @@
 
 \[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1061/C](https://codeforces.com/problemset/problem/1061/C)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1073/D](https://codeforces.com/problemset/problem/1073/D)
+\[Graph LCA\] [https://cp-algorithms.com/graph/lca.html](https://cp-algorithms.com/graph/lca.html)
+
+\[Graph LCA\] [https://codeforces.com/blog/entry/43917](https://codeforces.com/blog/entry/43917)
+
+\[Graph LCA\] [https://www.spoj.com/problems/DYNALCA/en/](https://www.spoj.com/problems/DYNALCA/en/)
+
+\[Graph LCA\] [https://www.spoj.com/problems/DYNALCA/en/](https://www.spoj.com/problems/DYNALCA/en/)
+
+\[Graph LCA\] [208E - Blood Cousins](https://codeforces.com/contest/208/problem/E)  
+\[Graph LCA\] [191C - Fools and Roads](https://codeforces.com/contest/191/problem/C)  
+\[Graph LCA\] [519E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E)  
+\[Graph LCA\] [587C - Duff in the Army](https://codeforces.com/contest/587/problem/C)  
+\[Graph LCA\] [609E - Minimum spanning tree for each edge](https://codeforces.com/contest/609/problem/E)  
+\[Graph LCA\] [178B3 - Greedy Merchants](https://codeforces.com/contest/178/problem/B3)  
+\[Graph LCA\] [176E - Archaeology](https://codeforces.com/contest/176/problem/E)  
+\[Graph LCA\] [466E - Information Graph](https://codeforces.com/contest/466/problem/E)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
 
@@ -74,8 +87,6 @@
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/909/C](https://codeforces.com/problemset/problem/909/C)
-
 \[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
@@ -85,8 +96,6 @@
 \[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/913/C](https://codeforces.com/problemset/problem/913/C)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/888/D](https://codeforces.com/problemset/problem/888/D)
 
