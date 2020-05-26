@@ -4,7 +4,9 @@ description: 2020.05.01
 
 # 100 Days / Questions
 
-\[2020/05/01 - 2020/05/31\] **49** DONE \[Data Structure **14**\] \[Graph **9**\] \[DP **25**\] \[Interactive **1**\]
+Detailed counter \[Segment Tree **1**\] \[To improve **2**\]
+
+\[2020/05/01 - 2020/05/31\] **50** DONE \[Data Structure **14**\] \[Graph **10**\] \[DP **25**\] \[Interactive **1**\]
 
 \#56 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
 
@@ -18,11 +20,11 @@ description: 2020.05.01
 
 \#51 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
-\#50 \[Graph LCA\] [https://www.spoj.com/problems/LCA/](https://www.spoj.com/problems/LCA/)
+~~\#50 \[DONE\] \[Graph LCA\]~~ [~~https://www.spoj.com/problems/LCA/~~](https://www.spoj.com/problems/LCA/) **\(to improve\)**
 
 ~~\#49 \[DONE\] \[Data Structure\]~~ [~~https://www.spoj.com/problems/CLOPPAIR/~~](https://www.spoj.com/problems/CLOPPAIR/)~~~~
 
-~~\#48 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/982/C~~](https://codeforces.com/problemset/problem/982/C)~~~~
+~~\#48 \[DONE\] \[Graph 1500\] https://codeforces.com/problemset/problem/982/C~~
 
 ~~\#47 \[DONE\] \[Graph 1500\] https://codeforces.com/problemset/problem/1263/D~~
 
@@ -78,7 +80,7 @@ description: 2020.05.01
 
 ~~\#21 \[DONE\] \[Graph 1500\] https://codeforces.com/problemset/problem/687/A~~
 
-~~\#20 \[DONE\] \[Segment Tree\] 2008/Special/Gold/holpaint~~
+~~\#20 \[DONE\] \[Segment Tree\] 2008/Special/Gold/holpaint~~ **\(to improve\)**
 
 ~~\#19 \[DONE\] \[DP 1500\] https://codeforces.com/problemset/problem/859/C~~
 
