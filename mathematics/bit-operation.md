@@ -44,3 +44,13 @@ remove last non-zero digit
 x &= x-1; // remove last non-zero digit in the binary representation
 ```
 
+builtin methods
+
+```cpp
+int x = 10;
+__builtin_clz(x); // nb of leading zeros (in binary representation)
+__builtin_ctz(x); // nb of tailing zeros (in binary representation)
+__builtin_popcount(x); // nb of ones (in binary representation)
+__builtin_parity(x); // parity of the nb of ones (in binary representation)
+```
+

@@ -132,7 +132,7 @@ Required time for various technique using fast I/O:
 ```
 
 {% tabs %}
-{% tab title="0.25s" %}
+{% tab title="naive 0.25s" %}
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -186,7 +186,7 @@ int main(){
 ```
 {% endtab %}
 
-{% tab title="0.04s" %}
+{% tab title="binary lifting 0.04s" %}
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -215,6 +215,7 @@ int main(){
         cin >> a;
         pere[0][a] = i;
         adj[i].push_back(a);
+        adj[a].push_back(i); // missing in my submission !!!
       }
     }
     for(int i = 1; i < 10; ++i){

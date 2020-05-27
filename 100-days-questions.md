@@ -20,7 +20,7 @@ Detailed counter \[Segment Tree **1**\] \[To improve **2**\]
 
 \#51 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
-~~\#50 \[DONE\] \[Graph LCA\] https://www.spoj.com/problems/LCA/~~ **\(to improve, 0.95s vs 0.25s\)**
+~~\#50 \[DONE\] \[Graph LCA\] https://www.spoj.com/problems/LCA/~~ **\(to improve, 0.27s vs 0.04s\)**
 
 ~~\#49 \[DONE\] \[Data Structure\] https://www.spoj.com/problems/CLOPPAIR/~~
 
