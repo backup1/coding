@@ -20,9 +20,9 @@ Detailed counter \[Segment Tree **1**\] \[To improve **2**\]
 
 \#51 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
-~~\#50 \[DONE\] \[Graph LCA\]~~ [~~https://www.spoj.com/problems/LCA/~~](https://www.spoj.com/problems/LCA/) **\(to improve\)**
+~~\#50 \[DONE\] \[Graph LCA\] https://www.spoj.com/problems/LCA/~~ **\(to improve, 0.95s vs 0.25s\)**
 
-~~\#49 \[DONE\] \[Data Structure\]~~ [~~https://www.spoj.com/problems/CLOPPAIR/~~](https://www.spoj.com/problems/CLOPPAIR/)~~~~
+~~\#49 \[DONE\] \[Data Structure\] https://www.spoj.com/problems/CLOPPAIR/~~
 
 ~~\#48 \[DONE\] \[Graph 1500\] https://codeforces.com/problemset/problem/982/C~~
 
@@ -80,7 +80,7 @@ Detailed counter \[Segment Tree **1**\] \[To improve **2**\]
 
 ~~\#21 \[DONE\] \[Graph 1500\] https://codeforces.com/problemset/problem/687/A~~
 
-~~\#20 \[DONE\] \[Segment Tree\] 2008/Special/Gold/holpaint~~ **\(to improve\)**
+~~\#20 \[DONE\] \[Segment Tree\] 2008/Special/Gold/holpaint~~ **\(to improve, use segment tree\)**
 
 ~~\#19 \[DONE\] \[DP 1500\] https://codeforces.com/problemset/problem/859/C~~
 

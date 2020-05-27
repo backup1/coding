@@ -118,3 +118,68 @@ int main(){
 }
 ```
 
+{% embed url="https://www.spoj.com/problems/LCA/" %}
+
+```cpp
+Required time for various technique using fast I/O:
+1. Naive Approach - preprocess: O(N), Query: O(N^2)-------------------------0.23s
+2. using Square Root Decomposition: preprocess: O(N), Query: O(sqrt(N))-----0.04s
+3. using Segment Tree: preprocess: O(NlogN), Query: O(logN)-----------------0.02s
+4. using Sparse Table: preprocess: O(NlogN), Query: O(1)--------------------0.04s
+5. Binary Lifting: preprocess: O(N), Query: O(logN)-------------------------0.03s
+6. Farach Colton and Bender Algorithm: preprocess: O(N), Query: O(1)--------0.03s
+7. Tarjan's Offline Algorithm: preprocess: O(N), Query: O(l1)---------------0.03s
+```
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+inline void dfs(int node,int pere,vector<vector<int>>& adj,vector<int>& level){
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    level[i] = level[node] + 1;
+    dfs(i,node,adj,level);
+  }
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int t;
+  cin >> t;
+  for(int tt = 1; tt <= t; ++tt){
+    cout << "Case " << tt << ":\n";
+    int n,m,a,b;
+    cin >> n;
+    vector<int> pere(n+1,-1),level(n+1);
+    vector<vector<int>> adj(n+1);
+    for(int i = 1; i <= n; ++i){
+      cin >> m;
+      for(int j = 0; j < m; ++j){
+        cin >> a;
+        pere[a] = i;
+        adj[i].push_back(a);
+      }
+    }
+    int root;
+    for(int i = 1; i <= n; ++i){
+      if(pere[i] == -1){
+        root = i;
+        break;
+      }
+    }
+    level[root] = 1;
+    dfs(root,-1,adj,level);
+    int q;
+    cin >> q;
+    while(q--){
+      cin >> a >> b;
+      while(level[a] > level[b]) a = pere[a];
+      while(level[b] > level[a]) b = pere[b];
+      while(a != b) a = pere[a], b = pere[b];
+      cout << a << '\n';
+    }
+  }
+  return 0;
+}
+```
+
