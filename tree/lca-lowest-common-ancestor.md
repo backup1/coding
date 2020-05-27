@@ -131,6 +131,8 @@ Required time for various technique using fast I/O:
 7. Tarjan's Offline Algorithm: preprocess: O(N), Query: O(l1)---------------0.03s
 ```
 
+{% tabs %}
+{% tab title="0.25s" %}
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -182,4 +184,85 @@ int main(){
   return 0;
 }
 ```
+{% endtab %}
+
+{% tab title="0.04s" %}
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+inline void dfs(int node,int pere,vector<vector<int>>& adj,vector<int>& level){
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    level[i] = level[node] + 1;
+    dfs(i,node,adj,level);
+  }
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int t;
+  cin >> t;
+  for(int tt = 1; tt <= t; ++tt){
+    cout << "Case " << tt << ":\n";
+    int n,m,a,b;
+    cin >> n;
+    vector<int> level(n+1);
+    vector<vector<int>> pere(10,vector<int>(n+1));
+    vector<vector<int>> adj(n+1);
+    for(int i = 1; i <= n; ++i){
+      cin >> m;
+      for(int j = 0; j < m; ++j){
+        cin >> a;
+        pere[0][a] = i;
+        adj[i].push_back(a);
+      }
+    }
+    for(int i = 1; i < 10; ++i){
+      for(int j = 1; j <= n; ++j){
+        pere[i][j] = pere[i-1][pere[i-1][j]];
+      }
+    }
+    int root;
+    for(int i = 1; i <= n; ++i){
+      if(pere[0][i] == 0){
+        root = i;
+        break;
+      }
+    }
+    level[root] = 1;
+    dfs(root,-1,adj,level);
+    int q;
+    cin >> q;
+    while(q--){
+      cin >> a >> b;
+      while(level[a] > level[b]){
+        int d = level[a]-level[b];
+        for(int i = 9; i >= 0; --i){
+          if(d&(1<<i)) a = pere[i][a];
+        }
+      }
+      while(level[b] > level[a]){
+        int d = level[b]-level[a];
+        for(int i = 9; i >= 0; --i){
+          if(d&(1<<i)) b = pere[i][b];
+        }
+      }
+      if(a == b) cout << a << '\n';
+      else{
+        for(int i = 9; i >= 0; --i){
+          if((1<<i) > level[a]) continue;
+          if(pere[i][a] != pere[i][b]){
+            a = pere[i][a];
+            b = pere[i][b];
+          }
+        }
+        cout << pere[0][a] << '\n';
+      }
+    }
+  }
+  return 0;
+}
+```
+{% endtab %}
+{% endtabs %}
 
