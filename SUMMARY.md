@@ -6,6 +6,7 @@
 
 ## Mathematics
 
+* [Bit operation](mathematics/bit-operation.md)
 * [Power and Sum](mathematics/power.md)
 * [Combinatorial and Factorial](mathematics/combinatorics-and-factorial.md)
 * [Prime Number](mathematics/prime-number.md)
