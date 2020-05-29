@@ -236,13 +236,13 @@ int main(){
     cin >> q;
     while(q--){
       cin >> a >> b;
-      while(level[a] > level[b]){
+      if(level[a] > level[b]){ // no need to use while
         int d = level[a]-level[b];
         for(int i = 9; i >= 0; --i){
           if(d&(1<<i)) a = pere[i][a];
         }
       }
-      while(level[b] > level[a]){
+      else if(level[b] > level[a]){ // no need to use while
         int d = level[b]-level[a];
         for(int i = 9; i >= 0; --i){
           if(d&(1<<i)) b = pere[i][b];

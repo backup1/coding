@@ -4,7 +4,7 @@ description: 2020.05.01
 
 # 100 Days / Questions
 
-Detailed counter \[Segment Tree **1**\] \[To improve **2**\]
+Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
 \[2020/05/01 - 2020/05/31\] **50** DONE \[Data Structure **14**\] \[Graph **10**\] \[DP **25**\] \[Interactive **1**\]
 
@@ -20,7 +20,7 @@ Detailed counter \[Segment Tree **1**\] \[To improve **2**\]
 
 \#51 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
 
-~~\#50 \[DONE\] \[Graph LCA\] https://www.spoj.com/problems/LCA/~~ **\(to improve, 0.27s vs 0.04s\)**
+~~\#50 \[DONE\] \[Graph LCA\] https://www.spoj.com/problems/LCA/~~ **\(0.05s\)**
 
 ~~\#49 \[DONE\] \[Data Structure\] https://www.spoj.com/problems/CLOPPAIR/~~
 
