@@ -6,19 +6,31 @@ description: 2020.05.01
 
 Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
-\[2020/05/01 - 2020/05/31\] **50** DONE \[Data Structure **14**\] \[Graph **10**\] \[DP **25**\] \[Interactive **1**\]
+\[2020/05/01 - 2020/05/31\] **51** DONE \[Data Structure **14**\] \[Graph **11**\] \[DP **25**\] \[Interactive **1**\]
 
-\#56 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
+\#62 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
 
-\#55 \[DP 1800\] [https://codeforces.com/problemset/problem/909/C](https://codeforces.com/problemset/problem/909/C)
+\#61 \[DP 1800\] [https://codeforces.com/problemset/problem/909/C](https://codeforces.com/problemset/problem/909/C)
 
-\#54 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1061/C](https://codeforces.com/problemset/problem/1061/C)
+\#60 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1061/C](https://codeforces.com/problemset/problem/1061/C)
 
-\#53 \[DP 1600\] [https://codeforces.com/problemset/problem/913/C](https://codeforces.com/problemset/problem/913/C)
+\#59 \[DP 1600\] [https://codeforces.com/problemset/problem/913/C](https://codeforces.com/problemset/problem/913/C)
 
-\#52 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1073/D](https://codeforces.com/problemset/problem/1073/D)
+\#58 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1073/D](https://codeforces.com/problemset/problem/1073/D)
 
-\#51 \[Graph 1900\] [https://codeforces.com/problemset/problem/1328/E](https://codeforces.com/problemset/problem/1328/E)
+\#57 \[Graph LCA 2200\] [https://codeforces.com/contest/587/problem/C](https://codeforces.com/contest/587/problem/C)
+
+\#56 \[Graph LCA 2100\] [https://codeforces.com/contest/609/problem/E](https://codeforces.com/contest/609/problem/E)
+
+\#55 \[Graph LCA 2100\] [https://codeforces.com/contest/466/problem/E](https://codeforces.com/contest/466/problem/E)
+
+\#54 \[Graph LCA 2100\] [https://codeforces.com/contest/208/problem/E](https://codeforces.com/contest/208/problem/E)
+
+\#53 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
+
+\#52 \[Graph LCA 2100\] [https://codeforces.com/contest/519/problem/E](https://codeforces.com/contest/519/problem/E)
+
+~~\#51 \[DONE\] \[Graph LCA 1900\]~~ [~~https://codeforces.com/problemset/problem/1328/E~~](https://codeforces.com/problemset/problem/1328/E)~~~~
 
 ~~\#50 \[DONE\] \[Graph LCA\] https://www.spoj.com/problems/LCA/~~ **\(0.05s\)**
 
