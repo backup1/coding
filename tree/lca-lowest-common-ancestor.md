@@ -2,6 +2,8 @@
 
 Binary lifting is in use to make the algorithm in O\(logN\)
 
+Ref. [https://cp-algorithms.com/graph/lca\_binary\_lifting.html](https://cp-algorithms.com/graph/lca_binary_lifting.html)
+
 {% embed url="https://www.spoj.com/problems/QTREE2/" %}
 
 ```cpp
