@@ -30,7 +30,7 @@ Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
 \#52 \[Graph LCA 2100\] [https://codeforces.com/contest/519/problem/E](https://codeforces.com/contest/519/problem/E)
 
-~~\#51 \[DONE\] \[Graph LCA 1900\]~~ [~~https://codeforces.com/problemset/problem/1328/E~~](https://codeforces.com/problemset/problem/1328/E)~~~~
+~~\#51 \[DONE\] \[Graph LCA 1900\] https://codeforces.com/problemset/problem/1328/E~~
 
 ~~\#50 \[DONE\] \[Graph LCA\] https://www.spoj.com/problems/LCA/~~ **\(0.05s\)**
 
