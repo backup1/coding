@@ -6,7 +6,7 @@ description: 2020.05.01
 
 Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
-\[2020/05/01 - 2020/05/31\] **52** DONE \[Data Structure **14**\] \[Graph **12**\] \[DP **25**\] \[Interactive **1**\]
+\[2020/05/01 - 2020/05/31\] **53** DONE \[Data Structure **15**\] \[Graph **12**\] \[DP **25**\] \[Interactive **1**\]
 
 \#57 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
 
@@ -16,7 +16,7 @@ Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
 \#54 \[DP 1600\] [https://codeforces.com/problemset/problem/913/C](https://codeforces.com/problemset/problem/913/C)
 
-\#53 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1073/D](https://codeforces.com/problemset/problem/1073/D)
+~~\#53 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/1073/D~~](https://codeforces.com/problemset/problem/1073/D)~~~~
 
 ~~\#52 \[DONE\] \[Graph LCA 2100\] https://codeforces.com/contest/519/problem/E~~
 
