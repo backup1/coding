@@ -26,6 +26,16 @@
 
 \[Graph LCA\] [https://www.spoj.com/problems/DYNALCA/en/](https://www.spoj.com/problems/DYNALCA/en/)
 
+\#57 \[Graph LCA 2200\] [https://codeforces.com/contest/587/problem/C](https://codeforces.com/contest/587/problem/C)
+
+\#56 \[Graph LCA 2100\] [https://codeforces.com/contest/609/problem/E](https://codeforces.com/contest/609/problem/E)
+
+\#55 \[Graph LCA 2100\] [https://codeforces.com/contest/466/problem/E](https://codeforces.com/contest/466/problem/E)
+
+\#54 \[Graph LCA 2100\] [https://codeforces.com/contest/208/problem/E](https://codeforces.com/contest/208/problem/E)
+
+\#53 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
+
 \[Graph LCA\] [208E - Blood Cousins](https://codeforces.com/contest/208/problem/E)  
 \[Graph LCA\] [191C - Fools and Roads](https://codeforces.com/contest/191/problem/C)  
 \[Graph LCA\] [519E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E)  
