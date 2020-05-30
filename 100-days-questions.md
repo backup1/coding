@@ -14,9 +14,9 @@ Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
 \#55 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1061/C](https://codeforces.com/problemset/problem/1061/C)
 
-\#54 \[DP 1600\] [https://codeforces.com/problemset/problem/913/C](https://codeforces.com/problemset/problem/913/C)
+~~\#54 \[DONE\] \[DP 1600\] https://codeforces.com/problemset/problem/913/C~~
 
-~~\#53 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/1073/D~~](https://codeforces.com/problemset/problem/1073/D)~~~~
+~~\#53 \[DONE\] \[Data Structure 1700\] https://codeforces.com/problemset/problem/1073/D~~
 
 ~~\#52 \[DONE\] \[Graph LCA 2100\] https://codeforces.com/contest/519/problem/E~~
 

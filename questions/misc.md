@@ -1,5 +1,21 @@
 # Misc
 
+Next
+
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
+
+\[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
+
+\[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
+
+\#53 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
+
+
+
+Too Hard ???
+
 \#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
 
 \# \[Segment Tree\] 2009/February/Gold/slowdown
@@ -15,6 +31,12 @@
 \[DP / math\] [https://codeforces.com/contest/665/problem/F](https://codeforces.com/contest/665/problem/F)
 
 \[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
+
+
+
+
+
+
 
 
 
@@ -34,11 +56,8 @@
 
 \#54 \[Graph LCA 2100\] [https://codeforces.com/contest/208/problem/E](https://codeforces.com/contest/208/problem/E)
 
-\#53 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
-
 \[Graph LCA\] [208E - Blood Cousins](https://codeforces.com/contest/208/problem/E)  
 \[Graph LCA\] [191C - Fools and Roads](https://codeforces.com/contest/191/problem/C)  
-\[Graph LCA\] [519E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E)  
 \[Graph LCA\] [587C - Duff in the Army](https://codeforces.com/contest/587/problem/C)  
 \[Graph LCA\] [609E - Minimum spanning tree for each edge](https://codeforces.com/contest/609/problem/E)  
 \[Graph LCA\] [178B3 - Greedy Merchants](https://codeforces.com/contest/178/problem/B3)  
@@ -96,10 +115,6 @@
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
-
-\[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
-
-\[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/182/E](https://codeforces.com/problemset/problem/182/E)
 
@@ -174,10 +189,6 @@
 \[Graph 1800\] [https://codeforces.com/problemset/problem/1118/F1](https://codeforces.com/problemset/problem/1118/F1)
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1095/F](https://codeforces.com/problemset/problem/1095/F)
-
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
