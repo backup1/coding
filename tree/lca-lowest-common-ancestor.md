@@ -269,3 +269,82 @@ int main(){
 {% endtab %}
 {% endtabs %}
 
+{% embed url="https://codeforces.com/contest/519/problem/E" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int l,timer;
+vector<int> tin,tout,depth,sz;
+vector<vector<int>> adj,up;
+void dfs(int node,int pere){
+  tin[node] = timer++;
+  up[node][0] = pere;
+  for(int i = 1; i <= l; ++i) up[node][i] = up[up[node][i-1]][i-1];
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    depth[i] = depth[node] + 1;
+    dfs(i,node);
+    sz[node] += sz[i];
+  }
+  tout[node] = timer++;
+}
+bool is_ancestor(int x,int y){
+  return tin[x] <= tin[y] and tout[y] <= tout[x];
+}
+int lca(int x,int y){
+  if(depth[x] > depth[y]) swap(x,y);
+  if(is_ancestor(x,y)) return x;
+  for(int i = l; i >= 0; --i){
+    if(!is_ancestor(up[y][i],x)) y = up[y][i];
+  }
+  return up[y][0];
+}
+int upd(int node,int d){
+  for(int i = l; i >= 0; --i){
+    if(d&(1<<i)) node = up[node][i];
+  }
+  return node;
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int n,a,b;
+  cin >> n;
+  l = ceil(log2(n+1));
+  tin.resize(n+1);
+  tout.resize(n+1);
+  depth.resize(n+1);
+  sz.resize(n+1,1);
+  adj.resize(n+1);
+  up.assign(n+1,vector<int>(l+1));
+  for(int i = 1; i < n; ++i){
+    cin >> a >> b;
+    adj[a].push_back(b);
+    adj[b].push_back(a);
+  }
+  timer = 1;
+  depth[1] = 1;
+  dfs(1,1);
+  int m,x,y;
+  cin >> m;
+  while(m--){
+    cin >> x >> y;
+    int xy = lca(x,y);
+    int length = depth[x]+depth[y]-2*depth[xy];
+    if(length&1) cout << "0\n";
+    else if(x == y) cout << n << '\n';
+    else if(depth[x] == depth[y]){
+      int d = depth[x]-depth[lca(x,y)];
+      cout << n-sz[upd(x,d-1)]-sz[upd(y,d-1)] << '\n';
+    }
+    else{
+      if(depth[x] < depth[y]) swap(x,y);
+      x = upd(x,length/2-1);
+      cout << sz[up[x][0]]-sz[x] << '\n';
+    }
+  }
+  return 0;
+}
+```
+
