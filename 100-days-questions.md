@@ -6,7 +6,7 @@ description: 2020.05.01
 
 Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
-\[2020/05/01 - 2020/05/31\] **53** DONE \[Data Structure **15**\] \[Graph **12**\] \[DP **25**\] \[Interactive **1**\]
+\[2020/05/01 - 2020/05/31\] **54** DONE \[Data Structure **15**\] \[Graph **12**\] \[DP **26**\] \[Interactive **1**\]
 
 \#57 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
 

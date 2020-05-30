@@ -6,6 +6,8 @@ Next
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
 
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/1082/B](https://codeforces.com/problemset/problem/1082/B)
+
 \[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
@@ -295,4 +297,44 @@ Segment Tree USACO:
 2016/Open/Platinum/grass
 
 2017/February/Platinum/slingshot
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/1027/C](https://codeforces.com/problemset/problem/1027/C)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/1065/C](https://codeforces.com/problemset/problem/1065/C)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/1281/B](https://codeforces.com/problemset/problem/1281/B)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/1003/D](https://codeforces.com/problemset/problem/1003/D)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/949/A](https://codeforces.com/problemset/problem/949/A)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/1031/C](https://codeforces.com/problemset/problem/1031/C)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/723/C](https://codeforces.com/problemset/problem/723/C)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/154/A](https://codeforces.com/problemset/problem/154/A)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/898/D](https://codeforces.com/problemset/problem/898/D)
+
+\[Greedy 1600\] [https://codeforces.com/problemset/problem/250/C](https://codeforces.com/problemset/problem/250/C)
+
+\[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
+
+\[Greedy 1700\] [https://codeforces.com/problemset/problem/1157/C2](https://codeforces.com/problemset/problem/1157/C2)
+
+\[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
+
+\[Greedy 1700\] [https://codeforces.com/problemset/problem/191/B](https://codeforces.com/problemset/problem/191/B)
+
+\[Greedy 1800\] [https://codeforces.com/problemset/problem/478/C](https://codeforces.com/problemset/problem/478/C)
+
+\[Greedy 1800\] [https://codeforces.com/problemset/problem/979/B](https://codeforces.com/problemset/problem/979/B)
+
+\[Greedy 1800\] [https://codeforces.com/problemset/problem/1148/D](https://codeforces.com/problemset/problem/1148/D)
+
+\[Greedy 1800\] [https://codeforces.com/problemset/problem/1136/D](https://codeforces.com/problemset/problem/1136/D)
+
+\[Greedy 1800\] [https://codeforces.com/problemset/problem/333/B](https://codeforces.com/problemset/problem/333/B)
+
+\[Greedy 1800\] [https://codeforces.com/problemset/problem/89/A](https://codeforces.com/problemset/problem/89/A)
 
