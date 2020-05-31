@@ -348,3 +348,78 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/contest/191/problem/C" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+ll l,timer;
+vector<ll> tin,tout,val;
+vector<vector<ll>> up,adj;
+vector<pair<ll,ll>> vp;
+void dfs(ll node,ll pere){
+  tin[node] = timer++;
+  up[node][0] = pere;
+  for(ll i = 1; i <= l; ++i) up[node][i] = up[up[node][i-1]][i-1];
+  for(ll i : adj[node]){
+    if(i == pere) continue;
+    dfs(i,node);
+  }
+  tout[node] = timer++;
+}
+bool is_ancestor(ll x,ll y){
+  return tin[x] <= tin[y] and tout[y] <= tout[x];
+}
+ll lca(ll x,ll y){
+  if(is_ancestor(x,y)) return x;
+  if(is_ancestor(y,x)) return y;
+  for(ll i = l; i >= 0; --i){
+    if(!is_ancestor(up[x][i],y)) x = up[x][i];
+  }
+  return up[x][0];
+}
+void dfs2(ll node,ll pere){
+  for(ll i : adj[node]){
+    if(i == pere) continue;
+    dfs2(i,node);
+    val[node] += val[i];
+  }
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll n,u,v;
+  cin >> n;
+  adj.resize(n+1);
+  for(ll i = 1; i < n; ++i){
+    cin >> u >> v;
+    vp.emplace_back(u,v);
+    adj[u].push_back(v);
+    adj[v].push_back(u);
+  }
+  tin.resize(n+1);
+  tout.resize(n+1);
+  l = ceil(log2(n+1))+1;
+  up.assign(n+1,vector<ll>(l+1));
+  timer = 1;
+  dfs(1,1);
+  ll k;
+  cin >> k;
+  val.resize(n+1);
+  while(k--){
+    cin >> u >> v;
+    ll uv = lca(u,v);
+    ++val[u];
+    ++val[v];
+    val[uv] -= 2;
+  }
+  dfs2(1,1);
+  for(auto& p : vp){
+    if(p.first == up[p.second][0]) cout << val[p.second] << ' ';
+    else cout << val[p.first] << ' ';
+  }
+  return 0;
+}
+```
+
