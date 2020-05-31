@@ -6,11 +6,11 @@ description: 2020.05.01
 
 Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
-\[2020/05/01 - 2020/05/31\] **55** DONE \[Data Structure **16**\] \[Graph **12**\] \[DP **26**\] \[Interactive **1**\]
+\[2020/05/01 - 2020/05/31\] **56** DONE \[Data Structure **16**\] \[Graph **12**\] \[DP **27**\] \[Interactive **1**\]
 
 \#57 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1157/E](https://codeforces.com/problemset/problem/1157/E)
 
-\#56 \[DP 1800\] [https://codeforces.com/problemset/problem/909/C](https://codeforces.com/problemset/problem/909/C)
+~~\#56 \[DONE\] \[DP 1800\] https://codeforces.com/problemset/problem/909/C~~
 
 ~~\#55 \[DONE\] \[Data Structure 1700\] https://codeforces.com/problemset/problem/1061/C~~
 
