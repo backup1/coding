@@ -12,15 +12,13 @@ Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
 \[2020/06/01 - 2020/06/30\] **1** DONE \[Data Structure **1**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\]
 
-\#64 \[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
+\#63 \[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
 
-\#63 \[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
+\#62 \[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
 
-\#62 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1082/B](https://codeforces.com/problemset/problem/1082/B)
+\#61 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1082/B](https://codeforces.com/problemset/problem/1082/B)
 
-\#61 \[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
-
-\#60 \[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
+\#60 \[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
 
 \#59 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
 
