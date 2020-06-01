@@ -6,23 +6,25 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 57 | 17 | 12 | 27 | 0 | 1 |
+| 58 | 18 | 12 | 27 | 0 | 1 |
 
 Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **0** DONE \[Data Structure **0**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\]
+\[2020/06/01 - 2020/06/30\] **1** DONE \[Data Structure **1**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\]
 
-\#63 \[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
+\#64 \[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
 
-\#62 \[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
+\#63 \[DP 1800\] [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A)
 
-\#61 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1082/B](https://codeforces.com/problemset/problem/1082/B)
+\#62 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1082/B](https://codeforces.com/problemset/problem/1082/B)
 
-\#60 \[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
+\#61 \[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
 
-\#59 \[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
+\#60 \[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
 
-\#58 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
+\#59 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
+
+~~\#58 \[DONE\] \[EJOI2017 Magic\] https://csacademy.com/contest/archive/task/magic/statement/~~
 
 \[2020/05/01 - 2020/05/31\] **57** DONE \[Data Structure **17**\] \[Graph **12**\] \[DP **27**\] \[Interactive **1**\]
 
