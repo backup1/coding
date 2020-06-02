@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 58 | 18 | 12 | 27 | 0 | 1 |
+| 59 | 18 | 13 | 27 | 0 | 1 |
 
 Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **1** DONE \[Data Structure **1**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\]
+\[2020/06/01 - 2020/06/30\] **2** DONE \[Data Structure **1**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\]
 
 \#63 \[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
 
@@ -20,7 +20,7 @@ Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
 \#60 \[Graph 1800\] [https://codeforces.com/problemset/problem/1083/A](https://codeforces.com/problemset/problem/1083/A)
 
-\#59 \[Graph LCA 1900\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
+~~\#59 \[DONE\] \[Graph LCA 1900\] https://codeforces.com/contest/191/problem/C~~
 
 ~~\#58 \[DONE\] \[EJOI2017 Magic\] https://csacademy.com/contest/archive/task/magic/statement/~~
 
