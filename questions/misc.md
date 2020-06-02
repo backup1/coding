@@ -4,6 +4,18 @@ Next
 
 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
+\[Data Structure 1800\] [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
+
+\[DP 1800\] [https://codeforces.com/problemset/problem/182/E](https://codeforces.com/problemset/problem/182/E)
+
+\[Data Structure 1700\] [https://codeforces.com/problemset/problem/466/C](https://codeforces.com/problemset/problem/466/C)
+
+\[DP 1600\] [https://codeforces.com/problemset/problem/888/D](https://codeforces.com/problemset/problem/888/D)
+
+\[Data Structure 1600\] [https://codeforces.com/problemset/problem/276/C](https://codeforces.com/problemset/problem/276/C)
+
+
+
 
 
 Too Hard ???
@@ -110,13 +122,9 @@ AtCoder DP [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/182/E](https://codeforces.com/problemset/problem/182/E)
-
 \[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/888/D](https://codeforces.com/problemset/problem/888/D)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/817/C](https://codeforces.com/problemset/problem/817/C)
 
@@ -388,7 +396,7 @@ Segment Tree USACO:
 
 ## Fenwick Tree
 
-1600 [https://codeforces.com/problemset/problem/276/C](https://codeforces.com/problemset/problem/276/C)
+~~1600~~ [~~https://codeforces.com/problemset/problem/276/C~~](https://codeforces.com/problemset/problem/276/C)~~~~
 
 ## Bit operation
 
@@ -408,7 +416,7 @@ Segment Tree USACO:
 
 ## Fenwick Tree L1,L2
 
-1700 [https://codeforces.com/problemset/problem/466/C](https://codeforces.com/problemset/problem/466/C)
+~~1700~~ [~~https://codeforces.com/problemset/problem/466/C~~](https://codeforces.com/problemset/problem/466/C)~~~~
 
 ## Bit operation L2,L3
 
@@ -440,7 +448,7 @@ Segment Tree USACO:
 
 ## Segment Tree L1,L2,L3
 
-1800 [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1900 [https://codeforces.com/problemset/problem/220/B](https://codeforces.com/problemset/problem/220/B) 2100 [https://codeforces.com/problemset/problem/380/C](https://codeforces.com/problemset/problem/380/C)
+~~1800~~ [~~https://codeforces.com/problemset/problem/459/D~~](https://codeforces.com/problemset/problem/459/D) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1900 [https://codeforces.com/problemset/problem/220/B](https://codeforces.com/problemset/problem/220/B) 2100 [https://codeforces.com/problemset/problem/380/C](https://codeforces.com/problemset/problem/380/C)
 
 ## Math
 
