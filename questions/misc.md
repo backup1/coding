@@ -330,3 +330,119 @@ Segment Tree USACO:
 
 \[Greedy 1800\] [https://codeforces.com/problemset/problem/89/A](https://codeforces.com/problemset/problem/89/A)
 
+
+
+
+
+
+
+## Ongoing:
+
+[https://codeforces.com/problemset/problem/1105/C](https://codeforces.com/problemset/problem/1105/C)[https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)
+
+## Graph
+
+[https://codeforces.com/problemset/problem/1106/D](https://codeforces.com/problemset/problem/1106/D)
+
+## Dynamic Programming
+
+[https://codeforces.com/problemset/problem/204/A](https://codeforces.com/problemset/problem/204/A)
+
+1600 [https://codeforces.com/problemset/problem/615/B](https://codeforces.com/problemset/problem/615/B)
+
+## Greedy
+
+1200 [https://codeforces.com/problemset/problem/225/A](https://codeforces.com/problemset/problem/225/A) 1200 [https://codeforces.com/problemset/problem/136/B](https://codeforces.com/problemset/problem/136/B)
+
+1200 [https://codeforces.com/problemset/problem/402/A](https://codeforces.com/problemset/problem/402/A)
+
+## Graph
+
+1500 [https://codeforces.com/problemset/problem/402/C](https://codeforces.com/problemset/problem/402/C)
+
+## Tree
+
+1600 [https://codeforces.com/problemset/problem/639/B](https://codeforces.com/problemset/problem/639/B)
+
+## Two pointers
+
+1400 [https://codeforces.com/problemset/problem/416/A](https://codeforces.com/problemset/problem/416/A)
+
+1600 [https://codeforces.com/problemset/problem/749/C](https://codeforces.com/problemset/problem/749/C)
+
+## Data structure
+
+1600 [https://codeforces.com/problemset/problem/681/C](https://codeforces.com/problemset/problem/681/C)
+
+1500 [https://codeforces.com/problemset/problem/383/A](https://codeforces.com/problemset/problem/383/A)
+
+## Union Find
+
+1500 [https://codeforces.com/problemset/problem/277/A](https://codeforces.com/problemset/problem/277/A)
+
+1400 [https://codeforces.com/problemset/problem/515/B](https://codeforces.com/problemset/problem/515/B)
+
+## Dynamic Programming
+
+1300 [https://codeforces.com/problemset/problem/416/B](https://codeforces.com/problemset/problem/416/B)
+
+## Fenwick Tree
+
+1600 [https://codeforces.com/problemset/problem/276/C](https://codeforces.com/problemset/problem/276/C)
+
+## Bit operation
+
+1500 [https://codeforces.com/problemset/problem/224/B](https://codeforces.com/problemset/problem/224/B)
+
+## Greedy L3
+
+1800 [https://codeforces.com/problemset/problem/671/A](https://codeforces.com/problemset/problem/671/A) 1600 [https://codeforces.com/problemset/problem/626/C](https://codeforces.com/problemset/problem/626/C) 1500 [https://codeforces.com/problemset/problem/437/B](https://codeforces.com/problemset/problem/437/B) 1700 [https://codeforces.com/problemset/problem/584/C](https://codeforces.com/problemset/problem/584/C) 1700 [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C) 1700 [https://codeforces.com/problemset/problem/339/C](https://codeforces.com/problemset/problem/339/C) 1800 [https://codeforces.com/problemset/problem/552/C](https://codeforces.com/problemset/problem/552/C) 1900 [https://codeforces.com/problemset/problem/448/C](https://codeforces.com/problemset/problem/448/C) 1700 [https://codeforces.com/problemset/problem/494/A](https://codeforces.com/problemset/problem/494/A) 1800 [https://codeforces.com/problemset/problem/777/D](https://codeforces.com/problemset/problem/777/D) 1200 [https://codeforces.com/problemset/problem/257/A](https://codeforces.com/problemset/problem/257/A) 1800 [https://codeforces.com/problemset/problem/578/B](https://codeforces.com/problemset/problem/578/B) 900 [https://codeforces.com/problemset/problem/202/A](https://codeforces.com/problemset/problem/202/A) 1300 [https://codeforces.com/problemset/problem/16/B](https://codeforces.com/problemset/problem/16/B) 1800 [https://codeforces.com/problemset/problem/479/D](https://codeforces.com/problemset/problem/479/D) 1300 [https://codeforces.com/problemset/problem/298/A](https://codeforces.com/problemset/problem/298/A) 1700 [https://codeforces.com/problemset/problem/815/A](https://codeforces.com/problemset/problem/815/A) 1600 [https://codeforces.com/problemset/problem/416/C](https://codeforces.com/problemset/problem/416/C) 1500 [https://codeforces.com/problemset/problem/111/A](https://codeforces.com/problemset/problem/111/A) 1300 [https://codeforces.com/problemset/problem/161/A](https://codeforces.com/problemset/problem/161/A) 1400 [https://codeforces.com/problemset/problem/337/B](https://codeforces.com/problemset/problem/337/B) 1700 [https://codeforces.com/problemset/problem/540/B](https://codeforces.com/problemset/problem/540/B) 1400 [https://codeforces.com/problemset/problem/261/A](https://codeforces.com/problemset/problem/261/A) 1600 [https://codeforces.com/problemset/problem/749/C](https://codeforces.com/problemset/problem/749/C) 1800 [https://codeforces.com/problemset/problem/463/C](https://codeforces.com/problemset/problem/463/C) 1100 [https://codeforces.com/problemset/problem/381/B](https://codeforces.com/problemset/problem/381/B) 1400 [https://codeforces.com/problemset/problem/203/C](https://codeforces.com/problemset/problem/203/C) 1400 [https://codeforces.com/problemset/problem/628/C](https://codeforces.com/problemset/problem/628/C) 1400 [https://codeforces.com/problemset/problem/257/B](https://codeforces.com/problemset/problem/257/B) 1400 [https://codeforces.com/problemset/problem/313/C](https://codeforces.com/problemset/problem/313/C) 2300 [https://codeforces.com/problemset/problem/26/B](https://codeforces.com/problemset/problem/26/B) 1500 [https://codeforces.com/problemset/problem/527/B](https://codeforces.com/problemset/problem/527/B) 1600 [https://codeforces.com/problemset/problem/219/C](https://codeforces.com/problemset/problem/219/C) 1400 [https://codeforces.com/problemset/problem/441/B](https://codeforces.com/problemset/problem/441/B) 1600 [https://codeforces.com/problemset/problem/354/A](https://codeforces.com/problemset/problem/354/A) 1500 [https://codeforces.com/problemset/problem/329/A](https://codeforces.com/problemset/problem/329/A) 1700 [https://codeforces.com/problemset/problem/337/C](https://codeforces.com/problemset/problem/337/C) 1300 [https://codeforces.com/problemset/problem/262/B](https://codeforces.com/problemset/problem/262/B) 1600 [https://codeforces.com/problemset/problem/712/C](https://codeforces.com/problemset/problem/712/C) 1700 [https://codeforces.com/problemset/problem/464/A](https://codeforces.com/problemset/problem/464/A) 1600 [https://codeforces.com/problemset/problem/525/C](https://codeforces.com/problemset/problem/525/C) 1500 [https://codeforces.com/problemset/problem/166/C](https://codeforces.com/problemset/problem/166/C) 1600 [https://codeforces.com/problemset/problem/350/C](https://codeforces.com/problemset/problem/350/C) 1500 [https://codeforces.com/problemset/problem/620/C](https://codeforces.com/problemset/problem/620/C) 1600 [https://codeforces.com/problemset/problem/508/C](https://codeforces.com/problemset/problem/508/C) 1400 [https://codeforces.com/problemset/problem/270/B](https://codeforces.com/problemset/problem/270/B) 1200 [https://codeforces.com/problemset/problem/401/B](https://codeforces.com/problemset/problem/401/B) 1900 [https://codeforces.com/problemset/problem/460/C](https://codeforces.com/problemset/problem/460/C) 1500 [https://codeforces.com/problemset/problem/435/B](https://codeforces.com/problemset/problem/435/B) 1800 [https://codeforces.com/problemset/problem/442/B](https://codeforces.com/problemset/problem/442/B) 1400 [https://codeforces.com/problemset/problem/748/C](https://codeforces.com/problemset/problem/748/C) 1900 [https://codeforces.com/problemset/problem/5/C](https://codeforces.com/problemset/problem/5/C) 1600 [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E) 1600 [https://codeforces.com/problemset/problem/681/C](https://codeforces.com/problemset/problem/681/C) 1700 [https://codeforces.com/problemset/problem/520/C](https://codeforces.com/problemset/problem/520/C) 1800 [https://codeforces.com/problemset/problem/276/D](https://codeforces.com/problemset/problem/276/D)
+
+## Dynamic Programming L3
+
+1900 [https://codeforces.com/problemset/problem/519/D](https://codeforces.com/problemset/problem/519/D) 1700 [https://codeforces.com/problemset/problem/685/A](https://codeforces.com/problemset/problem/685/A) 2000 [https://codeforces.com/problemset/problem/607/B](https://codeforces.com/problemset/problem/607/B) 1700 [https://codeforces.com/problemset/problem/682/C](https://codeforces.com/problemset/problem/682/C) 1700 [https://codeforces.com/problemset/problem/711/C](https://codeforces.com/problemset/problem/711/C) 1800 [https://codeforces.com/problemset/problem/4/D](https://codeforces.com/problemset/problem/4/D) 1700 [https://codeforces.com/problemset/problem/798/C](https://codeforces.com/problemset/problem/798/C) 1900 [https://codeforces.com/problemset/problem/580/D](https://codeforces.com/problemset/problem/580/D) 1700 [https://codeforces.com/problemset/problem/231/C](https://codeforces.com/problemset/problem/231/C) 1600 [https://codeforces.com/problemset/problem/219/C](https://codeforces.com/problemset/problem/219/C) 1800 [https://codeforces.com/problemset/problem/721/C](https://codeforces.com/problemset/problem/721/C) 2000 [https://codeforces.com/problemset/problem/463/D](https://codeforces.com/problemset/problem/463/D) 1600 [https://codeforces.com/problemset/problem/660/C](https://codeforces.com/problemset/problem/660/C) 1800 [https://codeforces.com/problemset/problem/225/C](https://codeforces.com/problemset/problem/225/C) 1900 [https://codeforces.com/problemset/problem/5/C](https://codeforces.com/problemset/problem/5/C) 2100 [https://codeforces.com/problemset/problem/547/B](https://codeforces.com/problemset/problem/547/B) 1900 [https://codeforces.com/problemset/problem/448/C](https://codeforces.com/problemset/problem/448/C) 1800 [https://codeforces.com/problemset/problem/276/D](https://codeforces.com/problemset/problem/276/D) 1700 [https://codeforces.com/problemset/problem/264/B](https://codeforces.com/problemset/problem/264/B) 1800 [https://codeforces.com/problemset/problem/385/C](https://codeforces.com/problemset/problem/385/C) 1900 [https://codeforces.com/problemset/problem/518/D](https://codeforces.com/problemset/problem/518/D) 2000 [https://codeforces.com/problemset/problem/269/B](https://codeforces.com/problemset/problem/269/B) 1700 [https://codeforces.com/problemset/problem/339/C](https://codeforces.com/problemset/problem/339/C) 1900 [https://codeforces.com/problemset/problem/219/D](https://codeforces.com/problemset/problem/219/D) 1900 [https://codeforces.com/problemset/problem/543/A](https://codeforces.com/problemset/problem/543/A) 1700 [https://codeforces.com/problemset/problem/766/C](https://codeforces.com/problemset/problem/766/C) 1700 [https://codeforces.com/problemset/problem/741/B](https://codeforces.com/problemset/problem/741/B) 1800 [https://codeforces.com/problemset/problem/429/B](https://codeforces.com/problemset/problem/429/B) 2100 [https://codeforces.com/problemset/problem/505/C](https://codeforces.com/problemset/problem/505/C) 1800 [https://codeforces.com/problemset/problem/671/A](https://codeforces.com/problemset/problem/671/A) 1800 [https://codeforces.com/problemset/problem/340/D](https://codeforces.com/problemset/problem/340/D) 1800 [https://codeforces.com/problemset/problem/161/D](https://codeforces.com/problemset/problem/161/D) 1600 [https://codeforces.com/problemset/problem/416/C](https://codeforces.com/problemset/problem/416/C) 1800 [https://codeforces.com/problemset/problem/552/C](https://codeforces.com/problemset/problem/552/C) 1700 [https://codeforces.com/problemset/problem/279/C](https://codeforces.com/problemset/problem/279/C) 1800 [https://codeforces.com/problemset/problem/573/B](https://codeforces.com/problemset/problem/573/B) 2000 [https://codeforces.com/problemset/problem/2/B](https://codeforces.com/problemset/problem/2/B) 1800 [https://codeforces.com/problemset/problem/407/B](https://codeforces.com/problemset/problem/407/B) 1900 [https://codeforces.com/problemset/problem/295/B](https://codeforces.com/problemset/problem/295/B)
+
+## Data structure L3
+
+1700 [https://codeforces.com/problemset/problem/622/C](https://codeforces.com/problemset/problem/622/C) 1800 [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D) 1900 [https://codeforces.com/problemset/problem/519/D](https://codeforces.com/problemset/problem/519/D) 1700 [https://codeforces.com/problemset/problem/246/D](https://codeforces.com/problemset/problem/246/D) 1800 [https://codeforces.com/problemset/problem/573/B](https://codeforces.com/problemset/problem/573/B) 1900 [https://codeforces.com/problemset/problem/460/C](https://codeforces.com/problemset/problem/460/C) 1900 [https://codeforces.com/problemset/problem/5/C](https://codeforces.com/problemset/problem/5/C) 1600 [https://codeforces.com/problemset/problem/821/C](https://codeforces.com/problemset/problem/821/C) 1700 [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C) 1800 [https://codeforces.com/problemset/problem/385/C](https://codeforces.com/problemset/problem/385/C) 2100 [https://codeforces.com/problemset/problem/547/B](https://codeforces.com/problemset/problem/547/B) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1900 [https://codeforces.com/problemset/problem/220/B](https://codeforces.com/problemset/problem/220/B) 1600 [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E) 2700 [https://codeforces.com/problemset/problem/86/D](https://codeforces.com/problemset/problem/86/D) 1800 [https://codeforces.com/problemset/problem/271/D](https://codeforces.com/problemset/problem/271/D) 2100 [https://codeforces.com/problemset/problem/380/C](https://codeforces.com/problemset/problem/380/C) 1800 [https://codeforces.com/problemset/problem/340/D](https://codeforces.com/problemset/problem/340/D) 1800 [https://codeforces.com/problemset/problem/527/C](https://codeforces.com/problemset/problem/527/C) 1800 [https://codeforces.com/problemset/problem/706/D](https://codeforces.com/problemset/problem/706/D)
+
+## Fenwick Tree L1,L2
+
+1700 [https://codeforces.com/problemset/problem/466/C](https://codeforces.com/problemset/problem/466/C)
+
+## Bit operation L2,L3
+
+1700 [https://codeforces.com/problemset/problem/484/A](https://codeforces.com/problemset/problem/484/A) 1600 [https://codeforces.com/problemset/problem/812/B](https://codeforces.com/problemset/problem/812/B) 1900 [https://codeforces.com/problemset/problem/580/D](https://codeforces.com/problemset/problem/580/D) 1600 [https://codeforces.com/problemset/problem/878/A](https://codeforces.com/problemset/problem/878/A) 1800 [https://codeforces.com/problemset/problem/276/D](https://codeforces.com/problemset/problem/276/D)
+
+## Union Find L1,L2
+
+1600 [https://codeforces.com/problemset/problem/763/A](https://codeforces.com/problemset/problem/763/A) 1700 [https://codeforces.com/problemset/problem/356/A](https://codeforces.com/problemset/problem/356/A) 1500 [https://codeforces.com/problemset/problem/505/B](https://codeforces.com/problemset/problem/505/B) 2300 [https://codeforces.com/problemset/problem/506/D](https://codeforces.com/problemset/problem/506/D) 1600 [https://codeforces.com/problemset/problem/500/B](https://codeforces.com/problemset/problem/500/B) 1500 [https://codeforces.com/problemset/problem/445/B](https://codeforces.com/problemset/problem/445/B)
+
+## Two pointers L3
+
+1700 [https://codeforces.com/problemset/problem/279/C](https://codeforces.com/problemset/problem/279/C) 2100 [https://codeforces.com/problemset/problem/484/B](https://codeforces.com/problemset/problem/484/B) 2700 [https://codeforces.com/problemset/problem/86/D](https://codeforces.com/problemset/problem/86/D) 2100 [https://codeforces.com/problemset/problem/505/C](https://codeforces.com/problemset/problem/505/C) 1700 [https://codeforces.com/problemset/problem/231/C](https://codeforces.com/problemset/problem/231/C) 1600 [https://codeforces.com/problemset/problem/660/C](https://codeforces.com/problemset/problem/660/C) 1700 [https://codeforces.com/problemset/problem/493/C](https://codeforces.com/problemset/problem/493/C) 1600 [https://codeforces.com/problemset/problem/237/C](https://codeforces.com/problemset/problem/237/C) 1900 [https://codeforces.com/problemset/problem/519/D](https://codeforces.com/problemset/problem/519/D)
+
+## Divide and Conquer L1,L2
+
+1800 [https://codeforces.com/problemset/problem/559/B](https://codeforces.com/problemset/problem/559/B) 1800 [https://codeforces.com/problemset/problem/161/D](https://codeforces.com/problemset/problem/161/D) 1900 [https://codeforces.com/problemset/problem/448/C](https://codeforces.com/problemset/problem/448/C) 1800 [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
+
+## Graph - DFS/BFS/Dijkstra L3
+
+1700 [https://codeforces.com/problemset/problem/682/C](https://codeforces.com/problemset/problem/682/C) 1700 [https://codeforces.com/problemset/problem/246/D](https://codeforces.com/problemset/problem/246/D) 1900 [https://codeforces.com/problemset/problem/219/D](https://codeforces.com/problemset/problem/219/D) 1900 [https://codeforces.com/problemset/problem/295/B](https://codeforces.com/problemset/problem/295/B) 1800 [https://codeforces.com/problemset/problem/540/C](https://codeforces.com/problemset/problem/540/C) 1700 [https://codeforces.com/problemset/problem/339/C](https://codeforces.com/problemset/problem/339/C) 1700 [https://codeforces.com/problemset/problem/489/D](https://codeforces.com/problemset/problem/489/D) 1700 [https://codeforces.com/problemset/problem/598/D](https://codeforces.com/problemset/problem/598/D) 2100 [https://codeforces.com/problemset/problem/505/C](https://codeforces.com/problemset/problem/505/C) 1700 [https://codeforces.com/problemset/problem/369/C](https://codeforces.com/problemset/problem/369/C) 1800 [https://codeforces.com/problemset/problem/4/D](https://codeforces.com/problemset/problem/4/D) 1600 [https://codeforces.com/problemset/problem/689/B](https://codeforces.com/problemset/problem/689/B) 1600 [https://codeforces.com/problemset/problem/741/A](https://codeforces.com/problemset/problem/741/A) 2000 [https://codeforces.com/problemset/problem/463/D](https://codeforces.com/problemset/problem/463/D) 1600 [https://codeforces.com/problemset/problem/103/B](https://codeforces.com/problemset/problem/103/B) 1600 [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E) 1700 [https://codeforces.com/problemset/problem/329/B](https://codeforces.com/problemset/problem/329/B) 1700 [https://codeforces.com/problemset/problem/741/B](https://codeforces.com/problemset/problem/741/B) 1800 [https://codeforces.com/problemset/problem/161/D](https://codeforces.com/problemset/problem/161/D)
+
+## Graph - Generic L3
+
+1800 [https://codeforces.com/problemset/problem/721/C](https://codeforces.com/problemset/problem/721/C) 1600 [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E) 1700 [https://codeforces.com/problemset/problem/246/D](https://codeforces.com/problemset/problem/246/D) 2000 [https://codeforces.com/problemset/problem/463/D](https://codeforces.com/problemset/problem/463/D) 1700 [https://codeforces.com/problemset/problem/369/C](https://codeforces.com/problemset/problem/369/C) \[?\] 1500 [https://codeforces.com/problemset/problem/417/C](https://codeforces.com/problemset/problem/417/C) 1500 [https://codeforces.com/problemset/problem/744/A](https://codeforces.com/problemset/problem/744/A) 1700 [https://codeforces.com/problemset/problem/489/D](https://codeforces.com/problemset/problem/489/D) 1600 [https://codeforces.com/problemset/problem/615/B](https://codeforces.com/problemset/problem/615/B) 1500 [https://codeforces.com/problemset/problem/320/B](https://codeforces.com/problemset/problem/320/B) 1900 [https://codeforces.com/problemset/problem/295/B](https://codeforces.com/problemset/problem/295/B) 1700 [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C) 1800 [https://codeforces.com/problemset/problem/623/A](https://codeforces.com/problemset/problem/623/A) 1600 [https://codeforces.com/problemset/problem/103/B](https://codeforces.com/problemset/problem/103/B)
+
+## Tree L2,L3
+
+1700 [https://codeforces.com/problemset/problem/522/A](https://codeforces.com/problemset/problem/522/A) 1900 [https://codeforces.com/problemset/problem/219/D](https://codeforces.com/problemset/problem/219/D) 1800 [https://codeforces.com/problemset/problem/161/D](https://codeforces.com/problemset/problem/161/D) 1700 [https://codeforces.com/problemset/problem/682/C](https://codeforces.com/problemset/problem/682/C) 1800 [https://codeforces.com/problemset/problem/706/D](https://codeforces.com/problemset/problem/706/D) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1700 [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C) 1600 [https://codeforces.com/problemset/problem/821/C](https://codeforces.com/problemset/problem/821/C) 1600 [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C) 1700 [https://codeforces.com/problemset/problem/369/C](https://codeforces.com/problemset/problem/369/C)
+
+## Segment Tree L1,L2,L3
+
+1800 [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1900 [https://codeforces.com/problemset/problem/220/B](https://codeforces.com/problemset/problem/220/B) 2100 [https://codeforces.com/problemset/problem/380/C](https://codeforces.com/problemset/problem/380/C)
+
+## Math
+
+1600 [https://codeforces.com/problemset/problem/495/B](https://codeforces.com/problemset/problem/495/B)
+
