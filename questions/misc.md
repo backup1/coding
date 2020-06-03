@@ -2,7 +2,17 @@
 
 Next
 
+\[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
+\[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
+
+\[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
+
+\[DP 1600\] [https://codeforces.com/problemset/problem/817/C](https://codeforces.com/problemset/problem/817/C)
+
+\[Graph 1800\] [https://codeforces.com/problemset/problem/1063/B](https://codeforces.com/problemset/problem/1063/B)
 
 
 
@@ -114,10 +124,6 @@ AtCoder DP [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/817/C](https://codeforces.com/problemset/problem/817/C)
-
 \[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/763/A](https://codeforces.com/problemset/problem/763/A)
@@ -181,12 +187,6 @@ AtCoder DP [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp
 \[Graph 1800\] [https://codeforces.com/problemset/problem/1118/F1](https://codeforces.com/problemset/problem/1118/F1)
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1095/F](https://codeforces.com/problemset/problem/1095/F)
-
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/1063/B](https://codeforces.com/problemset/problem/1063/B)
 
 \[Graph 1800\] [https://codeforces.com/problemset/problem/989/C](https://codeforces.com/problemset/problem/989/C)
 
@@ -307,8 +307,6 @@ Segment Tree USACO:
 \[Greedy 1600\] [https://codeforces.com/problemset/problem/898/D](https://codeforces.com/problemset/problem/898/D)
 
 \[Greedy 1600\] [https://codeforces.com/problemset/problem/250/C](https://codeforces.com/problemset/problem/250/C)
-
-\[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
 
 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1157/C2](https://codeforces.com/problemset/problem/1157/C2)
 
