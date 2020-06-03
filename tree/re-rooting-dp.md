@@ -116,3 +116,59 @@ int main(){
 }
 ```
 
+{% embed url="https://codeforces.com/problemset/problem/1092/F" %}
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+ll ans,tot;
+vector<ll> a,subsum;
+vector<vector<ll>> adj;
+void dfs1(ll node,ll pere){
+  subsum[node] = a[node];
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    dfs1(i,node);
+    subsum[node] += subsum[i];
+  }
+}
+void dfs2(ll node,ll pere){
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    dfs2(i,node);
+    ans += subsum[i];
+  }
+}
+void dfs3(ll node,ll pere,ll val){
+  for(int i : adj[node]){
+    if(i == pere) continue;
+    ll vali = val + tot - 2*subsum[i];
+    ans = max(ans,vali);
+    dfs3(i,node,vali);
+  }
+}
+int main(){
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  ll n,u,v;
+  cin >> n;
+  a.resize(n+1);
+  for(ll i = 1; i <= n; ++i) cin >> a[i];
+  adj.resize(n+1);
+  for(int i = 1; i < n; ++i){
+    cin >> u >> v;
+    adj[u].push_back(v);
+    adj[v].push_back(u);
+  }
+  subsum.resize(n+1);
+  dfs1(1,-1);
+  tot = subsum[1];
+  ans = 0;
+  dfs2(1,-1);
+  dfs3(1,-1,ans);
+  cout << ans;
+  return 0;
+}
+```
+

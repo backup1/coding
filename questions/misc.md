@@ -2,17 +2,7 @@
 
 Next
 
-\[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
-\[Data Structure 1800\] [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
-
-\[DP 1800\] [https://codeforces.com/problemset/problem/182/E](https://codeforces.com/problemset/problem/182/E)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/466/C](https://codeforces.com/problemset/problem/466/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/888/D](https://codeforces.com/problemset/problem/888/D)
-
-\[Data Structure 1600\] [https://codeforces.com/problemset/problem/276/C](https://codeforces.com/problemset/problem/276/C)
 
 
 

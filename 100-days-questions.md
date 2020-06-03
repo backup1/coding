@@ -6,15 +6,27 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 62 | 18 | 14 | 28 | 1 | 1 |
+| 63 | 18 | 15 | 28 | 1 | 1 |
 
 Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **5** DONE \[Data Structure **1**\] \[Graph **2**\] \[DP 1\] \[Greedy **1**\]
+\[2020/06/01 - 2020/06/30\] **6** DONE \[Data Structure **1**\] \[Graph **3**\] \[DP **1**\] \[Greedy **1**\]
 
-\#63 \[Graph 1900\] [https://codeforces.com/problemset/problem/1092/F](https://codeforces.com/problemset/problem/1092/F)
+\#69 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
-~~\#62 \[DONE\] \[DP 1800\]~~ [~~https://codeforces.com/problemset/problem/543/A~~](https://codeforces.com/problemset/problem/543/A)~~~~
+\#68 \[Data Structure 1800\] [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
+
+\#67 \[DP 1800\] [https://codeforces.com/problemset/problem/182/E](https://codeforces.com/problemset/problem/182/E)
+
+\#66 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/466/C](https://codeforces.com/problemset/problem/466/C)
+
+\#65 \[DP 1600\] [https://codeforces.com/problemset/problem/888/D](https://codeforces.com/problemset/problem/888/D)
+
+\#64 \[Data Structure 1600\] [https://codeforces.com/problemset/problem/276/C](https://codeforces.com/problemset/problem/276/C)
+
+~~\#63 \[DONE\] \[Graph 1900\] https://codeforces.com/problemset/problem/1092/F~~
+
+~~\#62 \[DONE\] \[DP 1800\] https://codeforces.com/problemset/problem/543/A~~
 
 ~~\#61 \[DONE\] \[Graph 1800\] https://codeforces.com/problemset/problem/1083/A~~
 
