@@ -12,7 +12,9 @@ Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
 
 \[2020/06/01 - 2020/06/30\] **9** DONE \[Data Structure **3**\] \[Graph **3**\] \[DP **2**\] \[Greedy **1**\]
 
-\#69 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
+\#70 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
+
+\#69 \[Graph LCA\] 2009/Special/Gold/cowpol
 
 \#68 \[Data Structure 1800\] [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
 
