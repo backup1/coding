@@ -2,6 +2,8 @@
 
 Next
 
+\[DP\] 2010/October/Gold/mkmoney
+
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
