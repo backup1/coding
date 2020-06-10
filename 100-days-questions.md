@@ -6,17 +6,17 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 67 | 20 | 15 | 30 | 1 | 1 |
+| 68 | 21 | 15 | 30 | 1 | 1 |
 
-Detailed counter \[Segment Tree **1**\] \[To improve **1**\]
+Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **10** DONE \[Data Structure **3**\] \[Graph **3**\] \[DP **3**\] \[Greedy **1**\]
+\[2020/06/01 - 2020/06/30\] **11** DONE \[Data Structure **4**\] \[Graph **3**\] \[DP **3**\] \[Greedy **1**\]
 
 \#70 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
 \#69 \[Graph LCA\] 2009/Special/Gold/cowpol
 
-\#68 \[Data Structure 1800\] [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
+~~\#68 \[DONE\] \[Segment Tree 1800\]~~ [~~https://codeforces.com/problemset/problem/459/D~~](https://codeforces.com/problemset/problem/459/D)~~~~
 
 ~~\#67 \[DONE\] \[DP 1800\] https://codeforces.com/problemset/problem/182/E~~
 
