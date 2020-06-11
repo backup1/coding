@@ -16,7 +16,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#69 \[Graph LCA\] 2009/Special/Gold/cowpol
 
-~~\#68 \[DONE\] \[Segment Tree 1800\]~~ [~~https://codeforces.com/problemset/problem/459/D~~](https://codeforces.com/problemset/problem/459/D)~~~~
+~~\#68 \[DONE\] \[Segment Tree 1800\] https://codeforces.com/problemset/problem/459/D~~
 
 ~~\#67 \[DONE\] \[DP 1800\] https://codeforces.com/problemset/problem/182/E~~
 
