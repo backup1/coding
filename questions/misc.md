@@ -4,17 +4,7 @@ Next
 
 \[DP\] 2010/October/Gold/mkmoney
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
-
-\[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/817/C](https://codeforces.com/problemset/problem/817/C)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/1063/B](https://codeforces.com/problemset/problem/1063/B)
 
 
 
