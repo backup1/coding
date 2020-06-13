@@ -12,21 +12,25 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \[2020/06/01 - 2020/06/30\] **11** DONE \[Data Structure **4**\] \[Graph **3**\] \[DP **3**\] \[Greedy **1**\]
 
-\#76 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
+\#78 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
-\#75 \[Graph LCA\] 2009/Special/Gold/cowpol
+\#77 \[Graph LCA\] 2009/Special/Gold/cowpol
 
-\#74 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
+\#76 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
 
-\#73 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
+\#75 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
-\#72 \[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
+\#74 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
-\#71 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
+\#73 \[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
 
-\#70 \[DP 1600\] [https://codeforces.com/problemset/problem/817/C](https://codeforces.com/problemset/problem/817/C)
+\#72 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
 
-\#69 \[Graph 1800\] [https://codeforces.com/problemset/problem/1063/B](https://codeforces.com/problemset/problem/1063/B)
+\#71 \[DP 1600\] [https://codeforces.com/problemset/problem/817/C](https://codeforces.com/problemset/problem/817/C)
+
+\#70 \[Graph 1800\] [https://codeforces.com/problemset/problem/1063/B](https://codeforces.com/problemset/problem/1063/B)
+
+\#69 \[Graph 2100\] [https://codeforces.com/contest/1364/problem/D](https://codeforces.com/problemset/problem/1364/D)
 
 ~~\#68 \[DONE\] \[Segment Tree 1800\] https://codeforces.com/problemset/problem/459/D~~
 
