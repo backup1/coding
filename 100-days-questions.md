@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 71 | 21 | 17 | 31 | 1 | 1 |
+| 72 | 21 | 17 | 32 | 1 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **14** DONE \[Data Structure **4**\] \[Graph **5**\] \[DP **4**\] \[Greedy **1**\]
+\[2020/06/01 - 2020/06/30\] **15** DONE \[Data Structure **4**\] \[Graph **5**\] \[DP **5**\] \[Greedy **1**\]
 
 \#79 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
@@ -26,7 +26,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#73 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
 
-\#72 \[DP\] [https://acm.timus.ru/problem.aspx?space=1&num=1017](https://acm.timus.ru/problem.aspx?space=1&num=1017)
+~~\#72 \[DONE\] \[DP\] https://acm.timus.ru/problem.aspx?space=1&num=1017~~
 
 ~~\#71 \[DONE\] \[DP 1600\] https://codeforces.com/problemset/problem/817/C~~
 
