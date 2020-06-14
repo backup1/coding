@@ -12,21 +12,23 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \[2020/06/01 - 2020/06/30\] **14** DONE \[Data Structure **4**\] \[Graph **5**\] \[DP **4**\] \[Greedy **1**\]
 
-\#78 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
+\#79 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
-\#77 \[Graph LCA\] 2009/Special/Gold/cowpol
+\#78 \[Graph LCA\] 2009/Special/Gold/cowpol
 
-\#76 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
+\#77 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
 
-\#75 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
+\#76 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
-\#74 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
+\#75 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
-\#73 \[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
+\#74 \[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
 
-\#72 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
+\#73 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1153/C](https://codeforces.com/problemset/problem/1153/C)
 
-~~\#71 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/817/C~~](https://codeforces.com/problemset/problem/817/C)~~~~
+\#72 \[DP\] [https://acm.timus.ru/problem.aspx?space=1&num=1017](https://acm.timus.ru/problem.aspx?space=1&num=1017)
+
+~~\#71 \[DONE\] \[DP 1600\] https://codeforces.com/problemset/problem/817/C~~
 
 ~~\#70 \[DONE\] \[Graph 1800\] https://codeforces.com/problemset/problem/1063/B~~
 
