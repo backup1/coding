@@ -4,7 +4,17 @@ Next
 
 \[DP\] 2010/October/Gold/mkmoney
 
+\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
 
+\[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
+
+\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
+
+\[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
+
+\[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
+
+\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
 
 
 
@@ -32,7 +42,7 @@ Too Hard ???
 
 AtCoder DP [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
 
-
+spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F) using DFS tree : [https://codeforces.com/blog/entry/74800](https://codeforces.com/blog/entry/74800)
 
 
 
@@ -61,12 +71,6 @@ AtCoder DP [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp
 \[Graph LCA\] [178B3 - Greedy Merchants](https://codeforces.com/contest/178/problem/B3)  
 \[Graph LCA\] [176E - Archaeology](https://codeforces.com/contest/176/problem/E)  
 \[Graph LCA\] [466E - Information Graph](https://codeforces.com/contest/466/problem/E)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1000/C](https://codeforces.com/problemset/problem/1000/C)
 
@@ -113,10 +117,6 @@ AtCoder DP [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
-
-\[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/763/A](https://codeforces.com/problemset/problem/763/A)
 
@@ -301,8 +301,6 @@ Segment Tree USACO:
 \[Greedy 1600\] [https://codeforces.com/problemset/problem/250/C](https://codeforces.com/problemset/problem/250/C)
 
 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1157/C2](https://codeforces.com/problemset/problem/1157/C2)
-
-\[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
 
 \[Greedy 1700\] [https://codeforces.com/problemset/problem/191/B](https://codeforces.com/problemset/problem/191/B)
 
