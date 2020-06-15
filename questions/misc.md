@@ -18,6 +18,10 @@ Next
 
 
 
+**Math** \[prior to Math stage\]
+
+Area and cos : [https://acm.timus.ru/problem.aspx?space=1&num=1084](https://acm.timus.ru/problem.aspx?space=1&num=1084)
+
 
 
 Too Hard ???
