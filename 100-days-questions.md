@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 73 | 21 | 17 | 32 | 2 | 1 |
+| 74 | 21 | 18 | 32 | 2 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **16** DONE \[Data Structure **4**\] \[Graph **5**\] \[DP **5**\] \[Greedy **2**\]
+\[2020/06/01 - 2020/06/30\] **17** DONE \[Data Structure **4**\] \[Graph **6**\] \[DP **5**\] \[Greedy **2**\]
 
 \#79 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
@@ -22,7 +22,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#75 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
-\#74 \[Graph 1800\] [https://codeforces.com/problemset/problem/1067/B](https://codeforces.com/problemset/problem/1067/B)
+~~\#74 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/1067/B~~](https://codeforces.com/problemset/problem/1067/B)~~~~
 
 ~~\#73 \[DONE\] \[Greedy 1700\] https://codeforces.com/problemset/problem/1153/C~~
 
