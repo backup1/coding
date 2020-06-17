@@ -6,23 +6,25 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 74 | 21 | 18 | 32 | 2 | 1 |
+| 75 | 21 | 18 | 32 | 3 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **17** DONE \[Data Structure **4**\] \[Graph **6**\] \[DP **5**\] \[Greedy **2**\]
+\[2020/06/01 - 2020/06/30\] **18** DONE \[Data Structure **4**\] \[Graph **6**\] \[DP **5**\] \[Greedy **3**\]
 
-\#80 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
+\#81 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
-\#79 \[Graph LCA\] 2009/Special/Gold/cowpol
+\#80 \[Graph LCA\] 2009/Special/Gold/cowpol
 
-\#78 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
+\#79 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
 
-\#77 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
+\#78 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
-\#76 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
+\#77 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
-\#75 \[Greedy Upsolving\] [https://codeforces.com/problemset/problem/1367/E](https://codeforces.com/problemset/problem/1367/E)
+\#76 \[DP Upsolving\] [https://codeforces.com/contest/1367/problem/F2](https://codeforces.com/problemset/problem/1367/F2)
+
+~~\#75 \[DONE\] \[Greedy Upsolving\] https://codeforces.com/problemset/problem/1367/E~~
 
 ~~\#74 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/1067/B~~](https://codeforces.com/problemset/problem/1067/B)~~~~
 
