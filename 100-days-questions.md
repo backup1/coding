@@ -12,15 +12,17 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \[2020/06/01 - 2020/06/30\] **17** DONE \[Data Structure **4**\] \[Graph **6**\] \[DP **5**\] \[Greedy **2**\]
 
-\#79 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
+\#80 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
-\#78 \[Graph LCA\] 2009/Special/Gold/cowpol
+\#79 \[Graph LCA\] 2009/Special/Gold/cowpol
 
-\#77 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
+\#78 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
+
+\#77 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
 \#76 \[Graph 1900\] [https://codeforces.com/problemset/problem/1076/E](https://codeforces.com/problemset/problem/1076/E)
 
-\#75 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
+\#75 \[Greedy Upsolving\] [https://codeforces.com/problemset/problem/1367/E](https://codeforces.com/problemset/problem/1367/E)
 
 ~~\#74 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/1067/B~~](https://codeforces.com/problemset/problem/1067/B)~~~~
 
