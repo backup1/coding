@@ -2,15 +2,7 @@
 
 Next
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
-
-\[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
 
 
 
@@ -25,6 +17,18 @@ Next
 **Math** \[prior to Math stage\]
 
 Area and cos : [https://acm.timus.ru/problem.aspx?space=1&num=1084](https://acm.timus.ru/problem.aspx?space=1&num=1084)
+
+
+
+Too Hard ???
+
+\#76 \[DP Upsolving\] [https://codeforces.com/contest/1367/problem/F2](https://codeforces.com/problemset/problem/1367/F2)
+
+\#81 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
+
+\#80 \[Graph LCA\] 2009/Special/Gold/cowpol
+
+\#78 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
 
 
