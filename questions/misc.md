@@ -2,11 +2,7 @@
 
 Next
 
-\[DP\] 2010/October/Gold/mkmoney
-
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
-
-\[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
 
@@ -17,6 +13,14 @@ Next
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
 
 
+
+
+
+
+
+\[DP\] 2010/October/Gold/mkmoney
+
+\[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
 
 **Math** \[prior to Math stage\]
 
@@ -396,10 +400,6 @@ Segment Tree USACO:
 
 1700 [https://codeforces.com/problemset/problem/622/C](https://codeforces.com/problemset/problem/622/C) 1800 [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D) 1900 [https://codeforces.com/problemset/problem/519/D](https://codeforces.com/problemset/problem/519/D) 1700 [https://codeforces.com/problemset/problem/246/D](https://codeforces.com/problemset/problem/246/D) 1800 [https://codeforces.com/problemset/problem/573/B](https://codeforces.com/problemset/problem/573/B) 1900 [https://codeforces.com/problemset/problem/460/C](https://codeforces.com/problemset/problem/460/C) 1900 [https://codeforces.com/problemset/problem/5/C](https://codeforces.com/problemset/problem/5/C) 1600 [https://codeforces.com/problemset/problem/821/C](https://codeforces.com/problemset/problem/821/C) 1700 [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C) 1800 [https://codeforces.com/problemset/problem/385/C](https://codeforces.com/problemset/problem/385/C) 2100 [https://codeforces.com/problemset/problem/547/B](https://codeforces.com/problemset/problem/547/B) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1900 [https://codeforces.com/problemset/problem/220/B](https://codeforces.com/problemset/problem/220/B) 1600 [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E) 2700 [https://codeforces.com/problemset/problem/86/D](https://codeforces.com/problemset/problem/86/D) 1800 [https://codeforces.com/problemset/problem/271/D](https://codeforces.com/problemset/problem/271/D) 2100 [https://codeforces.com/problemset/problem/380/C](https://codeforces.com/problemset/problem/380/C) 1800 [https://codeforces.com/problemset/problem/340/D](https://codeforces.com/problemset/problem/340/D) 1800 [https://codeforces.com/problemset/problem/527/C](https://codeforces.com/problemset/problem/527/C) 1800 [https://codeforces.com/problemset/problem/706/D](https://codeforces.com/problemset/problem/706/D)
 
-## Fenwick Tree L1,L2
-
-~~1700~~ [~~https://codeforces.com/problemset/problem/466/C~~](https://codeforces.com/problemset/problem/466/C)~~~~
-
 ## Bit operation L2,L3
 
 1700 [https://codeforces.com/problemset/problem/484/A](https://codeforces.com/problemset/problem/484/A) 1600 [https://codeforces.com/problemset/problem/812/B](https://codeforces.com/problemset/problem/812/B) 1900 [https://codeforces.com/problemset/problem/580/D](https://codeforces.com/problemset/problem/580/D) 1600 [https://codeforces.com/problemset/problem/878/A](https://codeforces.com/problemset/problem/878/A) 1800 [https://codeforces.com/problemset/problem/276/D](https://codeforces.com/problemset/problem/276/D)
@@ -414,7 +414,7 @@ Segment Tree USACO:
 
 ## Divide and Conquer L1,L2
 
-1800 [https://codeforces.com/problemset/problem/559/B](https://codeforces.com/problemset/problem/559/B) 1800 [https://codeforces.com/problemset/problem/161/D](https://codeforces.com/problemset/problem/161/D) 1900 [https://codeforces.com/problemset/problem/448/C](https://codeforces.com/problemset/problem/448/C) 1800 [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
+1800 [https://codeforces.com/problemset/problem/161/D](https://codeforces.com/problemset/problem/161/D) 1900 [https://codeforces.com/problemset/problem/448/C](https://codeforces.com/problemset/problem/448/C) 1800 [https://codeforces.com/problemset/problem/459/D](https://codeforces.com/problemset/problem/459/D)
 
 ## Graph - DFS/BFS/Dijkstra L3
 
