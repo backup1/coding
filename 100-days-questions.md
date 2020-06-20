@@ -28,7 +28,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 ~~\#75 \[DONE\] \[Greedy Upsolving\] https://codeforces.com/problemset/problem/1367/E~~
 
-~~\#74 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/1067/B~~](https://codeforces.com/problemset/problem/1067/B)~~~~
+~~\#74 \[DONE\] \[Graph 1800\] https://codeforces.com/problemset/problem/1067/B~~
 
 ~~\#73 \[DONE\] \[Greedy 1700\] https://codeforces.com/problemset/problem/1153/C~~
 
