@@ -8,7 +8,11 @@ Next
 
 
 
+CSES : [https://cses.fi/problemset/list/](https://cses.fi/problemset/list/)
 
+CSES DP Editorial : [https://codeforces.com/blog/entry/70018](https://codeforces.com/blog/entry/70018#comment-545687)
+
+DFS tree : [https://codeforces.com/blog/entry/68138](https://codeforces.com/blog/entry/68138)
 
 \[DP\] 2010/October/Gold/mkmoney
 
