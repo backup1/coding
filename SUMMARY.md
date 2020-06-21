@@ -8,6 +8,7 @@
 ## Mathematics
 
 * [Bit operation](mathematics/bit-operation.md)
+* [Russian peasant method for multiplication](mathematics/russian-peasant-method-for-multiplication.md)
 * [Power and Sum](mathematics/power.md)
 * [Combinatorial and Factorial](mathematics/combinatorics-and-factorial.md)
 * [Prime Number](mathematics/prime-number.md)
