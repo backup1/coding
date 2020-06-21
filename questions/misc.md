@@ -22,6 +22,14 @@ DFS tree : [https://codeforces.com/blog/entry/68138](https://codeforces.com/blog
 
 Area and cos : [https://acm.timus.ru/problem.aspx?space=1&num=1084](https://acm.timus.ru/problem.aspx?space=1&num=1084)
 
+Combi, matrix and fast power :
+
+[https://acm.timus.ru/problem.aspx?space=1&num=1009](https://acm.timus.ru/problem.aspx?space=1&num=1009)
+
+[https://acm.timus.ru/problem.aspx?space=1&num=1012](https://acm.timus.ru/problem.aspx?space=1&num=1012)
+
+[https://acm.timus.ru/problem.aspx?space=1&num=1013](https://acm.timus.ru/problem.aspx?space=1&num=1013)
+
 
 
 Too Hard ???
