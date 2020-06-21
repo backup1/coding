@@ -2,6 +2,8 @@
 
 Next
 
+\[Data Structure\] [https://acm.timus.ru/problem.aspx?space=1&num=1028](https://acm.timus.ru/problem.aspx?space=1&num=1028)
+
 
 
 
