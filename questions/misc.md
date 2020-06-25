@@ -382,12 +382,6 @@ Segment Tree USACO:
 
 1600 [https://codeforces.com/problemset/problem/749/C](https://codeforces.com/problemset/problem/749/C)
 
-## Data structure
-
-1600 [https://codeforces.com/problemset/problem/681/C](https://codeforces.com/problemset/problem/681/C)
-
-1500 [https://codeforces.com/problemset/problem/383/A](https://codeforces.com/problemset/problem/383/A)
-
 ## Union Find
 
 1500 [https://codeforces.com/problemset/problem/277/A](https://codeforces.com/problemset/problem/277/A)
