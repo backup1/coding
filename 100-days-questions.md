@@ -12,17 +12,17 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \[2020/06/01 - 2020/06/30\] **20** DONE \[Data Structure **4**\] \[Graph **8**\] \[DP **5**\] \[Greedy **3**\]
 
-\#83 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
+\#83 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
 
-\#82 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
+\#82 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
 
-\#81 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
+\#81 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
 
-\#80 \[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
+\#80 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
 
-\#79 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
+\#79 \[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
 
-\#78 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
+\#78 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
 
 ~~\#77 \[DONE\] \[Graph\] Articulation Point~~
 
