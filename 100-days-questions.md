@@ -6,27 +6,25 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 78 | 21 | 20 | 33 | 3 | 1 |
+| 79 | 22 | 20 | 33 | 3 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **21** DONE \[Data Structure **4**\] \[Graph **8**\] \[DP **6**\] \[Greedy **3**\]
+\[2020/06/01 - 2020/06/30\] **22** DONE \[Data Structure **5**\] \[Graph **8**\] \[DP **6**\] \[Greedy **3**\]
 
-\#86 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
+\#85 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
 
-\#85 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
+\#84 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
 
-\#84 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
+\#83 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1066/E](https://codeforces.com/problemset/problem/1066/E)
 
-\#83 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
+\#82 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1041/D](https://codeforces.com/problemset/problem/1041/D)
 
-\#82 \[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
+\#81 \[Greedy 1700\] [https://codeforces.com/problemset/problem/1256/C](https://codeforces.com/problemset/problem/1256/C)
 
-\#81 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1023/D](https://codeforces.com/problemset/problem/1023/D)
+\#80 \[DP 1600\] [https://codeforces.com/problemset/problem/814/C](https://codeforces.com/problemset/problem/814/C)
 
-\#80 \[Data Structure 1500\] [https://codeforces.com/problemset/problem/383/A](https://codeforces.com/problemset/problem/383/A)
-
-\#79 \[Data Structure 1600\] [https://codeforces.com/problemset/problem/681/C](https://codeforces.com/problemset/problem/681/C)
+~~\#79 \[DONE\] \[Data Structure 1600\] https://codeforces.com/problemset/problem/681/C~~
 
 ~~\#78 \[DONE\] \[DP\] https://codeforces.com/contest/1373/problem/D~~
 
