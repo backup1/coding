@@ -3,7 +3,7 @@
 | Month | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2020.05 | 57 | 17 | 12 | 27 | 0 | 1 |
-| 2020.06 | 26 | 7 | 8 | 7 | 4 | 0 |
+| 2020.06 | 28 | 8 | 8 | 8 | 4 | 0 |
 
 | 2017 Day1 | Total | Magic | Six | Particles |
 | :--- | :--- | :--- | :--- | :--- |
