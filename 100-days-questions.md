@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 86 | 26 | 20 | 35 | 4 | 1 |
+| 87 | 26 | 20 | 36 | 4 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **29** DONE \[Data Structure **9**\] \[Graph **8**\] \[DP **8**\] \[Greedy **4**\]
+\[2020/06/01 - 2020/06/30\] **30** DONE \[Data Structure **9**\] \[Graph **8**\] \[DP **9**\] \[Greedy **4**\]
 
 \#90 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1000/C](https://codeforces.com/problemset/problem/1000/C)
 
@@ -18,7 +18,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#88 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/924/C](https://codeforces.com/problemset/problem/924/C)
 
-\#87 \[DP 1600\] [https://codeforces.com/problemset/problem/756/B](https://codeforces.com/problemset/problem/756/B)
+~~\#87 \[DONE\] \[DP 1600\] https://codeforces.com/problemset/problem/756/B~~
 
 ~~\#86 \[DONE\] \[Data Structure 1700\] https://codeforces.com/problemset/problem/900/C~~
 
