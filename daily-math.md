@@ -1,8 +1,12 @@
 # Daily Math
 
-[https://www.mathraining.be/chapters/39?type=5&which=226](https://www.mathraining.be/chapters/39?type=5&which=226)
+[https://www.mathraining.be/chapters/39?type=5&which=194](https://www.mathraining.be/chapters/39?type=5&which=194)
 
-\[2020/06/27\] [https://www.mathraining.be/chapters/39?type=5&which=143](https://www.mathraining.be/chapters/39?type=5&which=143)
+\[2020/06/28\] [https://www.mathraining.be/chapters/39?type=5&which=261](https://www.mathraining.be/chapters/39?type=5&which=261)
+
+~~\[DONE\] https://www.mathraining.be/chapters/39?type=5&which=226~~
+
+~~\[DONE\] https://www.mathraining.be/chapters/39?type=5&which=143~~
 
 ~~\[DONE\] https://www.mathraining.be/chapters/39?type=5&which=170~~
 

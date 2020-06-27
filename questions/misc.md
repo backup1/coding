@@ -44,6 +44,8 @@ Too Hard ???
 
 \#78 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
+\#85 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
+
 
 
 Too Hard ???
@@ -98,12 +100,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 \[Graph LCA\] [176E - Archaeology](https://codeforces.com/contest/176/problem/E)  
 \[Graph LCA\] [466E - Information Graph](https://codeforces.com/contest/466/problem/E)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/1000/C](https://codeforces.com/problemset/problem/1000/C)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/924/C](https://codeforces.com/problemset/problem/924/C)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/900/C](https://codeforces.com/problemset/problem/900/C)
-
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/818/D](https://codeforces.com/problemset/problem/818/D)
@@ -143,12 +139,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/763/A](https://codeforces.com/problemset/problem/763/A)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/756/B](https://codeforces.com/problemset/problem/756/B)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/741/B](https://codeforces.com/problemset/problem/741/B)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
