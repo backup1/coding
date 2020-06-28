@@ -2,7 +2,7 @@
 
 [https://www.mathraining.be/chapters/39?type=5&which=194](https://www.mathraining.be/chapters/39?type=5&which=194)
 
-\[2020/06/28\] [https://www.mathraining.be/chapters/39?type=5&which=261](https://www.mathraining.be/chapters/39?type=5&which=261)
+~~\[DONE\] https://www.mathraining.be/chapters/39?type=5&which=261~~
 
 ~~\[DONE\] https://www.mathraining.be/chapters/39?type=5&which=226~~
 
