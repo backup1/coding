@@ -12,11 +12,29 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \[2020/06/01 - 2020/06/30\] **30** DONE \[Data Structure **9**\] \[Graph **8**\] \[DP **9**\] \[Greedy **4**\]
 
-\#90 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1000/C](https://codeforces.com/problemset/problem/1000/C)
+\#99 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#89 \[DP 1600\] [https://codeforces.com/problemset/problem/763/A](https://codeforces.com/problemset/problem/763/A)
+\#98 \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#88 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/924/C](https://codeforces.com/problemset/problem/924/C)
+\#97 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1281/B](https://codeforces.com/problemset/problem/1281/B)
+
+\#96 \[DP 1600\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
+
+\#95 \[Data Structure 1400\] [https://codeforces.com/problemset/problem/515/B](https://codeforces.com/problemset/problem/515/B)
+
+\#94 \[Graph 1500\] [https://codeforces.com/problemset/problem/884/C](https://codeforces.com/problemset/problem/884/C)
+
+\#93 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1003/D](https://codeforces.com/problemset/problem/1003/D)
+
+\#92 \[DP 1600\] [https://codeforces.com/problemset/problem/682/C](https://codeforces.com/problemset/problem/682/C)
+
+\#91 \[Graph 1500\] [https://codeforces.com/problemset/problem/1147/A](https://codeforces.com/problemset/problem/1147/A)
+
+\#90 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1031/C](https://codeforces.com/problemset/problem/1031/C)
+
+\#89 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1000/C](https://codeforces.com/problemset/problem/1000/C)
+
+\#88 \[DP 1600\] [https://codeforces.com/problemset/problem/763/A](https://codeforces.com/problemset/problem/763/A)
 
 ~~\#87 \[DONE\] \[DP 1600\] https://codeforces.com/problemset/problem/756/B~~
 

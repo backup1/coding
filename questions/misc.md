@@ -46,6 +46,8 @@ Too Hard ???
 
 \#85 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
 
+\#88 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/924/C](https://codeforces.com/problemset/problem/924/C)
+
 
 
 Too Hard ???
@@ -140,12 +142,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/682/C](https://codeforces.com/problemset/problem/682/C)
-
 \[DP 1600\] [https://codeforces.com/problemset/problem/660/C](https://codeforces.com/problemset/problem/660/C)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
@@ -206,8 +202,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/792/D](https://codeforces.com/problemset/problem/792/D)
 
-\[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
-
 \[Graph 1900\] [https://codeforces.com/problemset/problem/717/E](https://codeforces.com/problemset/problem/717/E)
 
 \[Graph 1800\] [https://codeforces.com/problemset/problem/263/D](https://codeforces.com/problemset/problem/263/D)
@@ -239,10 +233,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 \[Graph 1500\] [https://codeforces.com/problemset/problem/350/B](https://codeforces.com/problemset/problem/350/B)
 
 \[Graph 1500\] [https://codeforces.com/problemset/problem/35/C](https://codeforces.com/problemset/problem/35/C)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/884/C](https://codeforces.com/problemset/problem/884/C)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/1147/A](https://codeforces.com/problemset/problem/1147/A)
 
 \[Graph 1500\] [https://codeforces.com/problemset/problem/402/C](https://codeforces.com/problemset/problem/402/C)
 
@@ -300,13 +290,7 @@ Segment Tree USACO:
 
 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1065/C](https://codeforces.com/problemset/problem/1065/C)
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/1281/B](https://codeforces.com/problemset/problem/1281/B)
-
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/1003/D](https://codeforces.com/problemset/problem/1003/D)
-
 \[Greedy 1600\] [https://codeforces.com/problemset/problem/949/A](https://codeforces.com/problemset/problem/949/A)
-
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/1031/C](https://codeforces.com/problemset/problem/1031/C)
 
 \[Greedy 1600\] [https://codeforces.com/problemset/problem/723/C](https://codeforces.com/problemset/problem/723/C)
 
@@ -372,23 +356,9 @@ Segment Tree USACO:
 
 1600 [https://codeforces.com/problemset/problem/749/C](https://codeforces.com/problemset/problem/749/C)
 
-## Union Find
-
-1500 [https://codeforces.com/problemset/problem/277/A](https://codeforces.com/problemset/problem/277/A)
-
-1400 [https://codeforces.com/problemset/problem/515/B](https://codeforces.com/problemset/problem/515/B)
-
 ## Dynamic Programming
 
 1300 [https://codeforces.com/problemset/problem/416/B](https://codeforces.com/problemset/problem/416/B)
-
-## Fenwick Tree
-
-~~1600~~ [~~https://codeforces.com/problemset/problem/276/C~~](https://codeforces.com/problemset/problem/276/C)~~~~
-
-## Bit operation
-
-1500 [https://codeforces.com/problemset/problem/224/B](https://codeforces.com/problemset/problem/224/B)
 
 ## Greedy L3
 
