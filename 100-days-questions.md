@@ -10,7 +10,7 @@ description: 2020.05.01
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **38** DONE \[Data Structure **10**\] \[Graph **10**\] \[DP **11**\] \[Greedy **6**\] \[Misc **1**\]
+\[2020/07/01 - 2020/07/31\] **0** DONE \[Data Structure **0**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\] \[Misc **0**\]
 
 \#100 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
@@ -21,6 +21,8 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 \#97 \[DP 1600\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
 
 \#96 \[Data Structure 1400\] [https://codeforces.com/problemset/problem/515/B](https://codeforces.com/problemset/problem/515/B)
+
+\[2020/06/01 - 2020/06/30\] **38** DONE \[Data Structure **10**\] \[Graph **10**\] \[DP **11**\] \[Greedy **6**\] \[Misc **1**\]
 
 ~~\#95 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/884/C~~](https://codeforces.com/problemset/problem/884/C)~~~~
 
