@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 94 | 27 | 21 | 38 | 6 | 1 | 1 |
+| 95 | 27 | 22 | 38 | 6 | 1 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **37** DONE \[Data Structure **10**\] \[Graph **9**\] \[DP **11**\] \[Greedy **6**\] \[Misc **1**\]
+\[2020/06/01 - 2020/06/30\] **38** DONE \[Data Structure **10**\] \[Graph **10**\] \[DP **11**\] \[Greedy **6**\] \[Misc **1**\]
 
 \#100 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
@@ -22,7 +22,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#96 \[Data Structure 1400\] [https://codeforces.com/problemset/problem/515/B](https://codeforces.com/problemset/problem/515/B)
 
-\#95 \[Graph 1500\] [https://codeforces.com/problemset/problem/884/C](https://codeforces.com/problemset/problem/884/C)
+~~\#95 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/884/C~~](https://codeforces.com/problemset/problem/884/C)~~~~
 
 ~~\#94 \[Suffix Array\]~~ [~~https://codeforces.com/edu/course/2/lesson/2/1/practice/contest/269100/problem/A~~](https://codeforces.com/edu/course/2/lesson/2/1/practice/contest/269100/problem/A)~~~~
 
