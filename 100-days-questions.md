@@ -4,25 +4,27 @@ description: 2020.05.01
 
 # 100 Days / Questions
 
-| Total | Data Structure | Graph | DP | Greedy | Interactive |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 93 | 27 | 21 | 38 | 6 | 1 |
+| Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 94 | 27 | 21 | 38 | 6 | 1 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/06/01 - 2020/06/30\] **36** DONE \[Data Structure **10**\] \[Graph **9**\] \[DP **11**\] \[Greedy **6**\]
+\[2020/06/01 - 2020/06/30\] **37** DONE \[Data Structure **10**\] \[Graph **9**\] \[DP **11**\] \[Greedy **6**\] \[Misc **1**\]
 
-\#99 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#100 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#98 \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#99 \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#97 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1281/B](https://codeforces.com/problemset/problem/1281/B)
+\#98 \[Greedy 1600\] [https://codeforces.com/problemset/problem/1281/B](https://codeforces.com/problemset/problem/1281/B)
 
-\#96 \[DP 1600\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
+\#97 \[DP 1600\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
 
-\#95 \[Data Structure 1400\] [https://codeforces.com/problemset/problem/515/B](https://codeforces.com/problemset/problem/515/B)
+\#96 \[Data Structure 1400\] [https://codeforces.com/problemset/problem/515/B](https://codeforces.com/problemset/problem/515/B)
 
-\#94 \[Graph 1500\] [https://codeforces.com/problemset/problem/884/C](https://codeforces.com/problemset/problem/884/C)
+\#95 \[Graph 1500\] [https://codeforces.com/problemset/problem/884/C](https://codeforces.com/problemset/problem/884/C)
+
+~~\#94 \[Suffix Array\]~~ [~~https://codeforces.com/edu/course/2/lesson/2/1/practice/contest/269100/problem/A~~](https://codeforces.com/edu/course/2/lesson/2/1/practice/contest/269100/problem/A)~~~~
 
 ~~\#93 \[DONE\] \[Greedy 1600\]~~ [~~https://codeforces.com/problemset/problem/1003/D~~](https://codeforces.com/problemset/problem/1003/D)~~~~
 

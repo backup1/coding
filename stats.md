@@ -1,9 +1,9 @@
 # Stats
 
-| Month | Total | Data Structure | Graph | DP | Greedy | Interactive |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2020.05 | 57 | 17 | 12 | 27 | 0 | 1 |
-| 2020.06 | 36 | 10 | 9 | 11 | 6 | 0 |
+| Month | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2020.05 | 57 | 17 | 12 | 27 | 0 | 1 | 0 |
+| 2020.06 | 37 | 10 | 9 | 11 | 6 | 0 | 1 |
 
 | 2017 Day1 | Total | Magic | Six | Particles |
 | :--- | :--- | :--- | :--- | :--- |
