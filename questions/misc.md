@@ -138,14 +138,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/101/B](https://codeforces.com/problemset/problem/101/B)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/660/C](https://codeforces.com/problemset/problem/660/C)
-
-\[DP 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
-
 \[DP 1600\] [https://codeforces.com/problemset/problem/615/B](https://codeforces.com/problemset/problem/615/B)
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/607/A](https://codeforces.com/problemset/problem/607/A)
