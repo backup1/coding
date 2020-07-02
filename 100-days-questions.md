@@ -12,13 +12,23 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \[2020/07/01 - 2020/07/31\] **7** DONE \[Data Structure **0**\] \[Graph **1**\] \[DP **2**\] \[Greedy **3**\] \[Misc **1**\]
 
-\#107 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#112\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#106 \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#111\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#105 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
+\#110\*\* \[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
 
-\#104 \[DP 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#109\* \[DP 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+
+\#108 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
+
+\#107 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+
+\#106 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/818/D](https://codeforces.com/problemset/problem/818/D)
+
+\#105 \[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
+
+\#104 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/797/C](https://codeforces.com/problemset/problem/797/C)
 
 ~~\#103 \[DONE\] \[DP 1600\]~~ [~~https://codeforces.com/problemset/problem/660/C~~](https://codeforces.com/problemset/problem/660/C)~~~~
 

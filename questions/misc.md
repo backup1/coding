@@ -102,12 +102,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 \[Graph LCA\] [176E - Archaeology](https://codeforces.com/contest/176/problem/E)  
 \[Graph LCA\] [466E - Information Graph](https://codeforces.com/contest/466/problem/E)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/818/D](https://codeforces.com/problemset/problem/818/D)
-
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/797/C](https://codeforces.com/problemset/problem/797/C)
-
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/670/E](https://codeforces.com/problemset/problem/670/E)
 
 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/644/B](https://codeforces.com/problemset/problem/644/B)
@@ -197,10 +191,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 \[Graph 1900\] [https://codeforces.com/problemset/problem/717/E](https://codeforces.com/problemset/problem/717/E)
 
 \[Graph 1800\] [https://codeforces.com/problemset/problem/263/D](https://codeforces.com/problemset/problem/263/D)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
-
-\[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/95/C](https://codeforces.com/problemset/problem/95/C)
 
