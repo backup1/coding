@@ -40,7 +40,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 ~~\#95 \[DONE\] \[Graph 1500\]~~ [~~https://codeforces.com/problemset/problem/884/C~~](https://codeforces.com/problemset/problem/884/C)~~~~
 
-~~\#94 \[Suffix Array\]~~ [~~https://codeforces.com/edu/course/2/lesson/2/1/practice/contest/269100/problem/A~~](https://codeforces.com/edu/course/2/lesson/2/1/practice/contest/269100/problem/A)~~~~
+~~\#94 \[Suffix Array\] https://codeforces.com/edu/course/2/lesson/2/1/practice/contest/269100/problem/A~~
 
 ~~\#93 \[DONE\] \[Greedy 1600\]~~ [~~https://codeforces.com/problemset/problem/1003/D~~](https://codeforces.com/problemset/problem/1003/D)~~~~
 
