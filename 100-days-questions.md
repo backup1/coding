@@ -6,23 +6,25 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 99 | 28 | 22 | 39 | 8 | 1 | 1 |
+| 100 | 28 | 22 | 39 | 9 | 1 | 1 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/07/01 - 2020/07/31\] **3** DONE \[Data Structure **0**\] \[Graph **0**\] \[DP **1**\] \[Greedy **2**\] \[Misc **0**\]
+\[2020/07/01 - 2020/07/31\] **4** DONE \[Data Structure **0**\] \[Graph **0**\] \[DP **1**\] \[Greedy **3**\] \[Misc **0**\]
 
-\#105 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#106 \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#104 \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#105 \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#103 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
+\#104 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/56/C](https://codeforces.com/problemset/problem/56/C)
 
-\#102 \[DP 1600\] [https://codeforces.com/problemset/problem/660/C](https://codeforces.com/problemset/problem/660/C)
+\#103 \[DP 1600\] [https://codeforces.com/problemset/problem/660/C](https://codeforces.com/problemset/problem/660/C)
 
-\#101 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
+\#102 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/29/C](https://codeforces.com/problemset/problem/29/C)
 
-\#100 \[DP 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#101 \[DP 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+
+~~\#100 \[DONE\] \[Greedy\]~~ [~~https://codeforces.com/contest/1371/problem/D~~](https://codeforces.com/contest/1371/problem/D)~~~~
 
 ~~\#99 \[DONE\] \[Greedy\]~~ [~~https://codeforces.com/contest/1371/problem/C~~](https://codeforces.com/contest/1371/problem/C)~~~~
 
