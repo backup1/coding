@@ -1,6 +1,8 @@
 # Daily Math
 
-\[2020/07/04\] [https://www.mathraining.be/problems/21](https://www.mathraining.be/problems/21)
+\[2020/07/05\] [https://www.mathraining.be/problems/75](https://www.mathraining.be/problems/75)
+
+~~\[DONE\] https://www.mathraining.be/problems/21~~
 
 ~~\[DONE\] https://www.mathraining.be/problems/133~~
 
