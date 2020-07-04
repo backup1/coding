@@ -16,7 +16,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#111\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#110\* \[DP 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#110 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
 
 \#109 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
 
