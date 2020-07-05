@@ -2,6 +2,8 @@
 
 KTH CP template using STL : [https://github.com/kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl)
 
+CP Book on problem solving : [https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
+
 Best algo site ever : [https://cp-algorithms.com/](https://cp-algorithms.com/)
 
 Presentation of Bipartite matching using max-flow algo : [https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/matching.pdf](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/matching.pdf)
