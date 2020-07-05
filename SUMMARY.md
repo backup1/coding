@@ -68,6 +68,7 @@
 
 * [KMP](string/string-kmp.md)
 * [Aho](string/aho.md)
+* [Suffix Array](string/suffix-array.md)
 
 ## Utilities
 
