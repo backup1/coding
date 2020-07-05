@@ -6,27 +6,29 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 104 | 29 | 23 | 40 | 9 | 1 | 2 |
+| 105 | 30 | 23 | 40 | 9 | 1 | 2 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/07/01 - 2020/07/31\] **8** DONE \[Data Structure **1**\] \[Graph **1**\] \[DP **2**\] \[Greedy **3**\] \[Misc **1**\]
+\[2020/07/01 - 2020/07/31\] **9** DONE \[Data Structure **2**\] \[Graph **1**\] \[DP **2**\] \[Greedy **3**\] \[Misc **1**\]
 
-\#112\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#113\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#111\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#112\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#110 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#111 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
 
-\#109 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
+\#110 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
 
-\#108 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+\#109 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
 
-\#107 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/818/D](https://codeforces.com/problemset/problem/818/D)
+\#108 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/818/D](https://codeforces.com/problemset/problem/818/D)
 
-\#106 \[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
+\#107 \[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
 
-\#105 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/797/C](https://codeforces.com/problemset/problem/797/C)
+\#106 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/797/C](https://codeforces.com/problemset/problem/797/C)
+
+~~\#105 \[EJOI2017 Game\]~~ [~~https://csacademy.com/contest/ejoi-2017-day-2/task/game/~~](https://csacademy.com/contest/ejoi-2017-day-2/task/game/)~~~~
 
 ~~\#104 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/56/C~~](https://codeforces.com/problemset/problem/56/C)~~~~
 
