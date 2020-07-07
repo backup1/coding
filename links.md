@@ -6,6 +6,10 @@ CP Book on problem solving : [https://www.mimuw.edu.pl/~idziaszek/algonotes/look
 
 Best algo site ever : [https://cp-algorithms.com/](https://cp-algorithms.com/)
 
+CSES Problem set : [https://cses.fi/problemset/list/](https://cses.fi/problemset/list/)
+
+Library Checker : [https://judge.yosupo.jp/](https://judge.yosupo.jp/)
+
 Presentation of Bipartite matching using max-flow algo : [https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/matching.pdf](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/matching.pdf)
 
 CP reference site : [https://noiref.codecla.ws/](https://noiref.codecla.ws/)
