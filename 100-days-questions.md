@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 106 | 30 | 23 | 40 | 9 | 1 | 3 |
+| 107 | 30 | 23 | 40 | 10 | 1 | 3 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/07/01 - 2020/07/31\] **10** DONE \[Data Structure **2**\] \[Graph **1**\] \[DP **2**\] \[Greedy **3**\] \[Misc **2**\]
+\[2020/07/01 - 2020/07/31\] **11** DONE \[Data Structure **2**\] \[Graph **1**\] \[DP **2**\] \[Greedy **4**\] \[Misc **2**\]
 
 \#114\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
@@ -26,7 +26,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#108 \[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
 
-\#107 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/797/C](https://codeforces.com/problemset/problem/797/C)
+~~\#107 \[DONE\] \[Greedy 1700\] https://codeforces.com/problemset/problem/797/C~~
 
 ~~\#106 \[String\] https://codeforces.com/edu/course/2/lesson/2/2/practice/contest/269103/problem/A~~
 
