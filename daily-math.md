@@ -4,7 +4,7 @@
 
 ~~\[DONE\] https://www.mathraining.be/problems/19~~
 
-~~\[2020/07/05\] https://www.mathraining.be/problems/75~~
+~~\[DONE\] https://www.mathraining.be/problems/75~~
 
 ~~\[DONE\] https://www.mathraining.be/problems/21~~
 
