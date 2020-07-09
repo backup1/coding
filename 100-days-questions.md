@@ -30,7 +30,7 @@ ORAC Matching
 
 IOI Matching
 
-~~\#110 \[DONE\] \[Graph 1800\] https://codeforces.com/problemset/problem/120/H~~
+~~\#110 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/120/H~~](https://codeforces.com/problemset/problem/120/H)~~~~
 
 ~~\#109 \[String\] https://codeforces.com/edu/course/2/lesson/2/3/practice/contest/269118/problem/B~~
 
