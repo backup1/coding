@@ -24,6 +24,12 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#111 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/818/D](https://codeforces.com/problemset/problem/818/D)
 
+Minimum Coverage
+
+ORAC Matching
+
+IOI Matching
+
 \#110 \[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
 
 ~~\#109 \[String\] https://codeforces.com/edu/course/2/lesson/2/3/practice/contest/269118/problem/B~~
