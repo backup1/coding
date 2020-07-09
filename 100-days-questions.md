@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 110 | 30 | 24 | 40 | 10 | 1 | 5 |
+| 111 | 30 | 25 | 40 | 10 | 1 | 5 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/07/01 - 2020/07/31\] **14** DONE \[Data Structure **2**\] \[Graph **2**\] \[DP **2**\] \[Greedy **4**\] \[Misc **4**\]
+\[2020/07/01 - 2020/07/31\] **15** DONE \[Data Structure **2**\] \[Graph **3**\] \[DP **2**\] \[Greedy **4**\] \[Misc **4**\]
 
 \#116\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
@@ -26,9 +26,9 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 Minimum Coverage
 
-ORAC Matching
+\#112 FARIO2017 Pair Programming
 
-IOI Matching
+~~\#111 \[DONE\] IOI Max Matching~~
 
 ~~\#110 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/120/H~~](https://codeforces.com/problemset/problem/120/H)~~~~
 
