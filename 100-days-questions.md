@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 109 | 30 | 23 | 40 | 10 | 1 | 5 |
+| 110 | 30 | 24 | 40 | 10 | 1 | 5 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/07/01 - 2020/07/31\] **13** DONE \[Data Structure **2**\] \[Graph **1**\] \[DP **2**\] \[Greedy **4**\] \[Misc **4**\]
+\[2020/07/01 - 2020/07/31\] **14** DONE \[Data Structure **2**\] \[Graph **2**\] \[DP **2**\] \[Greedy **4**\] \[Misc **4**\]
 
 \#116\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
@@ -30,7 +30,7 @@ ORAC Matching
 
 IOI Matching
 
-\#110 \[Graph 1800\] [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
+~~\#110 \[DONE\] \[Graph 1800\] https://codeforces.com/problemset/problem/120/H~~
 
 ~~\#109 \[String\] https://codeforces.com/edu/course/2/lesson/2/3/practice/contest/269118/problem/B~~
 
