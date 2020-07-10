@@ -26,6 +26,8 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#112 \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
+\#112 \[Graph\] [https://prologin.org/train/2020/qualification/force\_contre\_flotte](https://prologin.org/train/2020/qualification/force_contre_flotte)
+
 ~~\#111 \[DONE\] IOI Max Matching~~
 
 ~~\#110 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/120/H~~](https://codeforces.com/problemset/problem/120/H)~~~~
