@@ -6,11 +6,11 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 113 | 30 | 26 | 40 | 10 | 1 | 6 |
+| 114 | 31 | 26 | 40 | 10 | 1 | 6 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/07/01 - 2020/07/31\] **17** DONE \[Data Structure **2**\] \[Graph **4**\] \[DP **2**\] \[Greedy **4**\] \[Misc **5**\]
+\[2020/07/01 - 2020/07/31\] **18** DONE \[Data Structure **3**\] \[Graph **4**\] \[DP **2**\] \[Greedy **4**\] \[Misc **5**\]
 
 \#120\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
@@ -24,7 +24,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#115 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
 
-\#114 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/818/D](https://codeforces.com/problemset/problem/818/D)
+~~\#114 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/818/D~~](https://codeforces.com/problemset/problem/818/D)~~~~
 
 ~~\#113 \[DONE\] \[Graph\]~~ [~~https://prologin.org/train/2020/qualification/force\_contre\_flotte~~](https://prologin.org/train/2020/qualification/force_contre_flotte)~~~~
 
