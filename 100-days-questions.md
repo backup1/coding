@@ -28,7 +28,7 @@ Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
 ~~\#113 \[DONE\] \[Graph\]~~ [~~https://prologin.org/train/2020/qualification/force\_contre\_flotte~~](https://prologin.org/train/2020/qualification/force_contre_flotte)~~~~
 
-~~\#112 \[String\]~~ [~~https://codeforces.com/edu/course/2/lesson/2/4/practice/contest/269119/problem/A~~](https://codeforces.com/edu/course/2/lesson/2/4/practice/contest/269119/problem/A)~~~~
+~~\#112 \[String\] https://codeforces.com/edu/course/2/lesson/2/4/practice/contest/269119/problem/A~~
 
 ~~\#111 \[DONE\] IOI Max Matching~~
 
