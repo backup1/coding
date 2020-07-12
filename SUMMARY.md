@@ -69,7 +69,7 @@
 * [KMP](string/string-kmp.md)
 * [Aho](string/aho.md)
 * [Suffix Array](string/suffix-array.md)
-* [LCS](string/lcs.md)
+* [LCP](string/lcs.md)
 
 ## Utilities
 

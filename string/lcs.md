@@ -1,4 +1,4 @@
-# LCS
+# LCP
 
 [https://codeforces.com/edu/course/2/lesson/2/4/practice/contest/269119/problem/A](https://codeforces.com/edu/course/2/lesson/2/4/practice/contest/269119/problem/A)
 
