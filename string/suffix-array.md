@@ -27,7 +27,7 @@ void suffix_array(string& s,vector<int>& p){
   for(int i = 0; i < n; ++i) v[i] = {s[i],i};
   sort(begin(v),end(v));
   for(int i = 0; i < n; ++i) p[i] = v[i].second;
-  c[p[0]] = 0;
+  // c[p[0]] = 0;
   for(int i =1; i < n; ++i){
     if(v[i].first == v[i-1].first) c[p[i]] = c[p[i-1]];
     else c[p[i]] = c[p[i-1]]+1;

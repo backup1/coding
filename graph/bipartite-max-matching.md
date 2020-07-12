@@ -24,7 +24,7 @@ bool bfs(){
   while(!q.empty()){
     int u = q.front();
     q.pop_front();
-    if(dist[u] >= dist[0]) continue;
+    if(dist[u] >= dist[0]) continue; // break;
     for(int v : adj[u]){
       if(dist[matchv[v]] == inf){
         dist[matchv[v]] = dist[u] + 1;
