@@ -6,23 +6,25 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 114 | 31 | 26 | 40 | 10 | 1 | 6 |
+| 115 | 32 | 26 | 40 | 10 | 1 | 6 |
 
 Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\[2020/07/01 - 2020/07/31\] **18** DONE \[Data Structure **3**\] \[Graph **4**\] \[DP **2**\] \[Greedy **4**\] \[Misc **5**\]
+\[2020/07/01 - 2020/07/31\] **19** DONE \[Data Structure **4**\] \[Graph **4**\] \[DP **2**\] \[Greedy **4**\] \[Misc **5**\]
 
-\#120\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\#121\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
-\#119\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#120\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#118\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#119\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#117 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#118 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
 
-\#116 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
+\#117 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
 
-\#115 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+\#116 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+
+~~\#115 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A~~](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A)~~~~
 
 ~~\#114 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/818/D~~](https://codeforces.com/problemset/problem/818/D)~~~~
 
