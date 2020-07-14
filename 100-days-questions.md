@@ -32,7 +32,7 @@ Detailed counter \[Segment Tree **8**\] \[LCA  **4**\] \[To improve **1**\]
 
 ~~\#118 \[DONE\] \[Greedy\] https://codeforces.com/contest/1380/problem/D~~
 
-~~\#117 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C~~](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)~~~~
+~~\#117 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C~~
 
 ~~\#116 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B~~
 
