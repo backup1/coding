@@ -24,7 +24,7 @@ Detailed counter \[Segment Tree **8**\] \[LCA  **4**\] \[To improve **1**\]
 
 \#122 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
 
-~~\#121 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C~~](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C)~~~~
+~~\#121 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C~~
 
 ~~\#120 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B~~
 
