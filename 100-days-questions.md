@@ -6,21 +6,23 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 130 | 43 | 27 | 40 | 11 | 1 | 8 |
+| 131 | 44 | 27 | 40 | 11 | 1 | 8 |
 
-\[2020/07/01 - 2020/07/31\] **34** DONE \[Data Structure **15**\] \[Graph **5**\] \[DP **2**\] \[Greedy **5**\] \[Misc **7**\]
+\[2020/07/01 - 2020/07/31\] **35** DONE \[Data Structure **16**\] \[Graph **5**\] \[DP **2**\] \[Greedy **5**\] \[Misc **7**\]
 
-\#136\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\#137\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
-\#135\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#136\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#134\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#135\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#133 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#134 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
 
-\#132 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
+\#133 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
 
-\#131 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+\#132 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+
+~~\#131 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/A~~](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/A)~~~~
 
 ~~\#130 \[DONE\]~~ [~~https://codeforces.com/edu/course/2/lesson/2/5/practice/contest/269656/problem/A~~](https://codeforces.com/edu/course/2/lesson/2/5/practice/contest/269656/problem/A)~~~~
 
