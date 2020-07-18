@@ -30,7 +30,7 @@ description: 2020.05.01
 
 ~~\#128 \[DONE\] \[Graph\]~~ [~~https://codeforces.com/contest/1385/problem/E~~](https://codeforces.com/contest/1385/problem/E)~~~~
 
-~~\#127 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D~~](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D)~~~~
+~~\#127 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D~~
 
 ~~\#126 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/B~~
 
