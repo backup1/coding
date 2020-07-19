@@ -34,7 +34,7 @@ description: 2020.05.01
 
 ~~\#126 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/B~~
 
-~~\#125 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E~~](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E)~~~~
+~~\#125 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E~~
 
 ~~\#124 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/C~~
 
