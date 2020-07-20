@@ -6,55 +6,31 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 133 | 46 | 27 | 40 | 11 | 1 | 8 |
+| 120 | 36 | 26 | 40 | 11 | 1 | 6 |
 
-\[2020/07/01 - 2020/07/31\] **37** DONE \[Data Structure **18**\] \[Graph **5**\] \[DP **2**\] \[Greedy **5**\] \[Misc **7**\]
+Detailed counter \[Segment Tree **2**\] \[LCA  **4**\] \[To improve **1**\]
 
-\#139\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\[2020/07/01 - 2020/07/31\] **24** DONE \[Data Structure **8**\] \[Graph **4**\] \[DP **2**\] \[Greedy **5**\] \[Misc **5**\]
 
-\#138\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#126\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
-\#137\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#125\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#136 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#124\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#135 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
+\#123 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
 
-\#134 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
+\#122 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
 
-~~\#133 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D~~](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D)~~~~
+\#121 \[Graph 1800\] [https://codeforces.com/problemset/problem/173/B](https://codeforces.com/problemset/problem/173/B)
 
-~~\#132 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/B~~
+~~\#120 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B~~](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B)~~~~
 
-~~\#131 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/A~~
-
-~~\#130 \[DONE\] https://codeforces.com/edu/course/2/lesson/2/5/practice/contest/269656/problem/A~~
-
-~~\#129 \[DONE\]~~ [~~https://codeforces.com/contest/1385/problem/D~~](https://codeforces.com/contest/1385/problem/D)~~~~
-
-~~\#128 \[DONE\] \[Graph\]~~ [~~https://codeforces.com/contest/1385/problem/E~~](https://codeforces.com/contest/1385/problem/E)~~~~
-
-~~\#127 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D~~
-
-~~\#126 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/B~~
-
-~~\#125 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E~~
-
-~~\#124 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/C~~
-
-~~\#123 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/A~~
-
-~~\#122 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/D~~
-
-~~\#121 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C~~
-
-~~\#120 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B~~
-
-~~\#119 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/A~~
+~~\#119 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/A~~](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/A)~~~~
 
 ~~\#118 \[DONE\] \[Greedy\] https://codeforces.com/contest/1380/problem/D~~
 
-~~\#117 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C~~
+~~\#117 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C~~](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)~~~~
 
 ~~\#116 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B~~
 
