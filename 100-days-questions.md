@@ -24,17 +24,9 @@ description: 2020.05.01
 
 \#134 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
 
-| A | B | C | D | E | F | G | H | I | J |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| X | X |  |  |  |  |  |  |  |  |
-
-| ~~K~~ | L | M | N | O | P | Q | R | S | T |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |  |  |  |  |
-
-| ~~U~~ | V | W | X | Y | Z |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |
+| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| X | X | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
 
 ~~\#133 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D~~
 
