@@ -26,7 +26,7 @@ description: 2020.05.01
 
 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| X | X | X | X | X | O | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| X | X | X | X | X | O | X | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
 
 ~~\#133 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D~~
 
