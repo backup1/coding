@@ -6,9 +6,9 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 134 | 46 | 28 | 40 | 11 | 1 | 8 |
+| 135 | 47 | 28 | 40 | 11 | 1 | 8 |
 
-\[2020/07/01 - 2020/07/31\] **38** DONE \[Data Structure **18**\] \[Graph **6**\] \[DP **2**\] \[Greedy **5**\] \[Misc **7**\]
+\[2020/07/01 - 2020/07/31\] **39** DONE \[Data Structure **19**\] \[Graph **6**\] \[DP **2**\] \[Greedy **5**\] \[Misc **7**\]
 
 \#140\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
@@ -18,7 +18,7 @@ description: 2020.05.01
 
 \#137 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
 
-\#136 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/827/A](https://codeforces.com/problemset/problem/827/A)
+~~\#136 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/827/A~~](https://codeforces.com/problemset/problem/827/A)~~~~
 
 ~~\#135 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/173/B~~](https://codeforces.com/problemset/problem/173/B)~~~~
 
