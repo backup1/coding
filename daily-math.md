@@ -1,6 +1,6 @@
 # Daily Math
 
-\[2020/07/24\] [https://www.mathraining.be/problems/96](https://www.mathraining.be/problems/96)
+\[2020/07/26\] [https://www.mathraining.be/problems/96](https://www.mathraining.be/problems/96)
 
 ~~\[DONE\] https://www.mathraining.be/problems/105~~
 
