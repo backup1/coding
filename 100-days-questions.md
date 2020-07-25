@@ -6,17 +6,27 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 135 | 47 | 28 | 40 | 11 | 1 | 8 |
+| 136+8 | 47 | 28 | 40+8 | 12 | 1 | 8 |
 
-\[2020/07/01 - 2020/07/31\] **39** DONE \[Data Structure **19**\] \[Graph **6**\] \[DP **2**\] \[Greedy **5**\] \[Misc **7**\]
+\[2020/07/01 - 2020/07/31\] **40+8** DONE \[Data Structure **19**\] \[Graph **6**\] \[DP **2+8**\] \[Greedy **6**\] \[Misc **7**\]
 
-\#140\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\#145\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
-\#139\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#144\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#138\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#143\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#137 \[Greedy 1600\] [https://codeforces.com/problemset/problem/637/D](https://codeforces.com/problemset/problem/637/D)
+\#142 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
+
+\#141 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
+
+\#140 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
+
+\#139 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+
+\#138 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+
+~~\#137 \[DONE\] \[Greedy 1600\]~~ [~~https://codeforces.com/problemset/problem/637/D~~](https://codeforces.com/problemset/problem/637/D)~~~~
 
 ~~\#136 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/827/A~~](https://codeforces.com/problemset/problem/827/A)~~~~
 

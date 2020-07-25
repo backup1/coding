@@ -162,10 +162,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 
 \[DP 1600\] [https://codeforces.com/problemset/problem/209/A](https://codeforces.com/problemset/problem/209/A)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
-
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
-
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1245/D](https://codeforces.com/problemset/problem/1245/D)
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/1214/D](https://codeforces.com/problemset/problem/1214/D)
@@ -197,12 +193,6 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 \[Graph 1800\] [https://codeforces.com/problemset/problem/33/B](https://codeforces.com/problemset/problem/33/B)
 
 \[Graph 1900\] [https://codeforces.com/problemset/problem/25/C](https://codeforces.com/problemset/problem/25/C)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
-
-\[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
 
 \[Graph 1500\] [https://codeforces.com/problemset/problem/190/C](https://codeforces.com/problemset/problem/190/C)
 
