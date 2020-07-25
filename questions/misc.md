@@ -8,6 +8,24 @@ Next
 
 
 
+\[Segment Tree O\] [https://codeforces.com/contest/338/problem/E](https://codeforces.com/contest/338/problem/E)
+
+\[Segment Tree O\] [https://codeforces.com/contest/19/problem/D](https://codeforces.com/contest/19/problem/D)
+
+\[Segment Tree O\] [https://codeforces.com/contest/351/problem/D](https://codeforces.com/contest/351/problem/D)
+
+\[Segment Tree O\] [https://codeforces.com/contest/515/problem/E](https://codeforces.com/contest/515/problem/E)
+
+\[Segment Tree O\] [ttps://codeforces.com/contest/540/problem/E](https://codeforces.com/contest/540/problem/E)
+
+\[Segment Tree O\] [https://codeforces.com/contest/609/problem/F](https://codeforces.com/contest/609/problem/F)
+
+\[Segment Tree O\] [https://codeforces.com/contest/594/problem/D](https://codeforces.com/contest/594/problem/D)
+
+\[Segment Tree O\] [https://codeforces.com/contest/455/problem/E](https://codeforces.com/contest/455/problem/E)
+
+checked classic : [https://codeforces.com/blog/entry/22616](https://codeforces.com/blog/entry/22616)
+
 
 
 CSES : [https://cses.fi/problemset/list/](https://cses.fi/problemset/list/)
