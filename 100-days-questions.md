@@ -36,7 +36,7 @@ description: 2020.05.01
 
 ~~\#138 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/C~~
 
-~~\#137 \[DONE\] \[Greedy 1600\]~~ [~~https://codeforces.com/problemset/problem/637/D~~](https://codeforces.com/problemset/problem/637/D)~~~~
+~~\#137 \[DONE\] \[Greedy 1600\] https://codeforces.com/problemset/problem/637/D~~
 
 ~~\#136 \[DONE\] \[Data Structure 1700\]~~ [~~https://codeforces.com/problemset/problem/827/A~~](https://codeforces.com/problemset/problem/827/A)~~~~
 
