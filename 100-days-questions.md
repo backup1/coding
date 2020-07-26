@@ -6,9 +6,9 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 137+8 | 48 | 28 | 40+8 | 12 | 1 | 8 |
+| 137+9 | 48 | 28 | 40+9 | 12 | 1 | 8 |
 
-\[2020/07/01 - 2020/07/31\] **41+8** DONE \[Data Structure **20**\] \[Graph **6**\] \[DP **2+8**\] \[Greedy **6**\] \[Misc **7**\]
+\[2020/07/01 - 2020/07/31\] **41+9** DONE \[Data Structure **20**\] \[Graph **6**\] \[DP **2+9**\] \[Greedy **6**\] \[Misc **7**\]
 
 \#150\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
@@ -46,7 +46,7 @@ description: 2020.05.01
 
 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ~~X~~ | ~~X~~ | ~~X~~ | ~~X~~ | ~~X~~ | ~~O~~ | ~~X~~ | ~~X~~ | O | O | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| ~~X~~ | ~~X~~ | ~~X~~ | ~~X~~ | ~~X~~ | ~~X~~ | ~~X~~ | ~~X~~ | ~~O~~ | O | X | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
 
 ~~\#133 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D~~
 
