@@ -1,8 +1,10 @@
 # Daily Math
 
-\[2020/07/27\] [https://www.mathraining.be/chapters/5?type=5&which=132](https://www.mathraining.be/chapters/5?type=5&which=132)
+\[2020/07/28\] [https://www.mathraining.be/chapters/5?type=5&which=160](https://www.mathraining.be/chapters/5?type=5&which=160)
 
-~~\[DONE\]~~ [~~https://www.mathraining.be/problems/96~~](https://www.mathraining.be/problems/96)~~~~
+~~\[DONE\] https://www.mathraining.be/chapters/5?type=5&which=132~~
+
+~~\[DONE\] https://www.mathraining.be/problems/96~~
 
 ~~\[DONE\] https://www.mathraining.be/problems/105~~
 
