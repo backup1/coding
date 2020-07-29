@@ -34,6 +34,8 @@ G++ Release Notes \(replacing 9 by any number &lt;= 9\) : [https://gcc.gnu.org/g
 
 USACO Dashboard : [https://usaco-guide.vercel.app/dashboard/](https://usaco-guide.vercel.app/dashboard/)
 
+training site [https://algo.is/](https://algo.is/)
+
 
 
 \[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
