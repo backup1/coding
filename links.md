@@ -32,6 +32,8 @@ Rope API :  [http://www.martinbroadhurst.com/stl/Rope.html](http://www.martinbro
 
 G++ Release Notes \(replacing 9 by any number &lt;= 9\) : [https://gcc.gnu.org/gcc-9/changes.html](https://gcc.gnu.org/gcc-9/changes.html)
 
+USACO Dashboard : [https://usaco-guide.vercel.app/dashboard/](https://usaco-guide.vercel.app/dashboard/)
+
 
 
 \[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
