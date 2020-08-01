@@ -8,7 +8,13 @@ description: 2020.05.01
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 137+18 | 48 | 28 | 40+18 | 12 | 1 | 8 |
 
-\[2020/07/01 - 2020/07/31\] **41+18** DONE \[Data Structure **20**\] \[Graph **6**\] \[DP **2+18**\] \[Greedy **6**\] \[Misc **7**\]
+\[2020/08/01 - 2020/08/31\] **0** DONE \[Data Structure **0**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\] \[Misc **0**\]
+
+\#151 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
+
+| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | O | O | O | O | O | O | O | O |
 
 \#150\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
@@ -34,6 +40,8 @@ description: 2020.05.01
 
 \#139 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
 
+\[2020/07/01 - 2020/07/31\] **41+18** DONE \[Data Structure **20**\] \[Graph **6**\] \[DP **2+18**\] \[Greedy **6**\] \[Misc **7**\]
+
 ~~\#138 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/C~~
 
 ~~\#137 \[DONE\] \[Greedy 1600\] https://codeforces.com/problemset/problem/637/D~~
@@ -42,7 +50,7 @@ description: 2020.05.01
 
 ~~\#135 \[DONE\] \[Graph 1800\]~~ [~~https://codeforces.com/problemset/problem/173/B~~](https://codeforces.com/problemset/problem/173/B)~~~~
 
-\#134 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
+~~\#134 \[DP\]~~ [~~https://atcoder.jp/contests/dp/tasks~~](https://atcoder.jp/contests/dp/tasks)~~~~
 
 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
