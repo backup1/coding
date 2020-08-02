@@ -8,37 +8,39 @@ description: 2020.05.01
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 137+18 | 48 | 28 | 40+18 | 12 | 1 | 8 |
 
-\[2020/08/01 - 2020/08/31\] **0** DONE \[Data Structure **0**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\] \[Misc **0**\]
+\[2020/08/01 - 2020/08/31\] **1** DONE \[Data Structure **1**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\] \[Misc **0**\]
 
-\#151 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
+\#152 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
 
 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | O | O | O | O | O | O | O | O |
 
-\#150\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\#151\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
-\#149\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#150\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#148\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#149\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#147 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
+\#148 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
 
-\#146 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
+\#147 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
 
-\#145 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
+\#146 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
 
-\#144 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
+\#145 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
 
-\#143 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
+\#144 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
 
-\#142 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
+\#143 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
 
-\#141 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
+\#142 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
 
-\#140 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+\#141 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
 
-\#139 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+\#140 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+
+~~\#139 \[EJOI2019 XORanges\] https://oj.uz/problem/view/eJOI19\_xoranges~~
 
 \[2020/07/01 - 2020/07/31\] **41+18** DONE \[Data Structure **20**\] \[Graph **6**\] \[DP **2+18**\] \[Greedy **6**\] \[Misc **7**\]
 
@@ -208,7 +210,7 @@ description: 2020.05.01
 
 ~~\#59 \[DONE\] \[Graph LCA 1900\] https://codeforces.com/contest/191/problem/C~~
 
-~~\#58 \[DONE\] \[EJOI2017 Magic\] https://csacademy.com/contest/archive/task/magic/statement/~~
+~~\#58 \[EJOI2017 Magic\] https://csacademy.com/contest/archive/task/magic/statement/~~
 
 \[2020/05/01 - 2020/05/31\] **57** DONE \[Data Structure **17**\] \[Graph **12**\] \[DP **27**\] \[Interactive **1**\]
 
