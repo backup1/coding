@@ -6,39 +6,41 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 137+18 | 48 | 28 | 40+18 | 12 | 1 | 8 |
+| 139+18 | 48 | 28 | 40+18 | 12 | 1 | 9 |
 
-\[2020/08/01 - 2020/08/31\] **1** DONE \[Data Structure **1**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\] \[Misc **0**\]
+\[2020/08/01 - 2020/08/31\] **2** DONE \[Data Structure **1**\] \[Graph **0**\] \[DP **0**\] \[Greedy **0**\] \[Misc **1**\]
 
-\#152 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
+\#153 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
 
 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | O | O | O | O | O | O | O | O |
 
-\#151\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\#152\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
-\#150\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#151\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#149\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#150\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#148 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
+\#149 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
 
-\#147 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
+\#148 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
 
-\#146 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
+\#147 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
 
-\#145 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
+\#146 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
 
-\#144 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
+\#145 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
 
-\#143 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
+\#144 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
 
-\#142 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
+\#143 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
 
-\#141 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+\#142 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
 
-\#140 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+\#141 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+
+~~\#140 \[EJOI2019 Rack\] https://oj.uz/problem/view/eJOI19\_rack~~
 
 ~~\#139 \[EJOI2019 XORanges\] https://oj.uz/problem/view/eJOI19\_xoranges~~
 
