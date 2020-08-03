@@ -19,7 +19,7 @@ void count_sort(vector<int>& p,vector<int>& c){
   p = p_new;
 }
 void suffix_array(string& s,vector<int>& p){
-  s.push_back('$');
+  s.push_back('\1');
   int n = s.size();
   p.resize(n);
   vector<int> c(n);
