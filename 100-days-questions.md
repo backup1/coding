@@ -42,7 +42,7 @@ description: 2020.05.01
 
 ~~\#148~~ [~~https://codeforces.com/contest/1393/problem/C~~](https://codeforces.com/contest/1393/problem/C)~~~~
 
-~~\#147 \[Segment Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/D~~](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/D)~~~~
+~~\#147 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/D~~
 
 ~~\#146 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/C~~
 
