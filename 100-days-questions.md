@@ -6,39 +6,41 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 149+18 | 55 | 29 | 40+18 | 12 | 1 | 10 |
+| 150+18 | 56 | 29 | 40+18 | 12 | 1 | 10 |
 
-\[2020/08/01 - 2020/08/31\] **12** DONE \[Data Structure **9**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2**\]
+\[2020/08/01 - 2020/08/31\] **13** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2**\]
 
-\#163 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
+\#164 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
 
 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | O | O | O | O | O | O | O | O |
 
-\#162\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\#163\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
-\#161\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#162\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#160\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#161\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#159 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
+\#160 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
 
-\#158 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
+\#159 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
 
-\#157 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
+\#158 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
 
-\#156 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
+\#157 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
 
-\#155 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
+\#156 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
 
-\#154 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
+\#155 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
 
-\#153 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
+\#154 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
 
-\#152 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+\#153 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
 
-\#151 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+\#152 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+
+~~\#151 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/F~~
 
 ~~\#150 \[Graph\] https://oj.uz/problem/view/eJOI19\_adventure~~
 
