@@ -16,29 +16,23 @@ description: 2020.05.01
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | O | O | O | O | O | O | O | O |
 
-\#163\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\[Topological Sort\]
 
-\#162\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\[MST\] [https://judge.yosupo.jp/problem/directedmst](https://judge.yosupo.jp/problem/directedmst)
 
-\#161\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\[Bipartite Matching\] [https://judge.yosupo.jp/problem/bipartitematching](https://judge.yosupo.jp/problem/bipartitematching)
 
-\#160 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
+\[SCC\] [https://judge.yosupo.jp/problem/scc](https://judge.yosupo.jp/problem/scc)
 
-\#159 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
+\[LCA\] [https://judge.yosupo.jp/problem/lca](https://judge.yosupo.jp/problem/lca)
 
-\#158 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
+\[Shortest Path\] [https://judge.yosupo.jp/problem/shortest\_path](https://judge.yosupo.jp/problem/shortest_path)
 
-\#157 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
+\[Cycle Detection\] [https://judge.yosupo.jp/problem/cycle\_detection](https://judge.yosupo.jp/problem/cycle_detection)
 
-\#156 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
+\[Tree Diameter\] [https://judge.yosupo.jp/problem/tree\_diameter](https://judge.yosupo.jp/problem/tree_diameter)
 
-\#155 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
-
-\#154 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
-
-\#153 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
-
-\#152 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+\[Union Find\] [https://judge.yosupo.jp/problem/unionfind](https://judge.yosupo.jp/problem/unionfind)
 
 ~~\#151 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/F~~
 

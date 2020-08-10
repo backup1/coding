@@ -2,6 +2,30 @@
 
 Next
 
+\#163\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+
+\#162\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+
+\#161\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+
+\#160 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
+
+\#159 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
+
+\#158 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
+
+\#157 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
+
+\#156 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
+
+\#155 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
+
+\#154 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
+
+\#153 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+
+\#152 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+
 \[Data Structure\] [https://acm.timus.ru/problem.aspx?space=1&num=1028](https://acm.timus.ru/problem.aspx?space=1&num=1028)
 
 
