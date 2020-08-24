@@ -10,6 +10,8 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
+\[Union Find\] [https://vjudge.net/contest/231950\#problem/I](https://vjudge.net/contest/231950#problem/I)
+
 ~~\#151 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/F~~
 
 ~~\#150 \[Graph\] https://oj.uz/problem/view/eJOI19\_adventure~~
