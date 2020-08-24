@@ -10,11 +10,13 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
+\[Minimum Spanning Tree\] [https://codeforces.com/problemset/problem/744/A](https://codeforces.com/problemset/problem/744/A)
+
 \[Cycle Detection\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
 
 \[Strongly Connected Component\] [https://vjudge.net/contest/231950\#problem/K](https://vjudge.net/contest/231950#problem/K)
 
-\[Topological Sort\] \[NEW\] [https://leetcode.com/problems/course-schedule/](https://leetcode.com/problems/course-schedule/)
+\[Topological Sort\] [https://codeforces.com/problemset/problem/510/C](https://codeforces.com/problemset/problem/510/C)
 
 \[Floyd-Warshall\] [https://vjudge.net/contest/283261\#problem/I](https://vjudge.net/contest/283261#problem/I)
 
