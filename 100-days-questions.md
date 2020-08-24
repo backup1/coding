@@ -6,33 +6,9 @@ description: 2020.05.01
 
 | Total | Data Structure | Graph | DP | Greedy | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 150+18 | 56 | 29 | 40+18 | 12 | 1 | 10 |
+| 150+26 | 56 | 29 | 40+18 | 12 | 1 | 10+8 |
 
-\[2020/08/01 - 2020/08/31\] **13** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2**\]
-
-\#164 \[DP\] [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
-
-| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | \* | O | O | O | O | O | O | O | O |
-
-\[Topological Sort\]
-
-\[MST\] [https://judge.yosupo.jp/problem/directedmst](https://judge.yosupo.jp/problem/directedmst)
-
-\[Bipartite Matching\] [https://judge.yosupo.jp/problem/bipartitematching](https://judge.yosupo.jp/problem/bipartitematching)
-
-\[SCC\] [https://judge.yosupo.jp/problem/scc](https://judge.yosupo.jp/problem/scc)
-
-\[LCA\] [https://judge.yosupo.jp/problem/lca](https://judge.yosupo.jp/problem/lca)
-
-\[Shortest Path\] [https://judge.yosupo.jp/problem/shortest\_path](https://judge.yosupo.jp/problem/shortest_path)
-
-\[Cycle Detection\] [https://judge.yosupo.jp/problem/cycle\_detection](https://judge.yosupo.jp/problem/cycle_detection)
-
-\[Tree Diameter\] [https://judge.yosupo.jp/problem/tree\_diameter](https://judge.yosupo.jp/problem/tree_diameter)
-
-\[Union Find\] [https://judge.yosupo.jp/problem/unionfind](https://judge.yosupo.jp/problem/unionfind)
+\[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
 ~~\#151 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/F~~
 

@@ -2,6 +2,25 @@
 
 Next
 
+\[MST\] [https://judge.yosupo.jp/problem/directedmst](https://judge.yosupo.jp/problem/directedmst)
+
+\[Bipartite Matching\] [https://judge.yosupo.jp/problem/bipartitematching](https://judge.yosupo.jp/problem/bipartitematching)
+
+\[SCC\] [https://judge.yosupo.jp/problem/scc](https://judge.yosupo.jp/problem/scc)
+
+\[LCA\] [https://judge.yosupo.jp/problem/lca](https://judge.yosupo.jp/problem/lca)
+
+\[Shortest Path\] [https://judge.yosupo.jp/problem/shortest\_path](https://judge.yosupo.jp/problem/shortest_path)
+
+\[Cycle Detection\] [https://judge.yosupo.jp/problem/cycle\_detection](https://judge.yosupo.jp/problem/cycle_detection)
+
+\[Tree Diameter\] [https://judge.yosupo.jp/problem/tree\_diameter](https://judge.yosupo.jp/problem/tree_diameter)
+
+\[Union Find\] [https://judge.yosupo.jp/problem/unionfind](https://judge.yosupo.jp/problem/unionfind)
+
+Max Matching Problem : [https://codeforces.com/gym/101915/problem/D](https://codeforces.com/gym/101915/problem/D)  
+Editorial : [https://codeforces.com/blog/entry/62058](https://codeforces.com/blog/entry/62058)
+
 \#163\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
 
 \#162\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
