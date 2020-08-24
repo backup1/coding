@@ -10,6 +10,8 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
+\[Strongly Connected Component\] [https://vjudge.net/contest/231950\#problem/K](https://vjudge.net/contest/231950#problem/K)
+
 \[Topological Sort\] \[NEW\] [https://leetcode.com/problems/course-schedule/](https://leetcode.com/problems/course-schedule/)
 
 \[Floyd-Warshall\] [https://vjudge.net/contest/283261\#problem/I](https://vjudge.net/contest/283261#problem/I)
