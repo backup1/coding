@@ -12,7 +12,7 @@ description: 2020.05.01 - 2020.08.31
 
 \[DP\]
 
-\[LCA \| Binary Lifting\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
+~~\[DONE\] \[LCA \| Binary Lifting\]~~ [~~https://codeforces.com/contest/191/problem/C~~](https://codeforces.com/contest/191/problem/C)~~~~
 
 \[Rerooting\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
 
