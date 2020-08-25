@@ -10,9 +10,14 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
-\[DP\]
+\[DP\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
+
+\[DP on Tree\] [https://codeforces.com/problemset/problem/682/C](https://codeforces.com/problemset/problem/682/C)
 
 ~~\[DONE\] \[LCA \| Binary Lifting\]~~ [~~https://codeforces.com/contest/191/problem/C~~](https://codeforces.com/contest/191/problem/C)~~~~
+
+* use your favorite style \(here **level** versus DFS tree or Eulerean tour\)
+* do not confuse high level is lower in the tree
 
 \[Rerooting\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
 
