@@ -10,6 +10,8 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
+\[DP\]
+
 \[LCA \| Binary Lifting\] [https://codeforces.com/contest/191/problem/C](https://codeforces.com/contest/191/problem/C)
 
 \[Rerooting\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
