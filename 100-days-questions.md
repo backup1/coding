@@ -26,7 +26,10 @@ description: 2020.05.01 - 2020.08.31
 
 \[Bellman-Ford\] [https://vjudge.net/contest/283261\#problem/K](https://vjudge.net/contest/283261#problem/K)
 
-\[Union Find\] [https://vjudge.net/contest/231950\#problem/I](https://vjudge.net/contest/231950#problem/I)
+~~\[DONE\] \[Union Find\]~~ [~~https://vjudge.net/contest/231950\#problem/I~~](https://vjudge.net/contest/231950#problem/I)~~~~
+
+* avoid **while\(cin&gt;&gt;c\);**
+* copy/paste to avoid confusion \(**O** versus **0**\)
 
 ~~\#151 \[Segment Tree\] https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/F~~
 
