@@ -14,7 +14,7 @@ description: 2020.05.01 - 2020.08.31
 
 \[DP\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
 
-~~\[DP\]~~ [~~https://vjudge.net/contest/256134\#problem/B~~](https://vjudge.net/contest/256134#problem/B)~~~~
+~~\[DONE\] \[DP\]~~ [~~https://vjudge.net/contest/256134\#problem/B~~](https://vjudge.net/contest/256134#problem/B)~~~~
 
 * correct range &lt;= LIM x 100 is not the same as &lt; \(LIM+1\) x 100
 
