@@ -10,6 +10,8 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
+\[DP extra\] [https://codeforces.com/problemset/problem/933/A](https://codeforces.com/problemset/problem/933/A)
+
 \[DP\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
 
 \[DP\] [https://vjudge.net/contest/256134\#problem/B](https://vjudge.net/contest/256134#problem/B)
