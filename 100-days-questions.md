@@ -12,13 +12,13 @@ description: 2020.05.01 - 2020.08.31
 
 \[DP extra\] [https://codeforces.com/problemset/problem/933/A](https://codeforces.com/problemset/problem/933/A)
 
-\[DP\] [https://codeforces.com/problemset/problem/706/C](https://codeforces.com/problemset/problem/706/C)
+~~\[DONE\] \[DP\]~~ [~~https://codeforces.com/problemset/problem/706/C~~](https://codeforces.com/problemset/problem/706/C)~~~~
 
 ~~\[DONE\] \[DP\]~~ [~~https://vjudge.net/contest/256134\#problem/B~~](https://vjudge.net/contest/256134#problem/B)~~~~
 
 * correct range &lt;= LIM x 100 is not the same as &lt; \(LIM+1\) x 100
 
-\[DP on Tree\] [https://codeforces.com/problemset/problem/682/C](https://codeforces.com/problemset/problem/682/C)
+~~\[DONE\] \[DP on Tree\]~~ [~~https://codeforces.com/problemset/problem/682/C~~](https://codeforces.com/problemset/problem/682/C)~~~~
 
 ~~\[DONE\] \[LCA \| Binary Lifting\]~~ [~~https://codeforces.com/contest/191/problem/C~~](https://codeforces.com/contest/191/problem/C)~~~~
 
@@ -33,7 +33,7 @@ description: 2020.05.01 - 2020.08.31
 
 \[Strongly Connected Component\] [https://vjudge.net/contest/231950\#problem/K](https://vjudge.net/contest/231950#problem/K)
 
-\[Topological Sort\] [https://codeforces.com/problemset/problem/510/C](https://codeforces.com/problemset/problem/510/C)
+~~\[DONE\] \[Topological Sort\]~~ [~~https://codeforces.com/problemset/problem/510/C~~](https://codeforces.com/problemset/problem/510/C)~~~~
 
 \[Floyd-Warshall\] [https://vjudge.net/contest/283261\#problem/I](https://vjudge.net/contest/283261#problem/I)
 
