@@ -30,7 +30,7 @@ description: 2020.05.01 - 2020.08.31
 * edge case condition \(leaf\)
 * check if size is enough
 
-\[Minimum Spanning Tree\] [https://codeforces.com/problemset/problem/744/A](https://codeforces.com/problemset/problem/744/A)
+~~\[Minimum Spanning Tree\]~~ [~~https://codeforces.com/problemset/problem/744/A~~](https://codeforces.com/problemset/problem/744/A)~~~~
 
 \[Cycle Detection\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
 
