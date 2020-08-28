@@ -25,7 +25,10 @@ description: 2020.05.01 - 2020.08.31
 * use your favorite style \(here **level** versus DFS tree or Eulerean tour\)
 * do not confuse high level is lower in the tree
 
-\[Rerooting\] [https://codeforces.com/problemset/problem/1324/F](https://codeforces.com/problemset/problem/1324/F)
+~~\[DONE\] \[Rerooting\]~~ [~~https://codeforces.com/problemset/problem/1324/F~~](https://codeforces.com/problemset/problem/1324/F)~~~~
+
+* edge case condition \(leaf\)
+* check if size is enough
 
 \[Minimum Spanning Tree\] [https://codeforces.com/problemset/problem/744/A](https://codeforces.com/problemset/problem/744/A)
 
