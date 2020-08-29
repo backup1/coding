@@ -34,7 +34,9 @@ description: 2020.05.01 - 2020.08.31
 
 \[Cycle Detection\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
 
-\[Strongly Connected Component\] [https://vjudge.net/contest/231950\#problem/K](https://vjudge.net/contest/231950#problem/K)
+~~\[DONE\] \[Strongly Connected Component\]~~ [~~https://vjudge.net/contest/231950\#problem/K~~](https://vjudge.net/contest/231950#problem/K)~~~~
+
+* long implementation
 
 ~~\[DONE\] \[Topological Sort\]~~ [~~https://codeforces.com/problemset/problem/510/C~~](https://codeforces.com/problemset/problem/510/C)~~~~
 
