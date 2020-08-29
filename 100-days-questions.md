@@ -10,6 +10,8 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
+\[Seg Tree\] [https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E)
+
 \[DP extra\] [https://codeforces.com/problemset/problem/933/A](https://codeforces.com/problemset/problem/933/A)
 
 ~~\[DONE\] \[DP\]~~ [~~https://codeforces.com/problemset/problem/706/C~~](https://codeforces.com/problemset/problem/706/C)~~~~
@@ -32,7 +34,7 @@ description: 2020.05.01 - 2020.08.31
 
 ~~\[DONE\] \[Minimum Spanning Tree\]~~ [~~https://codeforces.com/problemset/problem/744/A~~](https://codeforces.com/problemset/problem/744/A)~~~~
 
-\[Cycle Detection\] [https://codeforces.com/problemset/problem/510/B](https://codeforces.com/problemset/problem/510/B)
+~~\[DONE\] \[Cycle Detection\]~~ [~~https://codeforces.com/problemset/problem/510/B~~](https://codeforces.com/problemset/problem/510/B)~~~~
 
 ~~\[DONE\] \[Strongly Connected Component\]~~ [~~https://vjudge.net/contest/231950\#problem/K~~](https://vjudge.net/contest/231950#problem/K)~~~~
 
@@ -40,7 +42,7 @@ description: 2020.05.01 - 2020.08.31
 
 ~~\[DONE\] \[Topological Sort\]~~ [~~https://codeforces.com/problemset/problem/510/C~~](https://codeforces.com/problemset/problem/510/C)~~~~
 
-\[Floyd-Warshall\] [https://vjudge.net/contest/283261\#problem/I](https://vjudge.net/contest/283261#problem/I)
+~~\[DONE\] \[Floyd-Warshall\]~~ [~~https://vjudge.net/contest/283261\#problem/I~~](https://vjudge.net/contest/283261#problem/I)~~~~
 
 ~~\[DONE\] \[Bellman-Ford\]~~ [~~https://vjudge.net/contest/283261\#problem/K~~](https://vjudge.net/contest/283261#problem/K)~~~~
 
