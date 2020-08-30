@@ -10,10 +10,13 @@ description: 2020.05.01 - 2020.08.31
 
 \[2020/08/01 - 2020/08/31\] **13+8** DONE \[Data Structure **10**\] \[Graph **1**\] \[DP **0**\] \[Greedy **0**\] \[Misc **2+8**\]
 
+* edge case
+* lire bien les consignes de l'énoncé
+* create test cases
 * pay attention to left / right \(if same or not in the question\)
 * small but important details
 
-\[Seg Tree\] [https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E)
+~~\[DONE\] \[Seg Tree\]~~ [~~https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E~~](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E)~~~~
 
 ~~\[DONE\] \[DP extra\]~~ [~~https://codeforces.com/problemset/problem/933/A~~](https://codeforces.com/problemset/problem/933/A)~~~~
 
