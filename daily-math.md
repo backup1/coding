@@ -1,5 +1,7 @@
 # Daily Math
 
+Free manuals : [https://adistance.manuelnumerique.com/?utm\_source=Nathan+Portail&utm\_medium=article&utm\_campaign=coronavirus-nos-manuelsscolaires-en-libre-acces](https://adistance.manuelnumerique.com/?utm_source=Nathan+Portail&utm_medium=article&utm_campaign=coronavirus-nos-manuelsscolaires-en-libre-acces)
+
 \[2020/07/29\] [https://www.mathraining.be/chapters/5?type=5&which=221](https://www.mathraining.be/chapters/5?type=5&which=221)
 
 ~~\[DONE\] https://www.mathraining.be/chapters/5?type=5&which=160~~
