@@ -23,7 +23,7 @@ Example question : [https://atcoder.jp/contests/practice2/tasks/practice2\_b](ht
 
 ```cpp
 #include <bits/stdc++.h>
-#include <atcoder/all>
+#include <atcoder/fenwicktree>
 using namespace std;
 using namespace atcoder;
 using ll = long long;
