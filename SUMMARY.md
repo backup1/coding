@@ -116,4 +116,5 @@
 * [DSU \(Disjoint Set Union\)](atcoder/dsu-disjoint-set-union.md)
 * [Fenwick Tree](atcoder/fenwick-tree.md)
 * [Floor Sum \(Math\)](atcoder/floor-sum-math.md)
+* [Max Flow](atcoder/max-flow.md)
 
