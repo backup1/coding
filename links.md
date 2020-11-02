@@ -42,6 +42,8 @@ general matching algo \(not hopcroft-karp\) O\(n3\) : [http://csclab.murraystate
 
 \[algo\] [https://github.com/geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
 
+Lot of great implementation from Eric Zhang : [http://ekzlib.herokuapp.com/home](http://ekzlib.herokuapp.com/home)
+
 
 
 \[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
