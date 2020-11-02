@@ -44,6 +44,10 @@ general matching algo \(not hopcroft-karp\) O\(n3\) : [http://csclab.murraystate
 
 Lot of great implementation from Eric Zhang : [http://ekzlib.herokuapp.com/home](http://ekzlib.herokuapp.com/home)
 
+Old USACO : [https://www.acmicpc.net/category/106](https://www.acmicpc.net/category/106)
+
+Old IOI : [https://dmoj.ca/problems/?category=5&page=3](https://dmoj.ca/problems/?category=5&page=3)
+
 
 
 \[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
