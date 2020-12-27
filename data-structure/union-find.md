@@ -14,6 +14,7 @@ int getComp(vector<int>& comp,int i){
 void merge(vector<int>& comp,vector<int>& level,int a,int b){
   a = getComp(comp,a);
   b = getComp(comp,b);
+  // if(a==b) return;
   if(level[a] > level[b]) swap(a,b);
   else if(level[a] == level[b]) ++level[b];
   comp[a] = b;
