@@ -24,6 +24,7 @@
 ## Geometry
 
 * [CircumCenter](geometry/circumcenter.md)
+* [Convex Hull exercises](geometry/convex-hull-exercises.md)
 
 ## Data Structure
 
