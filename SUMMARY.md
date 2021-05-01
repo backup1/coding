@@ -26,6 +26,7 @@
 * [CircumCenter](geometry/circumcenter.md)
 * [Complex number](geometry/complex-number.md)
 * [Convex Hull exercises](geometry/convex-hull-exercises.md)
+* [Convex Hull](geometry/convex-hull.md)
 * [Rotating calipers](geometry/rotating-calipers.md)
 * [Line Segment Intersection](geometry/line-segment-intersection.md)
 
