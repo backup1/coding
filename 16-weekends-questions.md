@@ -28,7 +28,7 @@ description: 2021.05.01 - 2021.08.31
 
 check if a point is in a polygone : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420)
 
-segment distance : [https://open.kattis.com/problems/segmentdistance](https://open.kattis.com/problems/segmentdistance)
+\[todo\] segment distance : [https://open.kattis.com/problems/segmentdistance](https://open.kattis.com/problems/segmentdistance)
 
 cloest pair : sweep lines [https://open.kattis.com/problems/closestpair2](https://open.kattis.com/problems/closestpair2)
 
