@@ -10,21 +10,21 @@ description: 2021.05.01 - 2021.08.31
 
 ### Geometry
 
-\[**todo**\] path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
+\[todo\] path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
 
-\[**todo**\] convex hull application : [https://open.kattis.com/problems/wrapping](https://open.kattis.com/problems/wrapping)
+\[todo\] convex hull application : [https://open.kattis.com/problems/wrapping](https://open.kattis.com/problems/wrapping)
 
-\[**todo**\] intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
+\[todo\] intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
 
 ~~\[done\] check if a point is in a polygon :~~ [~~https://open.kattis.com/problems/pointinpolygon~~](https://open.kattis.com/problems/pointinpolygon)~~~~
 
-\[**todo**\] polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
+\[todo\] polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
 
-\[**todo**\] convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
+\[todo\] convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
 
-\[**todo**\] maximum euclidean distance : [https://open.kattis.com/problems/roberthood](https://open.kattis.com/problems/roberthood)
+\[todo\] maximum euclidean distance : [https://open.kattis.com/problems/roberthood](https://open.kattis.com/problems/roberthood)
 
-triangle area + Pick theorem : [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke)
+\[todo\] triangle area + Pick theorem : [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke)
 
 check if a point is in a polygone : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420)
 
