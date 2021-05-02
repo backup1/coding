@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Links](links.md)
 * [100 Days / Questions](100-days-questions.md)
+* [16 Weekends / Questions](16-weekends-questions.md)
 * [Daily Math](daily-math.md)
 * [Stats](stats.md)
 
