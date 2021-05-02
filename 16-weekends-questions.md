@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive |
 | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
+|  |  | 1 |  |  |
 
 ### Geometry
 
@@ -16,7 +16,7 @@ description: 2021.05.01 - 2021.08.31
 
 \[**todo**\] intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
 
-\[**todo**\] check if a point is in a polygon : [https://open.kattis.com/problems/pointinpolygon](https://open.kattis.com/problems/pointinpolygon)
+~~\[done\] check if a point is in a polygon :~~ [~~https://open.kattis.com/problems/pointinpolygon~~](https://open.kattis.com/problems/pointinpolygon)~~~~
 
 \[**todo**\] polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
 
