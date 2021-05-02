@@ -1,10 +1,10 @@
 # Convex Hull exercises
 
-left, right or on the line : [https://cses.fi/problemset/task/2189](https://cses.fi/problemset/task/2189)
+\[done\] left, right or on the line : [https://cses.fi/problemset/task/2189](https://cses.fi/problemset/task/2189)
 
-intersection of segments : [https://cses.fi/problemset/task/2190](https://cses.fi/problemset/task/2190)
+\[done\] intersection of segments : [https://cses.fi/problemset/task/2190](https://cses.fi/problemset/task/2190)
 
-polygon area : [https://cses.fi/problemset/task/2191](https://cses.fi/problemset/task/2191)
+\[done\] polygon area : [https://cses.fi/problemset/task/2191](https://cses.fi/problemset/task/2191)
 
 path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
 
@@ -20,9 +20,9 @@ maximum euclidean distance [http://www.france-ioi.org/algo/task.php?idChapter=54
 
 ## more complex :
 
-Pick theorem + polygone area + number of points on the edges [https://cses.fi/problemset/task/2193](https://cses.fi/problemset/task/2193)
+\[done\] Pick theorem + polygone area + number of points on the edges [https://cses.fi/problemset/task/2193](https://cses.fi/problemset/task/2193)
 
-minimum euclidean distance : sweep lines [https://cses.fi/problemset/task/2194](https://cses.fi/problemset/task/2194)
+\[done\] minimum euclidean distance : sweep lines [https://cses.fi/problemset/task/2194](https://cses.fi/problemset/task/2194)
 
 max alignement : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419)
 
@@ -36,17 +36,17 @@ convex hull application : [https://open.kattis.com/problems/wrapping](https://op
 
 intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
 
-check if a point is in a polygon : [https://cses.fi/problemset/task/2192](https://cses.fi/problemset/task/2192)
+\[done\] check if a point is in a polygon : [https://cses.fi/problemset/task/2192](https://cses.fi/problemset/task/2192)
 
-check if a point is in a polygon : [https://open.kattis.com/problems/pointinpolygon](https://open.kattis.com/problems/pointinpolygon)
+\[todo\] check if a point is in a polygon : [https://open.kattis.com/problems/pointinpolygon](https://open.kattis.com/problems/pointinpolygon)
 
 polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
 
-convex hull : [https://cses.fi/problemset/task/2195](https://cses.fi/problemset/task/2195)
+\[done\] convex hull : [https://cses.fi/problemset/task/2195](https://cses.fi/problemset/task/2195)
 
-convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
+\[todo\] convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
 
-maximum euclidean distance : [https://open.kattis.com/problems/roberthood](https://open.kattis.com/problems/roberthood)
+\[todo\] maximum euclidean distance : [https://open.kattis.com/problems/roberthood](https://open.kattis.com/problems/roberthood)
 
 ## extra :
 

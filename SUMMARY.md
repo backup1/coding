@@ -29,6 +29,7 @@
 * [Convex Hull](geometry/convex-hull.md)
 * [Rotating calipers](geometry/rotating-calipers.md)
 * [Line Segment Intersection](geometry/line-segment-intersection.md)
+* [Point in a Polygon](geometry/point-in-a-polygon.md)
 
 ## Data Structure
 
