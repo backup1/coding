@@ -32,6 +32,7 @@
 * [Line Segment Intersection](geometry/line-segment-intersection.md)
 * [Point in a Polygon](geometry/point-in-a-polygon.md)
 * [Polygon Area and Orientation](geometry/polygon-area-and-orientation.md)
+* [Line Segment Distance](geometry/line-segment-distance.md)
 
 ## Data Structure
 
