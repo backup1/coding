@@ -6,7 +6,7 @@
 
 \[done\] polygon area : [https://cses.fi/problemset/task/2191](https://cses.fi/problemset/task/2191)
 
-\[**todo**\] path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
+path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
 
 triangle area + Pick theorem : [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke)
 
@@ -30,23 +30,23 @@ more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask
 
 even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=424](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=424)
 
-\[**todo**\] convex hull application : [https://open.kattis.com/problems/wrapping](https://open.kattis.com/problems/wrapping)
+convex hull application : [https://open.kattis.com/problems/wrapping](https://open.kattis.com/problems/wrapping)
 
 ## revision :
 
-\[**todo**\] intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
+intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
 
 \[done\] check if a point is in a polygon : [https://cses.fi/problemset/task/2192](https://cses.fi/problemset/task/2192)
 
-\[**todo**\] check if a point is in a polygon : [https://open.kattis.com/problems/pointinpolygon](https://open.kattis.com/problems/pointinpolygon)
+check if a point is in a polygon : [https://open.kattis.com/problems/pointinpolygon](https://open.kattis.com/problems/pointinpolygon)
 
-\[**todo**\] polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
+polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
 
 \[done\] convex hull : [https://cses.fi/problemset/task/2195](https://cses.fi/problemset/task/2195)
 
-\[**todo**\] convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
+convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
 
-\[**todo**\] maximum euclidean distance : [https://open.kattis.com/problems/roberthood](https://open.kattis.com/problems/roberthood)
+maximum euclidean distance : [https://open.kattis.com/problems/roberthood](https://open.kattis.com/problems/roberthood)
 
 ## extra :
 
