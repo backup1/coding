@@ -6,7 +6,7 @@
 
 \[done\] polygon area : [https://cses.fi/problemset/task/2191](https://cses.fi/problemset/task/2191)
 
-path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
+\[todo\] path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
 
 triangle area + Pick theorem : [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke)
 
@@ -34,7 +34,7 @@ convex hull application : [https://open.kattis.com/problems/wrapping](https://op
 
 ## revision :
 
-intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
+\[todo\] intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
 
 \[done\] check if a point is in a polygon : [https://cses.fi/problemset/task/2192](https://cses.fi/problemset/task/2192)
 
