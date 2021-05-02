@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive |
 | :--- | :--- | :--- | :--- | :--- |
-|  |  | 1 |  |  |
+|  |  | 2 |  |  |
 
 ### Geometry
 
@@ -22,7 +22,7 @@ description: 2021.05.01 - 2021.08.31
 
 \[todo\] convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
 
-\[todo\] maximum euclidean distance : [https://open.kattis.com/problems/roberthood](https://open.kattis.com/problems/roberthood)
+~~\[done\] maximum euclidean distance :~~ [~~https://open.kattis.com/problems/roberthood~~](https://open.kattis.com/problems/roberthood)~~~~
 
 \[todo\] triangle area + Pick theorem : [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke)
 
