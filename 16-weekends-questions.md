@@ -44,5 +44,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[todo\] [https://codeforces.com/problemset/problem/55/D](https://codeforces.com/problemset/problem/55/D)
 
+\[todo\] [https://atcoder.jp/contests/dp/tasks/dp\_s](https://atcoder.jp/contests/dp/tasks/dp_s)
+
 
 
