@@ -89,3 +89,42 @@ int main(){
 }
 ```
 
+[https://atcoder.jp/contests/abc154/tasks/abc154\_e](https://atcoder.jp/contests/abc154/tasks/abc154_e)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+ll dp[105][5];
+int a[105];
+string s;
+ll dfs(int pos,int d,bool lim){
+  if(pos == -1) return (d==0) ? 1 : 0;
+  if(d < 0) return 0;
+  if(!lim and dp[pos][d] != -1) return dp[pos][d];
+  int x = (lim ? a[pos] : 9);
+  ll ans = 0;
+  for(int i = 0; i <= x; ++i){
+    ans += dfs( pos-1,
+                d - (i==0 ? 0 : 1),
+                (i==x) ? lim : false );
+  }
+  dp[pos][d] = ans;
+  return ans;
+}
+void solve(){
+  int k,l = s.size();
+  cin >> k;
+  for(int i = 0; i < l; ++i) a[l-1-i] = s[i]-'0';
+  cout << dfs(l-1,k,true);
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  memset(dp,-1,sizeof(dp));
+  cin >> s;
+  solve();
+  return 0;
+}
+```
+
