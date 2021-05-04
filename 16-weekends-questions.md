@@ -40,5 +40,9 @@ more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask
 
 even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=424](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=424)
 
+### Digit DP
+
+\[todo\] [https://codeforces.com/problemset/problem/55/D](https://codeforces.com/problemset/problem/55/D)
+
 
 
