@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive |
 | :--- | :--- | :--- | :--- | :--- |
-|  |  | 2 |  |  |
+| 2 |  | 2 |  |  |
 
 ### Geometry
 
@@ -42,13 +42,25 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### Digit DP
 
-\[todo\] [https://atcoder.jp/contests/dp/tasks/dp\_s](https://atcoder.jp/contests/dp/tasks/dp_s)
+~~\[done\]~~ [~~https://atcoder.jp/contests/dp/tasks/dp\_s~~](https://atcoder.jp/contests/dp/tasks/dp_s)~~~~
 
-\[todo\] [https://atcoder.jp/contests/abc154/tasks/abc154\_e](https://atcoder.jp/contests/abc154/tasks/abc154_e)
+~~\[done\]~~ [~~https://atcoder.jp/contests/abc154/tasks/abc154\_e~~](https://atcoder.jp/contests/abc154/tasks/abc154_e)~~~~
 
 \[todo\] [https://codeforces.com/problemset/problem/55/D](https://codeforces.com/problemset/problem/55/D)
 
 \[todo\] [https://codeforces.com/contest/401/problem/D](https://codeforces.com/contest/401/problem/D)
 
+\[\] [https://codeforces.com/contest/507/problem/D](https://codeforces.com/contest/507/problem/D)
 
+\[\] [https://cses.fi/problemset/task/2220](https://cses.fi/problemset/task/2220)
+
+\[\] [https://codeforces.com/problemset/problem/1036/C](https://codeforces.com/problemset/problem/1036/C)
+
+\[\] [https://codeforces.com/contest/288/problem/E](https://codeforces.com/contest/288/problem/E)
+
+\[\] [https://codeforces.com/gym/100886/problem/G](https://codeforces.com/gym/100886/problem/G)
+
+\[\] [https://codeforces.com/contest/919/problem/B](https://codeforces.com/contest/919/problem/B)
+
+\[\] [https://codeforces.com/contest/1245/problem/F](https://codeforces.com/contest/1245/problem/F)
 

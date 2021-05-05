@@ -109,7 +109,7 @@ ll dfs(int pos,int d,bool lim){
                 d - (i==0 ? 0 : 1),
                 (i==x) ? lim : false );
   }
-  dp[pos][d] = ans;
+  if(!lim) dp[pos][d] = ans;
   return ans;
 }
 void solve(){
@@ -178,5 +178,11 @@ int main(){
   solve(n);
   return 0;
 }
+```
+
+[https://codeforces.com/contest/507/problem/D](https://codeforces.com/contest/507/problem/D)
+
+```cpp
+
 ```
 
