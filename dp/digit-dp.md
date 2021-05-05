@@ -128,3 +128,55 @@ int main(){
 }
 ```
 
+[https://codeforces.com/contest/401/problem/D](https://codeforces.com/contest/401/problem/D)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+ll dp[1<<18][100];
+int a[18];
+int m,l;
+ll dfs(int pos,int mask,int rem){
+  if(pos < 0) return (rem ? 0 : 1);
+  if(dp[mask][rem] != -1) return dp[mask][rem];
+  vector<bool> flag(10);
+  ll ans = 0;
+  for(int i = 0; i < l; ++i){
+    if((mask&(1<<i)) == 0 and !flag[a[i]]){
+      flag[a[i]] = true;
+      ans += dfs( pos-1,
+                  mask+(1<<i),
+                  (10*rem+a[i])%m );
+    }
+  }
+  dp[mask][rem] = ans;
+  return ans;
+}
+void solve(ll n){
+  l = 0;
+  while(n){
+    a[l++] = n%10;
+    n /= 10;
+  }
+  vector<bool> flag(10);
+  ll ans = 0;
+  for(int i = 0; i < l; ++i){
+    if(a[i] and !flag[a[i]]){
+      flag[a[i]] = true;
+      ans += dfs(l-2,(1<<i),(a[i]%m));
+    }
+  }
+  cout << ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  memset(dp,-1,sizeof(dp));
+  ll n;
+  cin >> n >> m;
+  solve(n);
+  return 0;
+}
+```
+
