@@ -216,3 +216,47 @@ int main(){
 }
 ```
 
+[https://cses.fi/problemset/task/2220/](https://cses.fi/problemset/task/2220/)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+int v[20];
+ll dp[20][11];
+ll dfs(int pos,int prev,bool lead,bool lim){
+  if(pos < 0) return 1;
+  if(!lim and !lead and dp[pos][prev] != -1) return dp[pos][prev];
+  int x = (lim ? v[pos] : 9);
+  ll ans = 0;
+  for(int i = 0; i <= x; ++i){
+    if(lead and i==0){
+      ans += dfs(pos-1,i,true,false);
+    }
+    else{
+      if(i == prev) continue;
+      ans += dfs(pos-1,i,false,lim and (i==x));
+    }
+  }
+  if(!lim and !lead) dp[pos][prev] = ans;
+  return ans;
+}
+ll solve(ll a){
+  int d = 0;
+  while(a){
+    v[d++] = a%10;
+    a /= 10;
+  }
+  return dfs(d-1,10,true,true);
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  memset(dp,-1,sizeof(dp));
+  ll a,b;
+  cin >> a >> b;
+  cout << solve(b)-solve(a-1);
+  return 0;
+}
+```
+
