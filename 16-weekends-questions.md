@@ -76,3 +76,25 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 
 
+### Revision
+
+* LCA
+* Segment Tree
+* Lazy propagation
+* DSU
+* Mo's
+* Dijkstra
+* Floyd-Warshall
+* MST
+* Centroid decomposition
+* Tree Diameter
+* Bellman Ford
+* Strongly Connected Component
+* DFS Tree
+* Fast power and Fast Fibonacci
+* Rope and Indexed Set \(know by heart the syntax\)
+* 0-1 BFS
+* Rerooting
+
+
+
