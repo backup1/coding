@@ -54,7 +54,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[todo\] [https://cses.fi/problemset/task/2220](https://cses.fi/problemset/task/2220)
 
-\[\] [https://codeforces.com/problemset/problem/1036/C](https://codeforces.com/problemset/problem/1036/C)
+\[todo\] [https://codeforces.com/problemset/problem/1036/C](https://codeforces.com/problemset/problem/1036/C)
 
 \[\] [https://codeforces.com/contest/288/problem/E](https://codeforces.com/contest/288/problem/E)
 

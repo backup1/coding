@@ -260,3 +260,48 @@ int main(){
 }
 ```
 
+[https://codeforces.com/problemset/problem/1036/C](https://codeforces.com/problemset/problem/1036/C)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+ll dp[20][5];
+int a[20];
+ll dfs(int pos,int nb,bool lim){
+  if(nb < 0) return 0;
+  if(pos < 0) return (nb >= 0) ? 1 : 0;
+  if(!lim and dp[pos][nb] != -1) return dp[pos][nb];
+  ll ans = 0;
+  int x = (lim ? a[pos] : 9);
+  for(int i = 0; i <= x; ++i){
+    ans += dfs( pos-1,
+                (i == 0) ? nb : nb-1,
+                (i == x) ? lim : false );
+  }
+  if(!lim) dp[pos][nb] = ans;
+  return ans;
+}
+ll solve(ll n){
+  int d = 0;
+  while(n){
+    a[d++] = n%10;
+    n /= 10;
+  }
+  return dfs(d-1,3,true);
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  memset(dp,-1,sizeof(dp));
+  int t;
+  cin >> t;
+  while(t--){
+    ll l,r;
+    cin >> l >> r;
+    cout << solve(r)-solve(l-1) << '\n';
+  }
+  return 0;
+}
+```
+
