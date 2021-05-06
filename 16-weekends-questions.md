@@ -64,3 +64,15 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[\] [https://codeforces.com/contest/1245/problem/F](https://codeforces.com/contest/1245/problem/F)
 
+### RMQ 1D and 2D
+
+
+
+### LiChao Tree
+
+
+
+### Interactive
+
+
+
