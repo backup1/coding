@@ -305,3 +305,63 @@ int main(){
 }
 ```
 
+[https://codeforces.com/contest/258/problem/B](https://codeforces.com/contest/258/problem/B)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = int64_t;
+const ll mod = 1e9+7;
+int d,a[10];
+ll s[10];
+ll dp[11][11];
+ll dfs(int pos,int nb,bool lim){
+  if(pos < 0) return nb == 0 ? 1 : 0;
+  if(nb < 0) return 0;
+  if(!lim and dp[pos][nb] != -1) return dp[pos][nb];
+  ll ans = 0;
+  int x = lim ? a[pos] : 9;
+  for(int i = 0; i <= x; ++i){
+    ans = (ans + dfs( pos-1,
+                      nb - ((i==4 or i==7) ? 1 : 0),
+                      lim and (i==x) ))%mod;
+  }
+  if(!lim) dp[pos][nb] = ans;
+  return ans;
+}
+ll calc(int n,int nb){
+  if(n == 0) return 1;
+  if(nb < 0) return 0;
+  ll ans = 0;
+  for(int i = 0; i <= nb; ++i){
+    ll si = s[i];
+    if(si > 0){
+      --s[i];
+      ans = (ans + si * calc(n-1,nb-i))%mod;
+      ++s[i];
+    }
+  }
+  return ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  memset(dp,-1,sizeof(dp));
+  ll m;
+  cin >> m;
+  d = 0;
+  while(m){
+    a[d++] = m%10;
+    m /= 10;
+  }
+  for(int i = 0; i <= d; ++i) s[i] = dfs(d-1,i,true);
+  --s[0];
+  ll ans = 0;
+  for(int i = 1; i <= d; ++i){
+    ans = (ans + s[i] * calc(6,i-1))%mod;
+  }
+  cout << ans;
+  return 0;
+}
+```
+
