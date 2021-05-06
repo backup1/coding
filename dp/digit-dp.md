@@ -183,6 +183,36 @@ int main(){
 [https://codeforces.com/contest/507/problem/D](https://codeforces.com/contest/507/problem/D)
 
 ```cpp
-
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+int n,k,mod;
+ll p10[1005];
+ll dp[1005][105][2];
+ll dfs(int pos,int rem,ll ok){
+  if(pos >= n) return ok;
+  if(dp[pos][rem][ok] != -1) return dp[pos][rem][ok];
+  ll ans = 0;
+  int x = (pos==n-1) ? 1 : 0;
+  for(int i = x; i <= 9; ++i){
+    int rem2 = (rem+p10[pos]*i)%k;
+    int ok2 = ok;
+    if(rem2 == 0 and i != 0) ok2 = 1;
+    ans += dfs(pos+1,rem2,ok2);
+    ans %= mod;
+  }
+  dp[pos][rem][ok] = ans;
+  return ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  memset(dp,-1,sizeof(dp));
+  p10[0] = 1;
+  cin >> n >> k >> mod;
+  for(int i = 1; i <= 1000; ++i) p10[i] = (10*p10[i-1])%k;
+  cout << dfs(0,0,0);
+  return 0;
+}
 ```
 
