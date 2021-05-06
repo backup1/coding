@@ -70,7 +70,9 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### LiChao Tree
 
+\[\] [https://codeforces.com/contest/932/problem/F](https://codeforces.com/contest/932/problem/F)
 
+\[\] [https://codeforces.com/contest/1303/problem/G](https://codeforces.com/contest/1303/problem/G)
 
 ### Interactive
 
