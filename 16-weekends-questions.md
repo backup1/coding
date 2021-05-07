@@ -94,13 +94,15 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 * MST
 * Centroid decomposition
 * Tree Diameter
-* Bellman Ford
+* Bellman-Ford
 * Strongly Connected Component
 * DFS Tree
 * Fast power and Fast Fibonacci
 * Rope and Indexed Set \(know by heart the syntax\)
 * 0-1 BFS
 * Rerooting
+* DFS on tree : [https://codeforces.com/problemset/problem/274/B](https://codeforces.com/problemset/problem/274/B)
+* Sweep lines
 
 
 
