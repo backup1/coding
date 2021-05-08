@@ -75,3 +75,45 @@ int main(){
 }
 ```
 
+[https://codeforces.com/problemset/problem/257/C](https://codeforces.com/problemset/problem/257/C)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ld = long double;
+using pt = complex<ld>;
+const ld PI = acos(-1);
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  cout << fixed;
+  cout.precision(10);
+  int n;
+  cin >> n;
+  vector<pair<ld,pt>> v;
+  for(int i = 0; i < n; ++i){
+    ld x,y;
+    cin >> x >> y;
+    if(x == 0 and y == 0) continue;
+    pt p{x,y};
+    ld angle = arg(p);
+    v.emplace_back(angle,p);
+  }
+  n = v.size();
+  sort(begin(v),end(v),[](const pair<ld,pt>& p1,const pair<ld,pt>& p2){
+    if(p1.first != p2.first) return p1.first < p2.first;
+    if(real(p1.second) != real(p2.second)) return real(p1.second) < real(p2.second);
+    return imag(p1.second) < imag(p2.second);
+  });
+  ld ans = -1e9;
+  for(int i = 0; i < n; ++i){
+    ld angle = v[(i+1)%n].first - v[i].first;
+    if(i == n-1) angle += 2*PI;
+    ans = max(ans,angle);
+  }
+  if(n == 1) cout << 0.;
+  else cout << 180.*(2*PI-ans)/PI;
+  return 0;
+}
+```
+
