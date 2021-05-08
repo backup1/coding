@@ -10,6 +10,8 @@ description: 2021.05.01 - 2021.08.31
 
 ### Geometry
 
+\[\] [https://codeforces.com/problemset/problem/257/C](https://codeforces.com/problemset/problem/257/C)
+
 \[todo\] path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
 
 \[todo\] convex hull application : [https://open.kattis.com/problems/wrapping](https://open.kattis.com/problems/wrapping)
