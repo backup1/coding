@@ -103,6 +103,8 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 * Rerooting
 * DFS on tree : [https://codeforces.com/problemset/problem/274/B](https://codeforces.com/problemset/problem/274/B)
 * Sweep lines
+* DP : [https://codeforces.com/contest/148/problem/E](https://codeforces.com/contest/148/problem/E)
+* binary lifting
 
 
 
