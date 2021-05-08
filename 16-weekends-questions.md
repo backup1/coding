@@ -6,13 +6,13 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 |  | 3 |  |  |
+| 2 |  | 4 |  |  |
 
 ### Geometry
 
 ~~\[done\]~~ [~~https://codeforces.com/problemset/problem/257/C~~](https://codeforces.com/problemset/problem/257/C)~~~~
 
-\[todo\] path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
+~~\[done\] path track with rotation :~~ [~~https://open.kattis.com/problems/vacuumba~~](https://open.kattis.com/problems/vacuumba)~~~~
 
 \[todo\] convex hull application : [https://open.kattis.com/problems/wrapping](https://open.kattis.com/problems/wrapping)
 
@@ -106,7 +106,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 * DFS on tree : [https://codeforces.com/problemset/problem/274/B](https://codeforces.com/problemset/problem/274/B)
 * Sweep lines
 * DP : [https://codeforces.com/contest/148/problem/E](https://codeforces.com/contest/148/problem/E)
-* binary lifting
+* Binary lifting
 
 
 
