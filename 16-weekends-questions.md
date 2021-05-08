@@ -6,11 +6,11 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 |  | 2 |  |  |
+| 2 |  | 3 |  |  |
 
 ### Geometry
 
-\[todo\] [https://codeforces.com/problemset/problem/257/C](https://codeforces.com/problemset/problem/257/C)
+~~\[done\]~~ [~~https://codeforces.com/problemset/problem/257/C~~](https://codeforces.com/problemset/problem/257/C)~~~~
 
 \[todo\] path track with rotation : [https://open.kattis.com/problems/vacuumba](https://open.kattis.com/problems/vacuumba)
 
