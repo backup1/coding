@@ -39,6 +39,7 @@
 * [Digit DP](dp/digit-dp.md)
 * [DP on tree](dp/dp-on-tree.md)
 * [DP](dp/dp.md)
+* [Misc](dp/misc.md)
 
 ## Data Structure
 
