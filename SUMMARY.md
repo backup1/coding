@@ -33,6 +33,7 @@
 * [Point in a Polygon](geometry/point-in-a-polygon.md)
 * [Polygon Area and Orientation](geometry/polygon-area-and-orientation.md)
 * [Line Segment Distance](geometry/line-segment-distance.md)
+* [Geometry \(not using complex\)](geometry/geometry-not-using-complex.md)
 
 ## DP
 
