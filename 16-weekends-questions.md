@@ -88,7 +88,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 * LCA
 * Segment Tree
-* Lazy propagation
+* Lazy propagation : [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
 * DSU
 * Mo's
 * Dijkstra

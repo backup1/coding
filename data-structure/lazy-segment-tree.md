@@ -354,3 +354,95 @@ int main(){
 }
 ```
 
+[https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+const ll inf = LLONG_MAX/2;
+struct node {
+  ll val,lz;
+};
+vector<node> segt;
+void init(ll idx,ll l,ll r,ll pos,ll val){
+  if(pos < l or r < pos) return;
+  if(l == pos and r == pos){
+    segt[idx].val = val;
+    segt[idx].lz = 0;
+    return;
+  }
+  ll mid = (l+r)/2;
+  if(pos <= mid) init(2*idx,l,mid,pos,val);
+  else init(2*idx+1,mid+1,r,pos,val);
+  segt[idx].val = min(segt[2*idx].val,segt[2*idx+1].val);
+}
+void update(ll idx,ll l,ll r,ll L,ll R,ll delta){
+  if(R < l or r < L or R < L) return;
+  if(L <= l and r <= R){
+    segt[idx].val += delta;
+    segt[idx].lz += delta;
+    return;
+  }
+  if(segt[idx].lz){
+    segt[2*idx].val += segt[idx].lz;
+    segt[2*idx].lz += segt[idx].lz;
+    segt[2*idx+1].val += segt[idx].lz;
+    segt[2*idx+1].lz += segt[idx].lz;
+    segt[idx].lz = 0;
+  }
+  ll mid = (l+r)/2;
+  update(2*idx,l,mid,L,R,delta);
+  update(2*idx+1,mid+1,r,L,R,delta);
+  segt[idx].val = min(segt[2*idx].val,segt[2*idx+1].val);
+}
+ll query(ll idx,ll l,ll r,ll L,ll R){
+  if(R < l or r < L or R < L) return inf;
+  if(L <= l and r <= R) return segt[idx].val;
+  if(segt[idx].lz){
+    segt[2*idx].val += segt[idx].lz;
+    segt[2*idx].lz += segt[idx].lz;
+    segt[2*idx+1].val += segt[idx].lz;
+    segt[2*idx+1].lz += segt[idx].lz;
+    segt[idx].lz = 0;
+  }
+  ll mid = (l+r)/2;
+  ll ans = query(2*idx,l,mid,L,R);
+  ans = min(ans,query(2*idx+1,mid+1,r,L,R));
+  return ans;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  ll n,a,m,l,r;
+  scanf("%lld",&n);
+  segt.resize(4*n+5);
+  for(ll i = 0; i < n; ++i){
+    scanf("%lld",&a);
+    init(1,0,n-1,i,a);
+  }
+  scanf("%lld",&m);
+  while(m--){
+    scanf("%lld%lld",&l,&r);
+    if(getchar() == ' '){
+      scanf("%lld",&a);
+      if(l <= r) update(1,0,n-1,l,r,a);
+      else{
+        update(1,0,n-1,0,r,a);
+        update(1,0,n-1,l,n-1,a);
+      }
+    }
+    else{
+      ll ans = INT_MAX;
+      if(l <= r) ans = query(1,0,n-1,l,r);
+      else{
+        ans = query(1,0,n-1,0,r);
+        ans = min(ans,query(1,0,n-1,l,n-1));
+      }
+      cout << ans << '\n';
+    }
+  }
+  return 0;
+}
+```
+
