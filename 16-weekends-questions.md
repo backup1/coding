@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 |  | 4 |  |  |
+| 2 |  | 6 |  |  |
 
 ### Geometry
 
@@ -14,7 +14,7 @@ description: 2021.05.01 - 2021.08.31
 
 ~~\[done\] path track with rotation :~~ [~~https://open.kattis.com/problems/vacuumba~~](https://open.kattis.com/problems/vacuumba)~~~~
 
-\[todo\] convex hull application : [https://open.kattis.com/problems/wrapping](https://open.kattis.com/problems/wrapping)
+~~\[done\] convex hull application :~~ [~~https://open.kattis.com/problems/wrapping~~](https://open.kattis.com/problems/wrapping)~~~~
 
 \[todo\] intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
 
@@ -22,19 +22,19 @@ description: 2021.05.01 - 2021.08.31
 
 \[todo\] polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
 
-\[todo\] convex hull : [https://open.kattis.com/problems/convexhull](https://open.kattis.com/problems/convexhull)
+~~\[done\] convex hull :~~ [~~https://open.kattis.com/problems/convexhull~~](https://open.kattis.com/problems/convexhull)~~~~
 
 ~~\[done\] maximum euclidean distance :~~ [~~https://open.kattis.com/problems/roberthood~~](https://open.kattis.com/problems/roberthood)~~~~
 
 \[todo\] triangle area + Pick theorem : [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke)
 
-check if a point is in a polygone : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420)
+\[todo\] check if a point is in a polygone : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420)
 
 \[todo\] segment distance : [https://open.kattis.com/problems/segmentdistance](https://open.kattis.com/problems/segmentdistance)
 
 cloest pair : sweep lines [https://open.kattis.com/problems/closestpair2](https://open.kattis.com/problems/closestpair2)
 
-maximum euclidean distance [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425)
+\[todo\] maximum euclidean distance [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425)
 
 max alignement : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419)
 
