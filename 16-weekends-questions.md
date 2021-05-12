@@ -82,6 +82,8 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### Interactive
 
+\[todo\] [https://codeforces.com/problemset/problem/679/A](https://codeforces.com/problemset/problem/679/A)
+
 
 
 ### Revision
