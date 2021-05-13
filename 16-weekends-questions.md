@@ -92,9 +92,9 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### Misc
 
-Josephus I : [https://cses.fi/problemset/task/2162](https://cses.fi/problemset/task/2162)
+\[todo\] Josephus I : [https://cses.fi/problemset/task/2162](https://cses.fi/problemset/task/2162)
 
-Josephus II : [https://cses.fi/problemset/task/2163](https://cses.fi/problemset/task/2163)
+\[todo\] Josephus II : [https://cses.fi/problemset/task/2163](https://cses.fi/problemset/task/2163)
 
 ### Revision
 
