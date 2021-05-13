@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 |  | 6 |  | 1 |
+| 3 |  | 6 |  | 1 |
 
 ### Geometry
 
@@ -48,7 +48,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ~~\[done\]~~ [~~https://atcoder.jp/contests/abc154/tasks/abc154\_e~~](https://atcoder.jp/contests/abc154/tasks/abc154_e)~~~~
 
-\[todo\] [https://cses.fi/problemset/task/2220](https://cses.fi/problemset/task/2220)
+~~\[done\]~~ [~~https://cses.fi/problemset/task/2220~~](https://cses.fi/problemset/task/2220)~~~~
 
 \[todo\] [https://codeforces.com/contest/401/problem/D](https://codeforces.com/contest/401/problem/D)
 
