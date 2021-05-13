@@ -86,7 +86,11 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[todo\] [https://codeforces.com/problemset/problem/843/B](https://codeforces.com/problemset/problem/843/B)
 
+### Misc
 
+Josephus I : [https://cses.fi/problemset/task/2162](https://cses.fi/problemset/task/2162)
+
+Josephus II : [https://cses.fi/problemset/task/2163](https://cses.fi/problemset/task/2163)
 
 ### Revision
 
