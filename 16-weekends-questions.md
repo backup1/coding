@@ -4,9 +4,9 @@ description: 2021.05.01 - 2021.08.31
 
 # 16 Weekends / Questions
 
-| DP | Data Structure | Geometry | Math | Interactive |
-| :--- | :--- | :--- | :--- | :--- |
-| 3 |  | 6 |  | 1 |
+| DP | Data Structure | Geometry | Math | Interactive | Misc |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 3 |  | 6 |  | 1 |  |
 
 ### Geometry
 
