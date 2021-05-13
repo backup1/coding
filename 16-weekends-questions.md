@@ -80,6 +80,10 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[\] [https://codeforces.com/contest/1303/problem/G](https://codeforces.com/contest/1303/problem/G)
 
+### CDQ
+
+
+
 ### Interactive
 
 ~~\[done\]~~ [~~https://codeforces.com/problemset/problem/679/A~~](https://codeforces.com/problemset/problem/679/A)~~~~
