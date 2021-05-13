@@ -82,7 +82,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### CDQ
 
-
+\[todo\] [https://codeforces.com/problemset/problem/669/E](https://codeforces.com/problemset/problem/669/E)
 
 ### Interactive
 
