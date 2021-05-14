@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Math | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 3 |  | 6 |  | 1 |  |
+| 3 |  | 6 |  | 1 | 2 |
 
 ### Geometry
 
@@ -92,9 +92,9 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### Misc
 
-\[todo\] Josephus I : [https://cses.fi/problemset/task/2162](https://cses.fi/problemset/task/2162)
+~~\[done\] Josephus I :~~ [~~https://cses.fi/problemset/task/2162~~](https://cses.fi/problemset/task/2162)~~~~
 
-\[todo\] Josephus II : [https://cses.fi/problemset/task/2163](https://cses.fi/problemset/task/2163)
+~~\[done\] Josephus II :~~ [~~https://cses.fi/problemset/task/2163~~](https://cses.fi/problemset/task/2163)~~~~
 
 ### Revision
 
