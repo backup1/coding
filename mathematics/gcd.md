@@ -1,3 +1,7 @@
+---
+description: 'GCD who treats edge cases for ex. a =0, b = 0'
+---
+
 # GCD
 
 ```cpp
