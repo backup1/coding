@@ -46,6 +46,7 @@
 
 ## Data Structure
 
+* [\[TODO\] Wavelet tree](data-structure/todo-wavelet-tree.md)
 * [Union Find](data-structure/union-find.md)
 * [Segment Tree](data-structure/segment-tree.md)
 * [2D Segment Tree](data-structure/2d-segment-tree.md)
@@ -63,6 +64,8 @@
 ## Graph
 
 * [Flood Fill](graph/untitled.md)
+* [Edmond Karp](graph/edmond-karp.md)
+* [\[TODO\] Ford Fulkerson](graph/todo-ford-fulkerson.md)
 * [0-1 BFS](graph/0-1-bfs.md)
 * [Detect Cycle and Output Loop](graph/detect-cycle-and-output-loop.md)
 * [DFS tree](graph/dfs-tree.md)
