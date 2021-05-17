@@ -70,7 +70,6 @@
 * [Detect Cycle and Output Loop](graph/detect-cycle-and-output-loop.md)
 * [DFS tree](graph/dfs-tree.md)
 * [Bipartite / Max matching](graph/bipartite-max-matching.md)
-* [Untitled](graph/untitled-1.md)
 
 ## Tree
 

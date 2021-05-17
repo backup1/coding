@@ -70,6 +70,18 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[\] [https://codeforces.com/contest/628/problem/D](https://codeforces.com/contest/628/problem/D)
 
+### Maxi Flow
+
+\[\] [Maximum Flow](https://open.kattis.com/problems/maxflow) 
+
+\[\] [Paintball](https://open.kattis.com/problems/paintball)
+
+\[\] [Minimum Cut](https://open.kattis.com/problems/mincut) 
+
+\[\] [Elementary Math](https://open.kattis.com/problems/elementarymath) 
+
+\[\] [Minimum Cost Maximum Flow](https://open.kattis.com/problems/mincostmaxflow)
+
 ### RMQ 1D and 2D
 
 
