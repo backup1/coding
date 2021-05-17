@@ -1,5 +1,57 @@
 # Bipartite / Max matching
 
+### O\(V^2\) Matching
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+const int N = 501;
+
+vector<vector<int>> adj(N);
+int l[N],r[N];
+bitset<N> vu;
+
+int dfs(int left){
+	if (vu[left]) return 0;
+	vu[left] = true;
+	for (int right:adj[left]){
+		if (r[right] == -1 or dfs(r[right])){
+			r[right] = left;
+			l[left] = right;
+			return 1;
+		}
+	}
+	return 0;
+}
+
+int main(){
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	int n,m,k;
+	cin >> n >> m >> k;
+	for (int i=0; i<k; ++i){
+		int a,b;
+		cin >> a >> b;
+		adj[a].emplace_back(b);
+	}
+	memset(l,-1,sizeof(l));
+	memset(r,-1,sizeof(r));
+	int max_matching = 0;
+	for (int i=1; i<=n; ++i){
+		vu.reset();
+		max_matching += dfs(i);
+	}
+	cout << max_matching << '\n';
+	for (int i=1; i<=m; ++i){
+		if (r[i] != -1){
+			cout << r[i] << ' ' << i << '\n';
+		}
+	}
+	return 0;
+}
+```
+
 ### Hopcroft-Krap
 
 [https://codeforces.com/problemset/problem/120/H](https://codeforces.com/problemset/problem/120/H)
