@@ -70,7 +70,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[\] [https://codeforces.com/contest/628/problem/D](https://codeforces.com/contest/628/problem/D)
 
-### Maxi Flow
+### Flow
 
 ~~\[done\]~~ [~~https://cses.fi/problemset/task/1696~~](https://cses.fi/problemset/task/1696)~~~~
 
