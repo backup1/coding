@@ -78,6 +78,10 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[\] [https://cses.fi/problemset/task/1695](https://cses.fi/problemset/task/1695)
 
+\[\] [https://cses.fi/problemset/task/1711](https://cses.fi/problemset/task/1711)
+
+\[\] [https://cses.fi/problemset/task/1709](https://cses.fi/problemset/task/1709)
+
 \[\] [Maximum Flow](https://open.kattis.com/problems/maxflow) 
 
 \[\] [Paintball](https://open.kattis.com/problems/paintball)
@@ -87,6 +91,8 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 \[\] [Elementary Math](https://open.kattis.com/problems/elementarymath) 
 
 \[\] [Minimum Cost Maximum Flow](https://open.kattis.com/problems/mincostmaxflow)
+
+\[\] [https://open.kattis.com/problems/thewrathofkahn](https://open.kattis.com/problems/thewrathofkahn)
 
 ### RMQ 1D and 2D
 
