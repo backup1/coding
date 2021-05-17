@@ -4,9 +4,9 @@ description: 2021.05.01 - 2021.08.31
 
 # 16 Weekends / Questions
 
-| DP | Data Structure | Geometry | Math | Interactive | Misc |
+| DP | Data Structure | Geometry | Flow | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 3 |  | 6 |  | 1 | 2 |
+| 3 |  | 6 | 2 | 1 | 2 |
 
 ### Geometry
 
@@ -71,6 +71,12 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 \[\] [https://codeforces.com/contest/628/problem/D](https://codeforces.com/contest/628/problem/D)
 
 ### Maxi Flow
+
+~~\[done\]~~ [~~https://cses.fi/problemset/task/1696~~](https://cses.fi/problemset/task/1696)~~~~
+
+~~\[done\]~~ [~~https://cses.fi/problemset/task/1694~~](https://cses.fi/problemset/task/1694)~~~~
+
+\[\] [https://cses.fi/problemset/task/1695](https://cses.fi/problemset/task/1695)
 
 \[\] [Maximum Flow](https://open.kattis.com/problems/maxflow) 
 
