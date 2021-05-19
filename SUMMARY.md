@@ -87,6 +87,7 @@
 * [Mo's algorithm](methods/mos-algorithm.md)
 * [Mo's algorithm with update](methods/mos-algorithm-with-update.md)
 * [Sqrt Decomposition](methods/sqrt-decomposition.md)
+* [Misc](methods/misc.md)
 
 ## String
 
