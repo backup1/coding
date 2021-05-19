@@ -138,7 +138,7 @@ Josephus Queries : [https://cses.fi/problemset/task/2164](https://cses.fi/proble
 * Segment Tree : cf. above
 * Lazy propagation : cf. above
 * DSU
-* Mo's
+* Mo's : \[todo\] [https://codeforces.com/contest/617/problem/E](https://codeforces.com/contest/617/problem/E)
 * Dijkstra
 * Floyd-Warshall
 * MST
