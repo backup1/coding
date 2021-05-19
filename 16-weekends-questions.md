@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Flow | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 3 |  | 6 | 2 | 1 | 2 |
+| 3 |  | 6 | 3 | 1 | 2 |
 
 ### Geometry
 
@@ -70,13 +70,13 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[\] [https://codeforces.com/contest/628/problem/D](https://codeforces.com/contest/628/problem/D)
 
-### Flow
+### Flow / Bipartite matching
 
 ~~\[done\]~~ [~~https://cses.fi/problemset/task/1696~~](https://cses.fi/problemset/task/1696)~~~~
 
 ~~\[done\]~~ [~~https://cses.fi/problemset/task/1694~~](https://cses.fi/problemset/task/1694)~~~~
 
-\[\] [https://cses.fi/problemset/task/1695](https://cses.fi/problemset/task/1695)
+~~\[done\]~~ [~~https://cses.fi/problemset/task/1695~~](https://cses.fi/problemset/task/1695)~~~~
 
 \[\] [https://cses.fi/problemset/task/1711](https://cses.fi/problemset/task/1711)
 
@@ -124,7 +124,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 * LCA
 * Segment Tree
-* Lazy propagation : [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
+* Lazy propagation : \[todo\] [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
 * DSU
 * Mo's
 * Dijkstra
@@ -139,9 +139,9 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 * Rope and Indexed Set \(know by heart the syntax\)
 * 0-1 BFS
 * Rerooting
-* DFS on tree : [https://codeforces.com/problemset/problem/274/B](https://codeforces.com/problemset/problem/274/B)
+* DFS on tree : \[todo\] [https://codeforces.com/problemset/problem/274/B](https://codeforces.com/problemset/problem/274/B)
 * Sweep lines
-* DP : [https://codeforces.com/contest/148/problem/E](https://codeforces.com/contest/148/problem/E)
+* DP : \[todo\] [https://codeforces.com/contest/148/problem/E](https://codeforces.com/contest/148/problem/E)
 * Binary lifting
 
 
