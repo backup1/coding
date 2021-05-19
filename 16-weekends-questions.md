@@ -94,7 +94,11 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[\] [https://open.kattis.com/problems/thewrathofkahn](https://open.kattis.com/problems/thewrathofkahn)
 
-### RMQ 1D and 2D
+### Data Structure
+
+\[todo\] Segment Tree : [https://codeforces.com/contest/1187/problem/D](https://codeforces.com/contest/1187/problem/D)
+
+\[todo\] Lazy propagation [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
 
 
 
@@ -114,6 +118,8 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[todo\] [https://codeforces.com/problemset/problem/843/B](https://codeforces.com/problemset/problem/843/B)
 
+### RMQ 1D and 2D
+
 ### Misc
 
 ~~\[done\] Josephus I :~~ [~~https://cses.fi/problemset/task/2162~~](https://cses.fi/problemset/task/2162)~~~~
@@ -125,7 +131,7 @@ Josephus Queries : [https://cses.fi/problemset/task/2164](https://cses.fi/proble
 ### Revision
 
 * LCA
-* Segment Tree
+* Segment Tree : \[todo\] [https://codeforces.com/contest/1187/problem/D](https://codeforces.com/contest/1187/problem/D)
 * Lazy propagation : \[todo\] [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
 * DSU
 * Mo's
