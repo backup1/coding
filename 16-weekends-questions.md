@@ -104,7 +104,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[todo\] Segment Tree : [https://codeforces.com/problemset/problem/641/E](https://codeforces.com/problemset/problem/641/E)
 
-
+\[todo\] Segment Tree : [https://codeforces.com/problemset/problem/1198/B](https://codeforces.com/problemset/problem/1198/B)
 
 ### LiChao Tree
 
