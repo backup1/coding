@@ -102,6 +102,8 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 \[todo\] Lazy propagation [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
 
+\[todo\] Segment Tree : [https://codeforces.com/problemset/problem/641/E](https://codeforces.com/problemset/problem/641/E)
+
 
 
 ### LiChao Tree
