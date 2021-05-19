@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Flow | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 3 |  | 6 | 3 | 1 | 2 |
+| 4 |  | 6 | 3 | 1 | 2 |
 
 ### Geometry
 
@@ -50,7 +50,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ~~\[done\]~~ [~~https://cses.fi/problemset/task/2220~~](https://cses.fi/problemset/task/2220)~~~~
 
-\[~~done\]~~ [~~https://codeforces.com/contest/401/problem/D~~](https://codeforces.com/contest/401/problem/D)~~~~
+\[~~done\] \[bitmask DP\]~~ [~~https://codeforces.com/contest/401/problem/D~~](https://codeforces.com/contest/401/problem/D)~~~~
 
 \[todo\] [https://codeforces.com/contest/507/problem/D](https://codeforces.com/contest/507/problem/D)
 
@@ -119,6 +119,8 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 ~~\[done\] Josephus I :~~ [~~https://cses.fi/problemset/task/2162~~](https://cses.fi/problemset/task/2162)~~~~
 
 ~~\[done\] Josephus II :~~ [~~https://cses.fi/problemset/task/2163~~](https://cses.fi/problemset/task/2163)~~~~
+
+Josephus Queries : [https://cses.fi/problemset/task/2164](https://cses.fi/problemset/task/2164)
 
 ### Revision
 
