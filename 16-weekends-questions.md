@@ -34,9 +34,9 @@ description: 2021.05.01 - 2021.08.31
 
 \[todo\] segment distance : [https://open.kattis.com/problems/segmentdistance](https://open.kattis.com/problems/segmentdistance)
 
-cloest pair : sweep lines [https://open.kattis.com/problems/closestpair2](https://open.kattis.com/problems/closestpair2)
+closest pair : sweep lines [https://open.kattis.com/problems/closestpair2](https://open.kattis.com/problems/closestpair2)
 
-max alignement : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419)
+max alignment : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419)
 
 more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=421](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=421)
 
