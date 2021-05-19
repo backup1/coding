@@ -96,6 +96,8 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### Data Structure
 
+\[todo\] Segment Tree : [https://codeforces.com/problemset/problem/292/E](https://codeforces.com/problemset/problem/292/E)
+
 \[todo\] Segment Tree : [https://codeforces.com/contest/1187/problem/D](https://codeforces.com/contest/1187/problem/D)
 
 \[todo\] Lazy propagation [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
@@ -131,8 +133,8 @@ Josephus Queries : [https://cses.fi/problemset/task/2164](https://cses.fi/proble
 ### Revision
 
 * LCA
-* Segment Tree : \[todo\] [https://codeforces.com/contest/1187/problem/D](https://codeforces.com/contest/1187/problem/D)
-* Lazy propagation : \[todo\] [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
+* Segment Tree : cf. above
+* Lazy propagation : cf. above
 * DSU
 * Mo's
 * Dijkstra
