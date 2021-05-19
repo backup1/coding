@@ -134,7 +134,7 @@ Josephus Queries : [https://cses.fi/problemset/task/2164](https://cses.fi/proble
 
 ### Revision
 
-* LCA
+* LCA : [https://codeforces.com/contest/609/problem/E](https://codeforces.com/contest/609/problem/E),  [https://codeforces.com/contest/208/problem/E](https://codeforces.com/contest/208/problem/E), [https://codeforces.com/contest/587/problem/C](https://codeforces.com/contest/587/problem/C), [https://codeforces.com/contest/466/problem/E](https://codeforces.com/contest/466/problem/E)
 * Segment Tree : cf. above
 * Lazy propagation : cf. above
 * DSU
@@ -142,7 +142,7 @@ Josephus Queries : [https://cses.fi/problemset/task/2164](https://cses.fi/proble
 * Dijkstra
 * Floyd-Warshall
 * MST
-* Centroid decomposition
+* Centroid decomposition : [https://codeforces.com/contest/342/problem/E](https://codeforces.com/contest/342/problem/E) \(could be done by both [Centroid](https://codeforces.com/contest/342/submission/16525282) and [Sqrt decomposition](https://codeforces.com/contest/342/submission/10934822)\)
 * Tree Diameter
 * Bellman-Ford
 * Strongly Connected Component
