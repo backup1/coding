@@ -150,7 +150,7 @@ Josephus Queries : [https://cses.fi/problemset/task/2164](https://cses.fi/proble
 * Fast power and Fast Fibonacci
 * Rope and Indexed Set \(know by heart the syntax\)
 * 0-1 BFS
-* Rerooting
+* Rerooting : \[todo\] [https://codeforces.com/contest/1187/problem/E](https://codeforces.com/contest/1187/problem/E)
 * DFS on tree : \[todo\] [https://codeforces.com/problemset/problem/274/B](https://codeforces.com/problemset/problem/274/B)
 * Sweep lines
 * DP : \[todo\] [https://codeforces.com/contest/148/problem/E](https://codeforces.com/contest/148/problem/E)
