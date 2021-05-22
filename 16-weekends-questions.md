@@ -24,10 +24,6 @@ description: 2021.05.01 - 2021.08.31
 
 ~~\[done\] polygon area + direction detection :~~ [~~https://open.kattis.com/problems/polygonarea~~](https://open.kattis.com/problems/polygonarea)~~~~
 
-\[todo\] check if a point is in a polygone : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420)
-
-\[todo\] maximum euclidean distance [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425)
-
 \[todo\] intersection with parallel cases : [https://open.kattis.com/problems/segmentintersection](https://open.kattis.com/problems/segmentintersection)
 
 \[todo\] triangle area + Pick theorem : [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke)
@@ -35,6 +31,10 @@ description: 2021.05.01 - 2021.08.31
 \[todo\] segment distance : [https://open.kattis.com/problems/segmentdistance](https://open.kattis.com/problems/segmentdistance)
 
 closest pair : sweep lines [https://open.kattis.com/problems/closestpair2](https://open.kattis.com/problems/closestpair2)
+
+\[todo\] check if a point is in a polygone : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420)
+
+\[todo\] maximum euclidean distance [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=425)
 
 max alignment : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=419)
 
