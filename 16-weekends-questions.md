@@ -78,19 +78,19 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ~~\[done\]~~ [~~https://cses.fi/problemset/task/1695~~](https://cses.fi/problemset/task/1695)~~~~
 
+\[\] [https://open.kattis.com/problems/mincut](https://open.kattis.com/problems/mincut)
+
+\[\] [https://open.kattis.com/problems/paintball](https://open.kattis.com/problems/paintball)
+
+\[\] [https://open.kattis.com/problems/elementarymath](https://open.kattis.com/problems/elementarymath)
+
+\[\] [https://open.kattis.com/problems/maxflow](https://open.kattis.com/problems/maxflow)
+
+\[\] [https://open.kattis.com/problems/mincostmaxflow](https://open.kattis.com/problems/mincostmaxflow)
+
 \[\] [https://cses.fi/problemset/task/1711](https://cses.fi/problemset/task/1711)
 
 \[\] [https://cses.fi/problemset/task/1709](https://cses.fi/problemset/task/1709)
-
-\[\] [Maximum Flow](https://open.kattis.com/problems/maxflow) 
-
-\[\] [Paintball](https://open.kattis.com/problems/paintball)
-
-\[\] [Minimum Cut](https://open.kattis.com/problems/mincut) 
-
-\[\] [Elementary Math](https://open.kattis.com/problems/elementarymath) 
-
-\[\] [Minimum Cost Maximum Flow](https://open.kattis.com/problems/mincostmaxflow)
 
 \[\] [https://open.kattis.com/problems/thewrathofkahn](https://open.kattis.com/problems/thewrathofkahn)
 
