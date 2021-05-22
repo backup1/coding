@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Flow | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5 |  | 6 | 3 | 1 | 2 |
+| 6 |  | 7 | 3 | 1 | 2 |
 
 ### Geometry
 
@@ -22,7 +22,7 @@ description: 2021.05.01 - 2021.08.31
 
 ~~\[done\] maximum euclidean distance :~~ [~~https://open.kattis.com/problems/roberthood~~](https://open.kattis.com/problems/roberthood)
 
-\[todo\] polygon area + direction detection : [https://open.kattis.com/problems/polygonarea](https://open.kattis.com/problems/polygonarea)
+~~\[done\] polygon area + direction detection :~~ [~~https://open.kattis.com/problems/polygonarea~~](https://open.kattis.com/problems/polygonarea)~~~~
 
 \[todo\] check if a point is in a polygone : [http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420](http://www.france-ioi.org/algo/task.php?idChapter=547&idTask=420)
 
@@ -54,7 +54,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ~~\[done\]~~ [~~https://codeforces.com/contest/507/problem/D~~](https://codeforces.com/contest/507/problem/D)~~~~
 
-\[todo\] [https://codeforces.com/problemset/problem/1036/C](https://codeforces.com/problemset/problem/1036/C)
+~~\[done\]~~ [~~https://codeforces.com/problemset/problem/1036/C~~](https://codeforces.com/problemset/problem/1036/C)~~~~
 
 \[todo\] [https://codeforces.com/problemset/problem/55/D](https://codeforces.com/problemset/problem/55/D)
 
