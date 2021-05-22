@@ -96,7 +96,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ### Data Structure
 
-\[todo\] Segment Tree : [https://codeforces.com/problemset/problem/292/E](https://codeforces.com/problemset/problem/292/E)
+\[todo\] Lazy propagation : [https://codeforces.com/problemset/problem/292/E](https://codeforces.com/problemset/problem/292/E)
 
 \[todo\] Segment Tree : [https://codeforces.com/contest/1187/problem/D](https://codeforces.com/contest/1187/problem/D)
 
