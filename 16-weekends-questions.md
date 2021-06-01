@@ -6,7 +6,7 @@ description: 2021.05.01 - 2021.08.31
 
 | DP | Data Structure | Geometry | Flow | Interactive | Misc |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 6 | 1 | 7 | 3 | 1 | 2 |
+| 6 | 2 | 7 | 3 | 1 | 2 |
 
 ### Geometry
 
@@ -98,7 +98,7 @@ even more convex hull : [http://www.france-ioi.org/algo/task.php?idChapter=547&i
 
 ~~\[done\] Lazy propagation :~~ [~~https://codeforces.com/problemset/problem/292/E~~](https://codeforces.com/problemset/problem/292/E)~~~~
 
-\[todo\] Segment Tree : [https://codeforces.com/contest/1187/problem/D](https://codeforces.com/contest/1187/problem/D)
+~~\[done\] Segment Tree :~~ [~~https://codeforces.com/contest/1187/problem/D~~](https://codeforces.com/contest/1187/problem/D)~~~~
 
 \[todo\] Lazy propagation [https://codeforces.com/problemset/problem/52/C](https://codeforces.com/problemset/problem/52/C)
 
