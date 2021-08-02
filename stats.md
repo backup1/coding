@@ -32,10 +32,10 @@
 | DD | 100 | 100 | 0 |
 | TT | 120 | 100 | 20 |
 
-| 2019 D2 | Total | Tower | Adventure | Colouring |
+| 2019 D2 | Total \(upsolving\) | Tower | Adventure | Colouring |
 | :--- | :--- | :--- | :--- | :--- |
 | DD | 168.36 | 58.36 | 100 | 10 |
-| TT | 188.29 | 58.29 | 100 | 30 |
+| TT | 188.29 \(221\) | 58.29 \(91\) | 100 | 30 |
 
 | 2020 D1 | Total | Fountain | Triangulation | Exam |
 | :--- | :--- | :--- | :--- | :--- |
