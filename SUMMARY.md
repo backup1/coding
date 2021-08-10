@@ -78,6 +78,7 @@
 * [Tree with Segment Tree \(not HLD\)](tree/tree-with-segment-tree-not-hld.md)
 * [LCA \(Lowest Common Ancestor\)](tree/lca-lowest-common-ancestor.md)
 * [Centroid Decomposition](tree/centroid-decomposition.md)
+* [Dynamic Tree Diameter](tree/dynamic-tree-diameter.md)
 
 ## Methods
 
