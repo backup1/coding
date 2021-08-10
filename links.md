@@ -48,6 +48,10 @@ Old USACO : [https://www.acmicpc.net/category/106](https://www.acmicpc.net/categ
 
 Old IOI : [https://dmoj.ca/problems/?category=5&page=3](https://dmoj.ca/problems/?category=5&page=3)
 
+LiuZhou\_101 Blog : [https://www.cnblogs.com/TinyWong/p/11260601.html](https://www.cnblogs.com/TinyWong/p/11260601.html)
+
+
+
 
 
 \[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
