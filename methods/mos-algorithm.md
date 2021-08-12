@@ -327,3 +327,9 @@ int main(){
 }
 ```
 
+Mo's blog : [https://www.cnblogs.com/Dance-Of-Faith/p/9452060.html](https://www.cnblogs.com/Dance-Of-Faith/p/9452060.html)
+
+Mo's : [https://codeforces.com/contest/617/problem/E](https://codeforces.com/contest/617/problem/E)
+
+\[already done\] Mo's : [https://codeforces.com/contest/86/problem/D](https://codeforces.com/contest/86/problem/D)
+
