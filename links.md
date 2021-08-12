@@ -50,7 +50,7 @@ Old IOI : [https://dmoj.ca/problems/?category=5&page=3](https://dmoj.ca/problems
 
 [LiouZhou\_101](https://codeforces.com/profile/liouzhou_101) Blog : [https://www.cnblogs.com/TinyWong/p/11260601.html](https://www.cnblogs.com/TinyWong/p/11260601.html)
 
-
+All IOI analysis : [https://www.cxyzjd.com/searchArticle?qc=ioi2021&page=1](https://www.cxyzjd.com/searchArticle?qc=ioi2021&page=1)
 
 
 
