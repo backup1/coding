@@ -137,4 +137,5 @@
 ## Past Codes
 
 * [Maths](past-codes/maths.md)
+* [Editorials](past-codes/editorials.md)
 
