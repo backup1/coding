@@ -46,6 +46,7 @@
 
 ## Data Structure
 
+* [Link Cut Tree](data-structure/link-cut-tree.md)
 * [Binary Lifting](data-structure/binary-lifting.md)
 * [\[TODO\] Wavelet tree](data-structure/todo-wavelet-tree.md)
 * [Union Find](data-structure/union-find.md)
