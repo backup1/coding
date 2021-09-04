@@ -4,6 +4,8 @@ LCT Tutorial : [https://oi-wiki.org/ds/lct/](https://oi-wiki.org/ds/lct/)
 
 Splay Tree Tutorial : [https://oi-wiki.org/ds/splay/](https://oi-wiki.org/ds/splay/), [http://wcipeg.com/wiki/Size\_Balanced\_Tree](http://wcipeg.com/wiki/Size_Balanced_Tree), [https://codeforces.com/blog/entry/79524](https://codeforces.com/blog/entry/79524), tourist code example : [https://codeforces.com/contest/899/submission/44463457](https://codeforces.com/contest/899/submission/44463457)
 
+**Splay tree** can be used to solve **Treap** questions \(both are BBSTs, i.e. Balanced Binary Search Tree\)
+
 question 1 : [https://www.spoj.com/problems/ADALIST/](https://www.spoj.com/problems/ADALIST/)
 
 question 2 \(easy\) : [https://www.spoj.com/problems/DYNACON1/](https://www.spoj.com/problems/DYNACON1/)
