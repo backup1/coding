@@ -6,6 +6,8 @@ Splay Tree Tutorial : [https://oi-wiki.org/ds/splay/](https://oi-wiki.org/ds/spl
 
 **Splay tree** can be used to solve **Treap/Skip List/Cartesian Tree** questions \(both are BBSTs, i.e. Balanced Binary Search Tree\)
 
+Treap problems \(try to solve them using splay\) : [https://codeforces.com/blog/entry/46479](https://codeforces.com/blog/entry/46479)
+
 question 1 : [https://www.spoj.com/problems/ADALIST/](https://www.spoj.com/problems/ADALIST/)
 
 question 2 \(easy\) : [https://www.spoj.com/problems/DYNACON1/](https://www.spoj.com/problems/DYNACON1/)
