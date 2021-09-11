@@ -160,3 +160,97 @@ int main(){
 }
 ```
 
+Example II : [https://www.luogu.com.cn/problem/P3690](https://www.luogu.com.cn/problem/P3690)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int maxn = 100010;
+struct Splay{
+  int ch[maxn][2], f[maxn], val[maxn], sum[maxn], rev[maxn];
+  void clear(int x){
+    ch[x][0] = ch[x][1] = f[x] = val[x] = sum[x] = rev[x] = 0;
+  }
+  void pushup(int x){
+    clear(0);
+    sum[x] = (sum[ch[x][0]]^val[x])^sum[ch[x][1]];
+  }
+  void pushdown(int x){
+    clear(0);
+    if(rev[x]){
+      for(int d : {0,1}){
+        if(ch[x][d]){
+          rev[ch[x][d]] ^= 1;
+          swap(ch[ch[x][d]][0],ch[ch[x][d]][1]);
+        }
+      }
+      rev[x] = 0;
+    }
+  }
+  bool isroot(int x){
+    clear(0);
+    return (ch[f[x]][0] != x) and (ch[f[x]][1] != x);
+  }
+  void update(int x){
+    if(!isroot(x)) update(f[x]);
+    pushdown(x);
+  }
+  int side(int x){ return ch[f[x]][1] == x; }
+  void rotate(int x){
+    int y = f[x], z = f[y], chx = side(x), chy = side(y);
+    if(!isroot(y)) ch[z][chy] = x;
+    ch[y][chx] = ch[x][chx^1], f[ch[x][chx^1]] = y;
+    ch[x][chx^1] = y, f[y] = x, f[x] = z;
+    pushup(y), pushup(x), pushup(z);
+  }
+  void splay(int x){
+    update(x);
+    for(; !isroot(x); rotate(x)){
+      if(!isroot(f[x])) rotate(side(f[x]) == side(x) ? f[x] : x);
+    }
+  }
+  void access(int x){
+    for(int p = 0; x; p = x, x = f[x]) splay(x), ch[x][1] = p, pushup(x);
+  }
+  void makeroot(int x){
+    access(x);
+    splay(x);
+    swap(ch[x][0],ch[x][1]);
+    rev[x] ^= 1;
+  }
+  int find(int x){
+    access(x), splay(x);
+    while(ch[x][0]) x = ch[x][0];
+    splay(x);
+    return x;
+  }
+} st;
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int n,m,a,op,x,y;
+  cin >> n >> m;
+  for(int i = 1; i <= n; ++i){
+    cin >> a;
+    st.sum[i] = st.val[i] = a;
+  }
+  while(m--){
+    cin >> op >> x >> y;
+    if(op == 0){
+      st.makeroot(x), st.access(y), st.splay(y);
+      cout << st.sum[y] << '\n';
+    } else if(op == 1){
+      if(st.find(x) != st.find(y)) st.makeroot(x), st.f[x] = y;
+    } else if(op == 2){
+      st.makeroot(x), st.access(y), st.splay(y);
+      if(st.ch[y][0] == x and !st.ch[x][1]) st.ch[y][0] = st.f[x] = 0;
+    } else{
+      st.makeroot(x);
+      st.sum[x] = st.sum[x] ^ st.val[x] ^ y;
+      st.val[x] = y;
+    }
+  }
+  return 0;
+}
+```
+
