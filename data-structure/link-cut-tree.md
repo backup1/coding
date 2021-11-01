@@ -4,29 +4,175 @@ LCT Tutorial : [https://oi-wiki.org/ds/lct/](https://oi-wiki.org/ds/lct/)
 
 LCT code example to study : [https://judge.yosupo.jp/submission/13696](https://judge.yosupo.jp/submission/13696)
 
-Splay Tree Tutorial : [https://oi-wiki.org/ds/splay/](https://oi-wiki.org/ds/splay/), [http://wcipeg.com/wiki/Size\_Balanced\_Tree](http://wcipeg.com/wiki/Size_Balanced_Tree), [https://codeforces.com/blog/entry/79524](https://codeforces.com/blog/entry/79524), tourist code example : [https://codeforces.com/contest/899/submission/44463457](https://codeforces.com/contest/899/submission/44463457)
+Splay Tree Tutorial : [https://oi-wiki.org/ds/splay/](https://oi-wiki.org/ds/splay/), [http://wcipeg.com/wiki/Size\_Balanced\_Tree](http://wcipeg.com/wiki/Size\_Balanced\_Tree), [https://codeforces.com/blog/entry/79524](https://codeforces.com/blog/entry/79524), tourist code example : [https://codeforces.com/contest/899/submission/44463457](https://codeforces.com/contest/899/submission/44463457)
 
-**Splay tree** can be used to solve **Treap/Skip List/Cartesian Tree** questions \(both are BBSTs, i.e. Balanced Binary Search Tree\)
+**Splay tree** can be used to solve **Treap/Skip List/Cartesian Tree** questions (both are BBSTs, i.e. Balanced Binary Search Tree)
 
-Treap problems \(try to solve them using splay\) : [https://codeforces.com/blog/entry/46479](https://codeforces.com/blog/entry/46479)
+Treap problems (try to solve them using splay) : [https://codeforces.com/blog/entry/46479](https://codeforces.com/blog/entry/46479)
 
 question 1 : [https://www.spoj.com/problems/ADALIST/](https://www.spoj.com/problems/ADALIST/)
 
-question 2 \(easy\) : [https://www.spoj.com/problems/DYNACON1/](https://www.spoj.com/problems/DYNACON1/)
+question 2 (easy) : [https://www.spoj.com/problems/DYNACON1/](https://www.spoj.com/problems/DYNACON1/)
 
 question 3 : [https://codeforces.com/problemset/problem/1344/E](https://codeforces.com/problemset/problem/1344/E)
 
-question 4 \(medium\) : [http://www.spoj.com/problems/DYNALCA/](http://www.spoj.com/problems/DYNALCA/)
+question 4 (medium) : [http://www.spoj.com/problems/DYNALCA/](http://www.spoj.com/problems/DYNALCA/)
 
-question 5 \(hard\) : [http://www.spoj.com/problems/QTREE6/](http://www.spoj.com/problems/QTREE6/)
+question 5 (hard) : [http://www.spoj.com/problems/QTREE6/](http://www.spoj.com/problems/QTREE6/)
 
 Some not so trivial and practical:
 
-* Timus [1553](http://acm.timus.ru/problem.aspx?space=1&num=1553). Caves and Tunnels
+* Timus [1553](http://acm.timus.ru/problem.aspx?space=1\&num=1553). Caves and Tunnels
 * SPOJ [4155](http://www.spoj.com/problems/OTOCI/). OTOCI
-* liveArchive [5884](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=3895). Strange Regulations
+* liveArchive [5884](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge\&page=show\_problem\&problem=3895). Strange Regulations
 * Codeforces [117E](https://codeforces.com/problemset/problem/117/E). Tree or not Tree
 * more : [https://www.codechef.com/tags/problems/link-cut-tree](https://www.codechef.com/tags/problems/link-cut-tree)
+
+Template
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int maxn = 100010;
+struct Splay{
+  // children, father, value, sum, reversed
+  int ch[maxn][2], f[maxn], val[maxn], sum[maxn], rev[maxn];
+  // clear the fields of node 0 - nullptr
+  void clear(){
+    ch[0][0] = ch[0][1] = f[0] = val[0] = sum[0] = rev[0] = 0;
+  }
+  // normal segment tree update
+  void pushup(int x){
+    clear();
+    sum[x] = sum[ch[x][0]] ^ val[x] ^ sum[ch[x][1]];
+  }
+  // one level lazy propagation
+  void pushdown(int x){
+    clear();
+    if(rev[x]){
+      for(int d : {0,1}){
+        if(ch[x][d]){
+          rev[ch[x][d]] ^= 1;
+          swap(ch[ch[x][d]][0],ch[ch[x][d]][1]);
+        }
+      }
+      rev[x] = 0;
+    }
+  }
+  // true if x is the root of its splay tree
+  bool isroot(int x){
+    clear();
+    return (ch[f[x]][0] != x) and (ch[f[x]][1] != x);
+  }
+  // lazy propagation from root to x
+  void update(int x){
+    if(!isroot(x)) update(f[x]);
+    pushdown(x);
+  }
+  // 0 if x is left child, 1 if right child
+  int side(int x){ return ch[f[x]][1] == x; }
+  // make x one level up in its splay tree
+  void rotate(int x){
+    int y = f[x], z = f[y], chx = side(x), chy = side(y);
+    int beta = ch[x][chx^1];
+    // z - x
+    if(!isroot(y)) ch[z][chy] = x;
+    f[x] = z;
+    // x - y
+    ch[x][chx^1] = y, f[y] = x;
+    // y - beta
+    ch[y][chx] = beta, f[beta] = y;
+    // low to high : y - x - z
+    pushup(y), pushup(x), pushup(z);
+  }
+  // key idea to make x the root of its splay in O(ln n)
+  void splay(int x){
+    update(x);
+    while(!isroot(x)){
+      if(!isroot(f[x])){
+        // rotate father if f[x] and x are of same side
+        if(side(f[x]) == side(x)) rotate(f[x]);
+        else rotate(x);
+      }
+      rotate(x);
+    }
+  }
+  // make a splay tree for the path from root to x
+  // access(x), access(y) => LCA(x,y)
+  int access(int x){
+    int rs = 0; // right son
+    while(x){
+      splay(x);
+      ch[x][1] = rs;
+      pushup(x);
+      rs = x;
+      x = f[x];
+    }
+    return rs;
+  }
+  // make x the root of lct (using rev)
+  void makeroot(int x){
+    access(x);
+    splay(x);
+    swap(ch[x][0],ch[x][1]);
+    rev[x] ^= 1;
+  }
+  // get idx of the root of x's splay tree
+  int findroot(int x){
+    access(x);
+    splay(x);
+    while(ch[x][0]) x = ch[x][0];
+    splay(x);
+    return x;
+  }
+  // link x and y
+  void link(int x,int y){
+    makeroot(x);
+    splay(x);
+    f[x] = y;
+  }
+  // get the path between x and y
+  void split(int x,int y){
+    makeroot(x);
+    access(y);
+  }
+  // cut the edge between x and y
+  void cut(int x,int y){
+    makeroot(x);
+    access(y);
+    splay(y);
+    ch[y][0] = 0;
+    f[x] = 0;
+  }
+} st;
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int n,m,a,op,x,y;
+  cin >> n >> m;
+  for(int i = 1; i <= n; ++i){
+    cin >> a;
+    st.sum[i] = st.val[i] = a;
+  }
+  while(m--){
+    cin >> op >> x >> y;
+    if(op == 0){
+      st.makeroot(x), st.access(y), st.splay(y);
+      cout << st.sum[y] << '\n';
+    } else if(op == 1){
+      if(st.findroot(x) != st.findroot(y)) st.makeroot(x), st.f[x] = y;
+    } else if(op == 2){
+      st.makeroot(x), st.access(y), st.splay(y);
+      if(st.ch[y][0] == x and !st.ch[x][1]) st.ch[y][0] = st.f[x] = 0;
+    } else{
+      st.makeroot(x);
+      st.sum[x] = st.sum[x] ^ st.val[x] ^ y;
+      st.val[x] = y;
+    }
+  }
+  return 0;
+}
+```
 
 Example I : [https://www.luogu.com.cn/problem/P1501](https://www.luogu.com.cn/problem/P1501)
 
@@ -253,4 +399,3 @@ int main(){
   return 0;
 }
 ```
-
