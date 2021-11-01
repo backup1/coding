@@ -1,20 +1,26 @@
 # Links
 
+Dynamic Connectivity Test Set : [https://codeforces.com/gym/100551](https://codeforces.com/gym/100551)
+
+USACO Guide training : [https://codeforces.com/gym/102951](https://codeforces.com/gym/102951)
+
+
+
 KTH CP template using STL : [https://github.com/kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl)
 
-CP Book on problem solving : [https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
+CP Book on problem solving : [https://www.mimuw.edu.pl/\~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf](https://www.mimuw.edu.pl/\~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
 
-Best algo site ever : [https://cp-algorithms.com/](https://cp-algorithms.com/)
+Best algo site ever : [https://cp-algorithms.com/](https://cp-algorithms.com)
 
 CSES Problem set : [https://cses.fi/problemset/list/](https://cses.fi/problemset/list/)
 
-Library Checker : [https://judge.yosupo.jp/](https://judge.yosupo.jp/)
+Library Checker : [https://judge.yosupo.jp/](https://judge.yosupo.jp)
 
 USACO guide : [https://usaco.guide](https://usaco.guide)
 
-Presentation of Bipartite matching using max-flow algo : [https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/matching.pdf](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/matching.pdf)
+Presentation of Bipartite matching using max-flow algo : [https://www.cs.cmu.edu/\~ckingsf/bioinfo-lectures/matching.pdf](https://www.cs.cmu.edu/\~ckingsf/bioinfo-lectures/matching.pdf)
 
-CP reference site : [https://noiref.codecla.ws/](https://noiref.codecla.ws/)
+CP reference site : [https://noiref.codecla.ws/](https://noiref.codecla.ws)
 
 CP library : [https://github.com/mochow13/competitive-programming-library](https://github.com/mochow13/competitive-programming-library)
 
@@ -32,35 +38,35 @@ Video - max-flow : [https://m.youtube.com/watch?v=K1i-wP82Zdo](https://m.youtube
 
 Rope API :  [http://www.martinbroadhurst.com/stl/Rope.html](http://www.martinbroadhurst.com/stl/Rope.html)
 
-G++ Release Notes \(replacing 9 by any number &lt;= 9\) : [https://gcc.gnu.org/gcc-9/changes.html](https://gcc.gnu.org/gcc-9/changes.html)
+G++ Release Notes (replacing 9 by any number <= 9) : [https://gcc.gnu.org/gcc-9/changes.html](https://gcc.gnu.org/gcc-9/changes.html)
 
 USACO Dashboard : [https://usaco-guide.vercel.app/dashboard/](https://usaco-guide.vercel.app/dashboard/)
 
-training site [https://algo.is/](https://algo.is/)
+training site [https://algo.is/](https://algo.is)
 
-general matching algo \(not hopcroft-karp\) O\(n3\) : [http://csclab.murraystate.edu/~bob.pilgrim/445/munkres.html](http://csclab.murraystate.edu/~bob.pilgrim/445/munkres.html)
+general matching algo (not hopcroft-karp) O(n3) : [http://csclab.murraystate.edu/\~bob.pilgrim/445/munkres.html](http://csclab.murraystate.edu/\~bob.pilgrim/445/munkres.html)
 
-\[algo\] [https://github.com/geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
+\[algo] [https://github.com/geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
 
 Lot of great implementation from Eric Zhang : [http://ekzlib.herokuapp.com/home](http://ekzlib.herokuapp.com/home)
 
 Old USACO : [https://www.acmicpc.net/category/106](https://www.acmicpc.net/category/106)
 
-Old IOI : [https://dmoj.ca/problems/?category=5&page=3](https://dmoj.ca/problems/?category=5&page=3)
+Old IOI : [https://dmoj.ca/problems/?category=5\&page=3](https://dmoj.ca/problems/?category=5\&page=3)
 
-[LiouZhou\_101](https://codeforces.com/profile/liouzhou_101) Blog : [https://www.cnblogs.com/TinyWong/p/11260601.html](https://www.cnblogs.com/TinyWong/p/11260601.html)
+[LiouZhou\_101](https://codeforces.com/profile/liouzhou\_101) Blog : [https://www.cnblogs.com/TinyWong/p/11260601.html](https://www.cnblogs.com/TinyWong/p/11260601.html)
 
-All IOI analysis : [https://www.cxyzjd.com/searchArticle?qc=ioi2021&page=1](https://www.cxyzjd.com/searchArticle?qc=ioi2021&page=1)
+All IOI analysis : [https://www.cxyzjd.com/searchArticle?qc=ioi2021\&page=1](https://www.cxyzjd.com/searchArticle?qc=ioi2021\&page=1)
 
 
 
-\[DONE\] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/) 
+\[DONE] Question - Union Find : [https://www.spoj.com/problems/BGIRL/](https://www.spoj.com/problems/BGIRL/)&#x20;
 
-\[DONE\] Question - Union Find : [https://www.spoj.com/problems/CHUNK2/](https://www.spoj.com/problems/CHUNK2/)
+\[DONE] Question - Union Find : [https://www.spoj.com/problems/CHUNK2/](https://www.spoj.com/problems/CHUNK2/)
 
 Question - SQRT decomposition : [https://codeforces.com/contest/444/problem/C](https://codeforces.com/contest/444/problem/C)
 
-Quetion - bit operation : [https://www.spoj.com/problems/EC\_CONB/](https://www.spoj.com/problems/EC_CONB/)
+Quetion - bit operation : [https://www.spoj.com/problems/EC\_CONB/](https://www.spoj.com/problems/EC\_CONB/)
 
 Quetion - bit operation : [https://www.spoj.com/problems/HAP01/](https://www.spoj.com/problems/HAP01/)
 
@@ -70,7 +76,7 @@ Question - Rope : [http://www.spoj.com/problems/AROPE/](http://www.spoj.com/prob
 
 Question - Rope : [http://www.spoj.com/problems/AROPE2/](http://www.spoj.com/problems/AROPE2/)
 
-Question - Max matching : [https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=fario17&problemid=924](https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=fario17&problemid=924)
+Question - Max matching : [https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=fario17\&problemid=924](https://orac.amt.edu.au/cgi-bin/train/problem.pl?set=fario17\&problemid=924)
 
 Question - Segment Tree : [https://codeforces.com/contest/1187/problem/D](https://codeforces.com/contest/1187/problem/D)
 
@@ -96,7 +102,7 @@ Question - DFS tree : [https://codeforces.com/problemset/problem/377/A](https://
 
 Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://codeforces.com/problemset/problem/1063/B)
 
-```text
+```
 2019 May Week 1 - Binary Search
           T        D
 - 1400 --------------------------------------------------------------------
@@ -116,7 +122,7 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 925A     TODO     TODO    https://codeforces.com/problemset/problem/925/A
 ```
 
-```text
+```
 2019 May Week 2 - Math
           T        D
 - 1400 ----------------------------------------------------------------------
@@ -128,7 +134,7 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 1091C    TODO     TODO      https://codeforces.com/problemset/problem/1091/C
 ```
 
-```text
+```
 2019 May Week 3 - Graph
           T        D
 - 1400 ----------------------------------------------------------------------
@@ -142,7 +148,7 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 300B     TODO     DONE      https://codeforces.com/problemset/problem/300/B
 ```
 
-```text
+```
 2019 May Week 4 - DP
           T        D
 - 1400 ---------------------------------------------------------------------
@@ -168,9 +174,8 @@ Question - 0-1 BFS : [https://codeforces.com/problemset/problem/1063/B](https://
 
 Maths
 
-JBMO : [https://artofproblemsolving.com/community/c911236\_junior\_balkan\_math\_olympiad](https://artofproblemsolving.com/community/c911236_junior_balkan_math_olympiad) 
+JBMO : [https://artofproblemsolving.com/community/c911236\_junior\_balkan\_math\_olympiad](https://artofproblemsolving.com/community/c911236\_junior\_balkan\_math\_olympiad)&#x20;
 
-Theorem of Miquel : [https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me\_de\_Miquel](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Miquel)
+Theorem of Miquel : [https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me\_de\_Miquel](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me\_de\_Miquel)
 
-All Russia Math Olympiad : [https://www.imomath.com/index.php?options=Rus&mod=23&ttn=Russia](https://www.imomath.com/index.php?options=Rus&mod=23&ttn=Russia)
-
+All Russia Math Olympiad : [https://www.imomath.com/index.php?options=Rus\&mod=23\&ttn=Russia](https://www.imomath.com/index.php?options=Rus\&mod=23\&ttn=Russia)
