@@ -39,9 +39,34 @@ $ ./a.exe
 7
 ```
 
+**forward\_**_**list **cannot do **emplace **or **emplace\_back**, but **emplace**_**\_**_**front **and **emplace\_**_**after**
 
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
+int main(){
+  forward_list<int> myList{1,2,3,4,5};
+  myList.emplace_front(6);
+  auto forwardIter = begin(myList);
+  ++forwardIter;
+  ++forwardIter;
+  myList.emplace_after(forwardIter,9);
+  for(auto&& number : myList) cout << number << endl;
+  return 0;
+}
+```
 
+```bash
+$ ./a.exe
+6
+1
+2
+9
+3
+4
+5
+```
 
 
 
