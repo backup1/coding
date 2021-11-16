@@ -1,5 +1,7 @@
 # copy constructor vs move constructor
 
+summary : use (const) reference for function parameter and use move to copy object (even with emplace\_back)
+
 Copy constructor
 
 ```cpp
