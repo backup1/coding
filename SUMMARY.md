@@ -104,6 +104,7 @@
 
 * [STL utilities](utilities/stl-utilities.md)
 * [STL parallel utilities](utilities/stl-parallel-utilities.md)
+* [list](utilities/list.md)
 
 ## C++ tips and tricks
 
