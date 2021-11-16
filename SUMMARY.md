@@ -17,8 +17,8 @@
 * [Prime Number](mathematics/prime-number.md)
 * [FFT / NTT](mathematics/fft-ntt.md)
 * [Complex Number](mathematics/complex-number.md)
-* [Normalization \(vector space basis\)](mathematics/normalization-vector-space-basis.md)
-* [Summation of Beatty sequence: a\(n\) = floor\(n\*sqrt\(2\)\)](mathematics/summation-of-beatty-sequence-a-n-floor-n-sqrt-2.md)
+* [Normalization (vector space basis)](mathematics/normalization-vector-space-basis.md)
+* [Summation of Beatty sequence: a(n) = floor(n\*sqrt(2))](mathematics/summation-of-beatty-sequence-a-n-floor-n-sqrt-2.md)
 * [Questions](mathematics/questions.md)
 * [TODO](mathematics/todo.md)
 * [Summary](mathematics/summary.md)
@@ -34,7 +34,7 @@
 * [Point in a Polygon](geometry/point-in-a-polygon.md)
 * [Polygon Area and Orientation](geometry/polygon-area-and-orientation.md)
 * [Line Segment Distance](geometry/line-segment-distance.md)
-* [Geometry \(not using complex\)](geometry/geometry-not-using-complex.md)
+* [Geometry (not using complex)](geometry/geometry-not-using-complex.md)
 
 ## DP
 
@@ -76,9 +76,9 @@
 
 ## Tree
 
-* [Re-rooting \(DP\)](tree/re-rooting-dp.md)
-* [Tree with Segment Tree \(not HLD\)](tree/tree-with-segment-tree-not-hld.md)
-* [LCA \(Lowest Common Ancestor\)](tree/lca-lowest-common-ancestor.md)
+* [Re-rooting (DP)](tree/re-rooting-dp.md)
+* [Tree with Segment Tree (not HLD)](tree/tree-with-segment-tree-not-hld.md)
+* [LCA (Lowest Common Ancestor)](tree/lca-lowest-common-ancestor.md)
 * [Centroid Decomposition](tree/centroid-decomposition.md)
 * [Dynamic Tree Diameter](tree/dynamic-tree-diameter.md)
 
@@ -112,6 +112,7 @@
 * [initialization](c++-tips-and-tricks/initialization.md)
 * [constexpr](c++-tips-and-tricks/constexpr.md)
 * [class](c++-tips-and-tricks/class.md)
+* [base 16](c++-tips-and-tricks/base-16.md)
 
 ## Templates
 
@@ -127,7 +128,7 @@
 * [Classic Segment Tree](recipes/classic-segment-tree.md)
 * [Dynamic Segment Tree](recipes/dynamic-segment-tree.md)
 * [Big Integer](recipes/big-integer.md)
-* [Graphviz \(draw graph\)](recipes/untitled.md)
+* [Graphviz (draw graph)](recipes/untitled.md)
 
 ## Questions
 
@@ -139,4 +140,3 @@
 
 * [Maths](past-codes/maths.md)
 * [Editorials](past-codes/editorials.md)
-
