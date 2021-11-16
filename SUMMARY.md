@@ -113,6 +113,7 @@
 * [constexpr](c++-tips-and-tricks/constexpr.md)
 * [class](c++-tips-and-tricks/class.md)
 * [base 16](c++-tips-and-tricks/base-16.md)
+* [copy constructor vs move constructor](c++-tips-and-tricks/copy-constructor-vs-move-constructor.md)
 
 ## Templates
 
