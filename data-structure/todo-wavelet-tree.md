@@ -2,7 +2,7 @@
 description: Bugged code
 ---
 
-# \[TODO\] Wavelet tree
+# \[TODO] Wavelet tree
 
 Wavelet trees can help us generally 2 sorts of queries.
 
@@ -12,9 +12,9 @@ The following code answers this query :
 
 But wavelet trees can also answer kth smallest number in the range of L … R. And we can do basic update : « swap ith element with i+1th element.
 
-The concept : Instead of having ranges as index like in segment trees, we have values. In my implementation : wavelet has for each node a vector of pairs who gives information \(index, value\). We will just go down in the correct beaches and when we arrive at a step where our interval of \(MinValue, MaxValue\) has MaxValue &lt;= x, then we do lower\_bound on index R and L and stop exploring this branch.
+The concept : Instead of having ranges as index like in segment trees, we have values. In my implementation : wavelet has for each node a vector of pairs who gives information (index, value). We will just go down in the correct beaches and when we arrive at a step where our interval of (MinValue, MaxValue) has MaxValue <= x, then we do lower\_bound on index R and L and stop exploring this branch.
 
-One can think this as a variant of segment tree.   
+One can think this as a variant of segment tree. \
 
 
 ```cpp
@@ -81,4 +81,3 @@ int main(){
 }
 
 ```
-

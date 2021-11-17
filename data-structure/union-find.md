@@ -2,7 +2,7 @@
 
 ## Questions
 
-{% embed url="https://atcoder.jp/contests/abc126/tasks/abc126\_e" %}
+{% embed url="https://atcoder.jp/contests/abc126/tasks/abc126_e" %}
 
 ```cpp
 #include <bits/stdc++.h>
@@ -36,4 +36,3 @@ int main(){
   return 0;
 }
 ```
-

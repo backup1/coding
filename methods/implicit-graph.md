@@ -48,7 +48,5 @@ int main(){
 
 ## Questions on strings
 
-{% embed url="https://atcoder.jp/contests/abc135/tasks/abc135\_f" %}
-
-
+{% embed url="https://atcoder.jp/contests/abc135/tasks/abc135_f" %}
 

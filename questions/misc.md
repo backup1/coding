@@ -2,70 +2,70 @@
 
 Next
 
-\[MST\] [https://judge.yosupo.jp/problem/directedmst](https://judge.yosupo.jp/problem/directedmst)
+\[MST] [https://judge.yosupo.jp/problem/directedmst](https://judge.yosupo.jp/problem/directedmst)
 
-\[Bipartite Matching\] [https://judge.yosupo.jp/problem/bipartitematching](https://judge.yosupo.jp/problem/bipartitematching)
+\[Bipartite Matching] [https://judge.yosupo.jp/problem/bipartitematching](https://judge.yosupo.jp/problem/bipartitematching)
 
-\[SCC\] [https://judge.yosupo.jp/problem/scc](https://judge.yosupo.jp/problem/scc)
+\[SCC] [https://judge.yosupo.jp/problem/scc](https://judge.yosupo.jp/problem/scc)
 
-\[LCA\] [https://judge.yosupo.jp/problem/lca](https://judge.yosupo.jp/problem/lca)
+\[LCA] [https://judge.yosupo.jp/problem/lca](https://judge.yosupo.jp/problem/lca)
 
-\[Shortest Path\] [https://judge.yosupo.jp/problem/shortest\_path](https://judge.yosupo.jp/problem/shortest_path)
+\[Shortest Path] [https://judge.yosupo.jp/problem/shortest\_path](https://judge.yosupo.jp/problem/shortest\_path)
 
-\[Cycle Detection\] [https://judge.yosupo.jp/problem/cycle\_detection](https://judge.yosupo.jp/problem/cycle_detection)
+\[Cycle Detection] [https://judge.yosupo.jp/problem/cycle\_detection](https://judge.yosupo.jp/problem/cycle\_detection)
 
-\[Tree Diameter\] [https://judge.yosupo.jp/problem/tree\_diameter](https://judge.yosupo.jp/problem/tree_diameter)
+\[Tree Diameter] [https://judge.yosupo.jp/problem/tree\_diameter](https://judge.yosupo.jp/problem/tree\_diameter)
 
-\[Union Find\] [https://judge.yosupo.jp/problem/unionfind](https://judge.yosupo.jp/problem/unionfind)
+\[Union Find] [https://judge.yosupo.jp/problem/unionfind](https://judge.yosupo.jp/problem/unionfind)
 
-Max Matching Problem : [https://codeforces.com/gym/101915/problem/D](https://codeforces.com/gym/101915/problem/D)  
+Max Matching Problem : [https://codeforces.com/gym/101915/problem/D](https://codeforces.com/gym/101915/problem/D)\
 Editorial : [https://codeforces.com/blog/entry/62058](https://codeforces.com/blog/entry/62058)
 
-\#163\* \[Graph\] [https://acm.timus.ru/problem.aspx?space=1&num=1099](https://acm.timus.ru/problem.aspx?space=1&num=1099)
+\#163\* \[Graph] [https://acm.timus.ru/problem.aspx?space=1\&num=1099](https://acm.timus.ru/problem.aspx?space=1\&num=1099)
 
-\#162\* \[DP 1600\] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
+\#162\* \[DP 1600] [https://codeforces.com/problemset/problem/734/C](https://codeforces.com/problemset/problem/734/C)
 
-\#161\* \[Graph 1800\] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
+\#161\* \[Graph 1800] [https://codeforces.com/problemset/problem/743/D](https://codeforces.com/problemset/problem/743/D)
 
-\#160 \[Segment Tree\] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
+\#160 \[Segment Tree] [https://codeforces.com/contest/61/problem/E](https://codeforces.com/contest/61/problem/E)
 
-\#159 \[Segment Tree\] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
+\#159 \[Segment Tree] [https://codeforces.com/contest/292/problem/E](https://codeforces.com/contest/292/problem/E)
 
-\#158 \[Segment Tree\] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
+\#158 \[Segment Tree] [https://codeforces.com/contest/501/problem/D](https://codeforces.com/contest/501/problem/D)
 
-\#157 \[Segment Tree\] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
+\#157 \[Segment Tree] [https://codeforces.com/contest/220/problem/E](https://codeforces.com/contest/220/problem/E)
 
-\#156 \[Graph 1500\] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
+\#156 \[Graph 1500] [https://codeforces.com/problemset/problem/212/E](https://codeforces.com/problemset/problem/212/E)
 
-\#155 \[Graph 1900\] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
+\#155 \[Graph 1900] [https://codeforces.com/problemset/problem/1272/E](https://codeforces.com/problemset/problem/1272/E)
 
-\#154 \[Graph 1500\] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
+\#154 \[Graph 1500] [https://codeforces.com/problemset/problem/177/C2](https://codeforces.com/problemset/problem/177/C2)
 
-\#153 \[Graph 1900\] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+\#153 \[Graph 1900] [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
 
-\#152 \[Graph 1500\] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
+\#152 \[Graph 1500] [https://codeforces.com/problemset/problem/638/B](https://codeforces.com/problemset/problem/638/B)
 
-\[Data Structure\] [https://acm.timus.ru/problem.aspx?space=1&num=1028](https://acm.timus.ru/problem.aspx?space=1&num=1028)
-
-
+\[Data Structure] [https://acm.timus.ru/problem.aspx?space=1\&num=1028](https://acm.timus.ru/problem.aspx?space=1\&num=1028)
 
 
 
-\[Segment Tree O\] [https://codeforces.com/contest/338/problem/E](https://codeforces.com/contest/338/problem/E)
 
-\[Segment Tree O\] [https://codeforces.com/contest/19/problem/D](https://codeforces.com/contest/19/problem/D)
 
-\[Segment Tree O\] [https://codeforces.com/contest/351/problem/D](https://codeforces.com/contest/351/problem/D)
+\[Segment Tree O] [https://codeforces.com/contest/338/problem/E](https://codeforces.com/contest/338/problem/E)
 
-\[Segment Tree O\] [https://codeforces.com/contest/515/problem/E](https://codeforces.com/contest/515/problem/E)
+\[Segment Tree O] [https://codeforces.com/contest/19/problem/D](https://codeforces.com/contest/19/problem/D)
 
-\[Segment Tree O\] [ttps://codeforces.com/contest/540/problem/E](https://codeforces.com/contest/540/problem/E)
+\[Segment Tree O] [https://codeforces.com/contest/351/problem/D](https://codeforces.com/contest/351/problem/D)
 
-\[Segment Tree O\] [https://codeforces.com/contest/609/problem/F](https://codeforces.com/contest/609/problem/F)
+\[Segment Tree O] [https://codeforces.com/contest/515/problem/E](https://codeforces.com/contest/515/problem/E)
 
-\[Segment Tree O\] [https://codeforces.com/contest/594/problem/D](https://codeforces.com/contest/594/problem/D)
+\[Segment Tree O] [ttps://codeforces.com/contest/540/problem/E](https://codeforces.com/contest/540/problem/E)
 
-\[Segment Tree O\] [https://codeforces.com/contest/455/problem/E](https://codeforces.com/contest/455/problem/E)
+\[Segment Tree O] [https://codeforces.com/contest/609/problem/F](https://codeforces.com/contest/609/problem/F)
+
+\[Segment Tree O] [https://codeforces.com/contest/594/problem/D](https://codeforces.com/contest/594/problem/D)
+
+\[Segment Tree O] [https://codeforces.com/contest/455/problem/E](https://codeforces.com/contest/455/problem/E)
 
 checked classic : [https://codeforces.com/blog/entry/22616](https://codeforces.com/blog/entry/22616)
 
@@ -77,59 +77,59 @@ CSES DP Editorial : [https://codeforces.com/blog/entry/70018](https://codeforces
 
 DFS tree : [https://codeforces.com/blog/entry/68138](https://codeforces.com/blog/entry/68138)
 
-\[DP\] 2010/October/Gold/mkmoney
+\[DP] 2010/October/Gold/mkmoney
 
-\[DP 1800\] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
+\[DP 1800] [https://codeforces.com/problemset/problem/132/C](https://codeforces.com/problemset/problem/132/C)
 
-**Math** \[prior to Math stage\]
+**Math** \[prior to Math stage]
 
-Area and cos : [https://acm.timus.ru/problem.aspx?space=1&num=1084](https://acm.timus.ru/problem.aspx?space=1&num=1084)
+Area and cos : [https://acm.timus.ru/problem.aspx?space=1\&num=1084](https://acm.timus.ru/problem.aspx?space=1\&num=1084)
 
 Combi, matrix and fast power :
 
-[https://acm.timus.ru/problem.aspx?space=1&num=1009](https://acm.timus.ru/problem.aspx?space=1&num=1009)
+[https://acm.timus.ru/problem.aspx?space=1\&num=1009](https://acm.timus.ru/problem.aspx?space=1\&num=1009)
 
-[https://acm.timus.ru/problem.aspx?space=1&num=1012](https://acm.timus.ru/problem.aspx?space=1&num=1012)
+[https://acm.timus.ru/problem.aspx?space=1\&num=1012](https://acm.timus.ru/problem.aspx?space=1\&num=1012)
 
-[https://acm.timus.ru/problem.aspx?space=1&num=1013](https://acm.timus.ru/problem.aspx?space=1&num=1013)
-
-
-
-Too Hard ???
-
-\#76 \[DP Upsolving\] [https://codeforces.com/contest/1367/problem/F2](https://codeforces.com/problemset/problem/1367/F2)
-
-\#81 \[Combi 2000\] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
-
-\#80 \[Graph LCA\] 2009/Special/Gold/cowpol
-
-\#78 \[DP 1800\] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
-
-\#85 \[Graph\] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
-
-\#88 \[Data Structure 1700\] [https://codeforces.com/problemset/problem/924/C](https://codeforces.com/problemset/problem/924/C)
+[https://acm.timus.ru/problem.aspx?space=1\&num=1013](https://acm.timus.ru/problem.aspx?space=1\&num=1013)
 
 
 
 Too Hard ???
 
-\#60 \[DP 1800\] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
+\#76 \[DP Upsolving] [https://codeforces.com/contest/1367/problem/F2](https://codeforces.com/problemset/problem/1367/F2)
 
-\#20 \[DONE\] \[TRY : Segment Tree\] 2008/Special/Gold/holpaint
+\#81 \[Combi 2000] [https://codeforces.com/contest/1359/problem/E](https://codeforces.com/contest/1359/problem/E)
 
-\# \[Segment Tree\] 2009/February/Gold/slowdown
+\#80 \[Graph LCA] 2009/Special/Gold/cowpol
 
-\# \[Data Structure 1700\] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
+\#78 \[DP 1800] [https://codeforces.com/problemset/problem/73/C](https://codeforces.com/problemset/problem/73/C)
 
-\[Segment Tree\] 2010/February/Gold/protest
+\#85 \[Graph] [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/contest/1325/problem/F)
 
-\[Segment Tree\] 2012/Open/Gold/photo
+\#88 \[Data Structure 1700] [https://codeforces.com/problemset/problem/924/C](https://codeforces.com/problemset/problem/924/C)
 
-\# \[DP 1800\] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
 
-\[DP / math\] [https://codeforces.com/contest/665/problem/F](https://codeforces.com/contest/665/problem/F)
 
-\[Interactive\] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
+Too Hard ???
+
+\#60 \[DP 1800] [https://codeforces.com/problemset/problem/234/F](https://codeforces.com/problemset/problem/234/F)
+
+\#20 \[DONE] \[TRY : Segment Tree] 2008/Special/Gold/holpaint
+
+\# \[Segment Tree] 2009/February/Gold/slowdown
+
+\# \[Data Structure 1700] [https://codeforces.com/problemset/problem/1333/C](https://codeforces.com/problemset/problem/1333/C)
+
+\[Segment Tree] 2010/February/Gold/protest
+
+\[Segment Tree] 2012/Open/Gold/photo
+
+\# \[DP 1800] [https://codeforces.com/problemset/problem/983/B](https://codeforces.com/problemset/problem/983/B)
+
+\[DP / math] [https://codeforces.com/contest/665/problem/F](https://codeforces.com/contest/665/problem/F)
+
+\[Interactive] [https://codeforces.com/gym/100685/problem/J](https://codeforces.com/gym/100685/problem/J)
 
 AtCoder DP [https://atcoder.jp/contests/dp/tasks](https://atcoder.jp/contests/dp/tasks)
 
@@ -139,159 +139,159 @@ spoiler [https://codeforces.com/contest/1325/problem/F](https://codeforces.com/c
 
 
 
-\[Graph LCA\] [https://cp-algorithms.com/graph/lca.html](https://cp-algorithms.com/graph/lca.html)
+\[Graph LCA] [https://cp-algorithms.com/graph/lca.html](https://cp-algorithms.com/graph/lca.html)
 
-\[Graph LCA\] [https://codeforces.com/blog/entry/43917](https://codeforces.com/blog/entry/43917)
+\[Graph LCA] [https://codeforces.com/blog/entry/43917](https://codeforces.com/blog/entry/43917)
 
-\[Graph LCA\] [https://www.spoj.com/problems/DYNALCA/en/](https://www.spoj.com/problems/DYNALCA/en/)
+\[Graph LCA] [https://www.spoj.com/problems/DYNALCA/en/](https://www.spoj.com/problems/DYNALCA/en/)
 
-\[Graph LCA\] [https://www.spoj.com/problems/DYNALCA/en/](https://www.spoj.com/problems/DYNALCA/en/)
+\[Graph LCA] [https://www.spoj.com/problems/DYNALCA/en/](https://www.spoj.com/problems/DYNALCA/en/)
 
-\#57 \[Graph LCA 2200\] [https://codeforces.com/contest/587/problem/C](https://codeforces.com/contest/587/problem/C)
+\#57 \[Graph LCA 2200] [https://codeforces.com/contest/587/problem/C](https://codeforces.com/contest/587/problem/C)
 
-\#56 \[Graph LCA 2100\] [https://codeforces.com/contest/609/problem/E](https://codeforces.com/contest/609/problem/E)
+\#56 \[Graph LCA 2100] [https://codeforces.com/contest/609/problem/E](https://codeforces.com/contest/609/problem/E)
 
-\#55 \[Graph LCA 2100\] [https://codeforces.com/contest/466/problem/E](https://codeforces.com/contest/466/problem/E)
+\#55 \[Graph LCA 2100] [https://codeforces.com/contest/466/problem/E](https://codeforces.com/contest/466/problem/E)
 
-\#54 \[Graph LCA 2100\] [https://codeforces.com/contest/208/problem/E](https://codeforces.com/contest/208/problem/E)
+\#54 \[Graph LCA 2100] [https://codeforces.com/contest/208/problem/E](https://codeforces.com/contest/208/problem/E)
 
-\[Graph LCA\] [208E - Blood Cousins](https://codeforces.com/contest/208/problem/E)  
-\[Graph LCA\] [191C - Fools and Roads](https://codeforces.com/contest/191/problem/C)  
-\[Graph LCA\] [587C - Duff in the Army](https://codeforces.com/contest/587/problem/C)  
-\[Graph LCA\] [609E - Minimum spanning tree for each edge](https://codeforces.com/contest/609/problem/E)  
-\[Graph LCA\] [178B3 - Greedy Merchants](https://codeforces.com/contest/178/problem/B3)  
-\[Graph LCA\] [176E - Archaeology](https://codeforces.com/contest/176/problem/E)  
-\[Graph LCA\] [466E - Information Graph](https://codeforces.com/contest/466/problem/E)
+\[Graph LCA] [208E - Blood Cousins](https://codeforces.com/contest/208/problem/E)\
+\[Graph LCA] [191C - Fools and Roads](https://codeforces.com/contest/191/problem/C)\
+\[Graph LCA] [587C - Duff in the Army](https://codeforces.com/contest/587/problem/C)\
+\[Graph LCA] [609E - Minimum spanning tree for each edge](https://codeforces.com/contest/609/problem/E)\
+\[Graph LCA] [178B3 - Greedy Merchants](https://codeforces.com/contest/178/problem/B3)\
+\[Graph LCA] [176E - Archaeology](https://codeforces.com/contest/176/problem/E)\
+\[Graph LCA] [466E - Information Graph](https://codeforces.com/contest/466/problem/E)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/670/E](https://codeforces.com/problemset/problem/670/E)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/670/E](https://codeforces.com/problemset/problem/670/E)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/644/B](https://codeforces.com/problemset/problem/644/B)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/644/B](https://codeforces.com/problemset/problem/644/B)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/631/C](https://codeforces.com/problemset/problem/631/C)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/631/C](https://codeforces.com/problemset/problem/631/C)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/627/B](https://codeforces.com/problemset/problem/627/B)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/627/B](https://codeforces.com/problemset/problem/627/B)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/605/B](https://codeforces.com/problemset/problem/605/B)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/605/B](https://codeforces.com/problemset/problem/605/B)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/567/D](https://codeforces.com/problemset/problem/567/D)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/567/D](https://codeforces.com/problemset/problem/567/D)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/567/C](https://codeforces.com/problemset/problem/567/C)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/567/C](https://codeforces.com/problemset/problem/567/C)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/466/C](https://codeforces.com/problemset/problem/466/C)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/466/C](https://codeforces.com/problemset/problem/466/C)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/460/C](https://codeforces.com/problemset/problem/460/C)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/460/C](https://codeforces.com/problemset/problem/460/C)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/385/C](https://codeforces.com/problemset/problem/385/C)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/385/C](https://codeforces.com/problemset/problem/385/C)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/349/B](https://codeforces.com/problemset/problem/349/B)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/349/B](https://codeforces.com/problemset/problem/349/B)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/229/B](https://codeforces.com/problemset/problem/229/B)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/229/B](https://codeforces.com/problemset/problem/229/B)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/223/A](https://codeforces.com/problemset/problem/223/A)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/223/A](https://codeforces.com/problemset/problem/223/A)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/159/E](https://codeforces.com/problemset/problem/159/E)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/159/E](https://codeforces.com/problemset/problem/159/E)
 
-\[Data Structure 1700\] [https://codeforces.com/problemset/problem/101/B](https://codeforces.com/problemset/problem/101/B)
+\[Data Structure 1700] [https://codeforces.com/problemset/problem/101/B](https://codeforces.com/problemset/problem/101/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/615/B](https://codeforces.com/problemset/problem/615/B)
+\[DP 1600] [https://codeforces.com/problemset/problem/615/B](https://codeforces.com/problemset/problem/615/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/607/A](https://codeforces.com/problemset/problem/607/A)
+\[DP 1600] [https://codeforces.com/problemset/problem/607/A](https://codeforces.com/problemset/problem/607/A)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/603/A](https://codeforces.com/problemset/problem/603/A)
+\[DP 1600] [https://codeforces.com/problemset/problem/603/A](https://codeforces.com/problemset/problem/603/A)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/597/B](https://codeforces.com/problemset/problem/597/B)
+\[DP 1600] [https://codeforces.com/problemset/problem/597/B](https://codeforces.com/problemset/problem/597/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/573/B](https://codeforces.com/problemset/problem/573/B)
+\[DP 1600] [https://codeforces.com/problemset/problem/573/B](https://codeforces.com/problemset/problem/573/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/446/A](https://codeforces.com/problemset/problem/446/A)
+\[DP 1600] [https://codeforces.com/problemset/problem/446/A](https://codeforces.com/problemset/problem/446/A)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/429/B](https://codeforces.com/problemset/problem/429/B)
+\[DP 1600] [https://codeforces.com/problemset/problem/429/B](https://codeforces.com/problemset/problem/429/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/416/C](https://codeforces.com/problemset/problem/416/C)
+\[DP 1600] [https://codeforces.com/problemset/problem/416/C](https://codeforces.com/problemset/problem/416/C)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/407/B](https://codeforces.com/problemset/problem/407/B)
+\[DP 1600] [https://codeforces.com/problemset/problem/407/B](https://codeforces.com/problemset/problem/407/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/375/B](https://codeforces.com/problemset/problem/375/B)
+\[DP 1600] [https://codeforces.com/problemset/problem/375/B](https://codeforces.com/problemset/problem/375/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/219/C](https://codeforces.com/problemset/problem/219/C)
+\[DP 1600] [https://codeforces.com/problemset/problem/219/C](https://codeforces.com/problemset/problem/219/C)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/165/C](https://codeforces.com/problemset/problem/165/C)
+\[DP 1600] [https://codeforces.com/problemset/problem/165/C](https://codeforces.com/problemset/problem/165/C)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/107/B](https://codeforces.com/problemset/problem/107/B)
+\[DP 1600] [https://codeforces.com/problemset/problem/107/B](https://codeforces.com/problemset/problem/107/B)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/71/C](https://codeforces.com/problemset/problem/71/C)
+\[DP 1600] [https://codeforces.com/problemset/problem/71/C](https://codeforces.com/problemset/problem/71/C)
 
-\[DP 1600\] [https://codeforces.com/problemset/problem/209/A](https://codeforces.com/problemset/problem/209/A)
+\[DP 1600] [https://codeforces.com/problemset/problem/209/A](https://codeforces.com/problemset/problem/209/A)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1245/D](https://codeforces.com/problemset/problem/1245/D)
+\[Graph 1900] [https://codeforces.com/problemset/problem/1245/D](https://codeforces.com/problemset/problem/1245/D)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1214/D](https://codeforces.com/problemset/problem/1214/D)
+\[Graph 1900] [https://codeforces.com/problemset/problem/1214/D](https://codeforces.com/problemset/problem/1214/D)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1213/G](https://codeforces.com/problemset/problem/1213/G)
+\[Graph 1900] [https://codeforces.com/problemset/problem/1213/G](https://codeforces.com/problemset/problem/1213/G)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1205/B](https://codeforces.com/problemset/problem/1205/B)
+\[Graph 1900] [https://codeforces.com/problemset/problem/1205/B](https://codeforces.com/problemset/problem/1205/B)
 
-\[Graph 1800\] [https://codeforces.com/problemset/problem/1118/F1](https://codeforces.com/problemset/problem/1118/F1)
+\[Graph 1800] [https://codeforces.com/problemset/problem/1118/F1](https://codeforces.com/problemset/problem/1118/F1)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/1095/F](https://codeforces.com/problemset/problem/1095/F)
+\[Graph 1900] [https://codeforces.com/problemset/problem/1095/F](https://codeforces.com/problemset/problem/1095/F)
 
-\[Graph 1800\] [https://codeforces.com/problemset/problem/989/C](https://codeforces.com/problemset/problem/989/C)
+\[Graph 1800] [https://codeforces.com/problemset/problem/989/C](https://codeforces.com/problemset/problem/989/C)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/949/C](https://codeforces.com/problemset/problem/949/C)
+\[Graph 1900] [https://codeforces.com/problemset/problem/949/C](https://codeforces.com/problemset/problem/949/C)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/883/G](https://codeforces.com/problemset/problem/883/G)
+\[Graph 1900] [https://codeforces.com/problemset/problem/883/G](https://codeforces.com/problemset/problem/883/G)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/847/I](https://codeforces.com/problemset/problem/847/I)
+\[Graph 1900] [https://codeforces.com/problemset/problem/847/I](https://codeforces.com/problemset/problem/847/I)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/792/D](https://codeforces.com/problemset/problem/792/D)
+\[Graph 1900] [https://codeforces.com/problemset/problem/792/D](https://codeforces.com/problemset/problem/792/D)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/717/E](https://codeforces.com/problemset/problem/717/E)
+\[Graph 1900] [https://codeforces.com/problemset/problem/717/E](https://codeforces.com/problemset/problem/717/E)
 
-\[Graph 1800\] [https://codeforces.com/problemset/problem/263/D](https://codeforces.com/problemset/problem/263/D)
+\[Graph 1800] [https://codeforces.com/problemset/problem/263/D](https://codeforces.com/problemset/problem/263/D)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/95/C](https://codeforces.com/problemset/problem/95/C)
+\[Graph 1900] [https://codeforces.com/problemset/problem/95/C](https://codeforces.com/problemset/problem/95/C)
 
-\[Graph 1800\] [https://codeforces.com/problemset/problem/33/B](https://codeforces.com/problemset/problem/33/B)
+\[Graph 1800] [https://codeforces.com/problemset/problem/33/B](https://codeforces.com/problemset/problem/33/B)
 
-\[Graph 1900\] [https://codeforces.com/problemset/problem/25/C](https://codeforces.com/problemset/problem/25/C)
+\[Graph 1900] [https://codeforces.com/problemset/problem/25/C](https://codeforces.com/problemset/problem/25/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/190/C](https://codeforces.com/problemset/problem/190/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/190/C](https://codeforces.com/problemset/problem/190/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/114/B](https://codeforces.com/problemset/problem/114/B)
+\[Graph 1500] [https://codeforces.com/problemset/problem/114/B](https://codeforces.com/problemset/problem/114/B)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/17/B](https://codeforces.com/problemset/problem/17/B)
+\[Graph 1500] [https://codeforces.com/problemset/problem/17/B](https://codeforces.com/problemset/problem/17/B)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/128/A](https://codeforces.com/problemset/problem/128/A)
+\[Graph 1500] [https://codeforces.com/problemset/problem/128/A](https://codeforces.com/problemset/problem/128/A)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/350/B](https://codeforces.com/problemset/problem/350/B)
+\[Graph 1500] [https://codeforces.com/problemset/problem/350/B](https://codeforces.com/problemset/problem/350/B)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/35/C](https://codeforces.com/problemset/problem/35/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/35/C](https://codeforces.com/problemset/problem/35/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/402/C](https://codeforces.com/problemset/problem/402/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/402/C](https://codeforces.com/problemset/problem/402/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/300/B](https://codeforces.com/problemset/problem/300/B)
+\[Graph 1500] [https://codeforces.com/problemset/problem/300/B](https://codeforces.com/problemset/problem/300/B)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/329/B](https://codeforces.com/problemset/problem/329/B)
+\[Graph 1500] [https://codeforces.com/problemset/problem/329/B](https://codeforces.com/problemset/problem/329/B)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/959/C](https://codeforces.com/problemset/problem/959/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/959/C](https://codeforces.com/problemset/problem/959/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/839/C](https://codeforces.com/problemset/problem/839/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/839/C](https://codeforces.com/problemset/problem/839/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/1332/C](https://codeforces.com/problemset/problem/1332/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/1332/C](https://codeforces.com/problemset/problem/1332/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/901/A](https://codeforces.com/problemset/problem/901/A)
+\[Graph 1500] [https://codeforces.com/problemset/problem/901/A](https://codeforces.com/problemset/problem/901/A)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/821/C](https://codeforces.com/problemset/problem/821/C)
+\[Graph 1500] [https://codeforces.com/problemset/problem/821/C](https://codeforces.com/problemset/problem/821/C)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/930/A](https://codeforces.com/problemset/problem/930/A)
+\[Graph 1500] [https://codeforces.com/problemset/problem/930/A](https://codeforces.com/problemset/problem/930/A)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/696/A](https://codeforces.com/problemset/problem/696/A)
+\[Graph 1500] [https://codeforces.com/problemset/problem/696/A](https://codeforces.com/problemset/problem/696/A)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/103/B](https://codeforces.com/problemset/problem/103/B)
+\[Graph 1500] [https://codeforces.com/problemset/problem/103/B](https://codeforces.com/problemset/problem/103/B)
 
-\[Graph 1500\] [https://codeforces.com/problemset/problem/574/B](https://codeforces.com/problemset/problem/574/B)
+\[Graph 1500] [https://codeforces.com/problemset/problem/574/B](https://codeforces.com/problemset/problem/574/B)
 
 Segment Tree USACO:
 
@@ -319,35 +319,35 @@ Segment Tree USACO:
 
 2017/February/Platinum/slingshot
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/1027/C](https://codeforces.com/problemset/problem/1027/C)
+\[Greedy 1600] [https://codeforces.com/problemset/problem/1027/C](https://codeforces.com/problemset/problem/1027/C)
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/1065/C](https://codeforces.com/problemset/problem/1065/C)
+\[Greedy 1600] [https://codeforces.com/problemset/problem/1065/C](https://codeforces.com/problemset/problem/1065/C)
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/949/A](https://codeforces.com/problemset/problem/949/A)
+\[Greedy 1600] [https://codeforces.com/problemset/problem/949/A](https://codeforces.com/problemset/problem/949/A)
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/723/C](https://codeforces.com/problemset/problem/723/C)
+\[Greedy 1600] [https://codeforces.com/problemset/problem/723/C](https://codeforces.com/problemset/problem/723/C)
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/154/A](https://codeforces.com/problemset/problem/154/A)
+\[Greedy 1600] [https://codeforces.com/problemset/problem/154/A](https://codeforces.com/problemset/problem/154/A)
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/898/D](https://codeforces.com/problemset/problem/898/D)
+\[Greedy 1600] [https://codeforces.com/problemset/problem/898/D](https://codeforces.com/problemset/problem/898/D)
 
-\[Greedy 1600\] [https://codeforces.com/problemset/problem/250/C](https://codeforces.com/problemset/problem/250/C)
+\[Greedy 1600] [https://codeforces.com/problemset/problem/250/C](https://codeforces.com/problemset/problem/250/C)
 
-\[Greedy 1700\] [https://codeforces.com/problemset/problem/1157/C2](https://codeforces.com/problemset/problem/1157/C2)
+\[Greedy 1700] [https://codeforces.com/problemset/problem/1157/C2](https://codeforces.com/problemset/problem/1157/C2)
 
-\[Greedy 1700\] [https://codeforces.com/problemset/problem/191/B](https://codeforces.com/problemset/problem/191/B)
+\[Greedy 1700] [https://codeforces.com/problemset/problem/191/B](https://codeforces.com/problemset/problem/191/B)
 
-\[Greedy 1800\] [https://codeforces.com/problemset/problem/478/C](https://codeforces.com/problemset/problem/478/C)
+\[Greedy 1800] [https://codeforces.com/problemset/problem/478/C](https://codeforces.com/problemset/problem/478/C)
 
-\[Greedy 1800\] [https://codeforces.com/problemset/problem/979/B](https://codeforces.com/problemset/problem/979/B)
+\[Greedy 1800] [https://codeforces.com/problemset/problem/979/B](https://codeforces.com/problemset/problem/979/B)
 
-\[Greedy 1800\] [https://codeforces.com/problemset/problem/1148/D](https://codeforces.com/problemset/problem/1148/D)
+\[Greedy 1800] [https://codeforces.com/problemset/problem/1148/D](https://codeforces.com/problemset/problem/1148/D)
 
-\[Greedy 1800\] [https://codeforces.com/problemset/problem/1136/D](https://codeforces.com/problemset/problem/1136/D)
+\[Greedy 1800] [https://codeforces.com/problemset/problem/1136/D](https://codeforces.com/problemset/problem/1136/D)
 
-\[Greedy 1800\] [https://codeforces.com/problemset/problem/333/B](https://codeforces.com/problemset/problem/333/B)
+\[Greedy 1800] [https://codeforces.com/problemset/problem/333/B](https://codeforces.com/problemset/problem/333/B)
 
-\[Greedy 1800\] [https://codeforces.com/problemset/problem/89/A](https://codeforces.com/problemset/problem/89/A)
+\[Greedy 1800] [https://codeforces.com/problemset/problem/89/A](https://codeforces.com/problemset/problem/89/A)
 
 
 
@@ -427,7 +427,7 @@ Segment Tree USACO:
 
 ## Graph - Generic L3
 
-1800 [https://codeforces.com/problemset/problem/721/C](https://codeforces.com/problemset/problem/721/C) 1600 [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E) 1700 [https://codeforces.com/problemset/problem/246/D](https://codeforces.com/problemset/problem/246/D) 2000 [https://codeforces.com/problemset/problem/463/D](https://codeforces.com/problemset/problem/463/D) 1700 [https://codeforces.com/problemset/problem/369/C](https://codeforces.com/problemset/problem/369/C) \[?\] 1500 [https://codeforces.com/problemset/problem/417/C](https://codeforces.com/problemset/problem/417/C) 1500 [https://codeforces.com/problemset/problem/744/A](https://codeforces.com/problemset/problem/744/A) 1700 [https://codeforces.com/problemset/problem/489/D](https://codeforces.com/problemset/problem/489/D) 1600 [https://codeforces.com/problemset/problem/615/B](https://codeforces.com/problemset/problem/615/B) 1500 [https://codeforces.com/problemset/problem/320/B](https://codeforces.com/problemset/problem/320/B) 1900 [https://codeforces.com/problemset/problem/295/B](https://codeforces.com/problemset/problem/295/B) 1700 [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C) 1800 [https://codeforces.com/problemset/problem/623/A](https://codeforces.com/problemset/problem/623/A) 1600 [https://codeforces.com/problemset/problem/103/B](https://codeforces.com/problemset/problem/103/B)
+1800 [https://codeforces.com/problemset/problem/721/C](https://codeforces.com/problemset/problem/721/C) 1600 [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E) 1700 [https://codeforces.com/problemset/problem/246/D](https://codeforces.com/problemset/problem/246/D) 2000 [https://codeforces.com/problemset/problem/463/D](https://codeforces.com/problemset/problem/463/D) 1700 [https://codeforces.com/problemset/problem/369/C](https://codeforces.com/problemset/problem/369/C) \[?] 1500 [https://codeforces.com/problemset/problem/417/C](https://codeforces.com/problemset/problem/417/C) 1500 [https://codeforces.com/problemset/problem/744/A](https://codeforces.com/problemset/problem/744/A) 1700 [https://codeforces.com/problemset/problem/489/D](https://codeforces.com/problemset/problem/489/D) 1600 [https://codeforces.com/problemset/problem/615/B](https://codeforces.com/problemset/problem/615/B) 1500 [https://codeforces.com/problemset/problem/320/B](https://codeforces.com/problemset/problem/320/B) 1900 [https://codeforces.com/problemset/problem/295/B](https://codeforces.com/problemset/problem/295/B) 1700 [https://codeforces.com/problemset/problem/501/C](https://codeforces.com/problemset/problem/501/C) 1800 [https://codeforces.com/problemset/problem/623/A](https://codeforces.com/problemset/problem/623/A) 1600 [https://codeforces.com/problemset/problem/103/B](https://codeforces.com/problemset/problem/103/B)
 
 ## Tree L2,L3
 
@@ -435,9 +435,8 @@ Segment Tree USACO:
 
 ## Segment Tree L1,L2,L3
 
-~~1800~~ [~~https://codeforces.com/problemset/problem/459/D~~](https://codeforces.com/problemset/problem/459/D) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1900 [https://codeforces.com/problemset/problem/220/B](https://codeforces.com/problemset/problem/220/B) 2100 [https://codeforces.com/problemset/problem/380/C](https://codeforces.com/problemset/problem/380/C)
+~~1800 ~~[~~https://codeforces.com/problemset/problem/459/D~~](https://codeforces.com/problemset/problem/459/D) 2000 [https://codeforces.com/problemset/problem/482/B](https://codeforces.com/problemset/problem/482/B) 1900 [https://codeforces.com/problemset/problem/220/B](https://codeforces.com/problemset/problem/220/B) 2100 [https://codeforces.com/problemset/problem/380/C](https://codeforces.com/problemset/problem/380/C)
 
 ## Math
 
 1600 [https://codeforces.com/problemset/problem/495/B](https://codeforces.com/problemset/problem/495/B)
-

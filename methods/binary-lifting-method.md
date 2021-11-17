@@ -10,7 +10,5 @@ todo
 
 quesions with unknow number of iterations
 
-{% embed url="https://atcoder.jp/contests/agc036/tasks/agc036\_b" %}
-
-
+{% embed url="https://atcoder.jp/contests/agc036/tasks/agc036_b" %}
 

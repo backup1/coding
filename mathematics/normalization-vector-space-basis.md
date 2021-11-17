@@ -1,8 +1,8 @@
-# Normalization \(vector space basis\)
+# Normalization (vector space basis)
 
 Kind of greedy using vector space basis normalization.
 
-{% embed url="https://atcoder.jp/contests/abc141/tasks/abc141\_f" %}
+{% embed url="https://atcoder.jp/contests/abc141/tasks/abc141_f" %}
 
 ```cpp
 #include <bits/stdc++.h>
@@ -41,4 +41,3 @@ int main(){
   return 0;
 }
 ```
-

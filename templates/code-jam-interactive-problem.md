@@ -5,7 +5,7 @@ $ g++ A.cpp; python interactive_runner.py python local_testing_tool.py 0 -- ./a.
 ```
 
 {% tabs %}
-{% tab title="interactive\_runner.py" %}
+{% tab title="interactive_runner.py" %}
 ```python
 # This is a small program that runs two processes, connecting the stdin of each
 # one to the stdout of the other.
@@ -116,7 +116,7 @@ if t_judge.error_message:
 ```
 {% endtab %}
 
-{% tab title="local\_testing\_tool.py" %}
+{% tab title="local_testing_tool.py" %}
 ```python
 # Usage: `python local_testing_tool.py test_number`, where the argument
 # test_number is either 0 (Test Set 1), 1 (Test Set 2) or 2 (Test Set 3).
@@ -339,4 +339,3 @@ if __name__ == '__main__':
 ```
 {% endtab %}
 {% endtabs %}
-

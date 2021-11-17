@@ -104,7 +104,8 @@
 
 * [STL utilities](utilities/stl-utilities.md)
 * [STL parallel utilities](utilities/stl-parallel-utilities.md)
-* [list](utilities/list.md)
+* [list and forward\_list](utilities/list-and-forward\_list.md)
+* [remove duplicate](utilities/remove-duplicate.md)
 
 ## C++ tips and tricks
 

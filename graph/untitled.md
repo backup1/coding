@@ -2,7 +2,7 @@
 
 ## Questions
 
-{% embed url="https://atcoder.jp/contests/agc033/tasks/agc033\_a" %}
+{% embed url="https://atcoder.jp/contests/agc033/tasks/agc033_a" %}
 
 ```cpp
 #include <bits/stdc++.h>
@@ -100,4 +100,3 @@ int main(){
   return 0;
 }
 ```
-
