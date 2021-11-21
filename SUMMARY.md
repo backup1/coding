@@ -125,6 +125,7 @@
 * [UVa template](templates/uva-template.md)
 * [Compilation](templates/compilation.md)
 * [Code Jam Interactive Problem](templates/code-jam-interactive-problem.md)
+* [input with space](templates/input-with-space.md)
 * [tools](templates/tools.md)
 
 ## Recipes
