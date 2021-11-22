@@ -138,7 +138,7 @@
 ## Questions
 
 * [interview questions](questions/interview-questions.md)
-* [interview question from web](questions/interview-question-from-web.md)
+* [interview question KMP](questions/interview-question-kmp.md)
 * [Modulo - Big Number](questions/modulo-big-number.md)
 * [Modulo - Power and Combi](questions/modulo-power-and-combi.md)
 * [Misc](questions/misc.md)
