@@ -1,5 +1,11 @@
 # STL utilities
 
+## find the number with one occurrence (all others appear twice)
+
+```cpp
+accumulate(begin(a),end(a),0,bit_xor<int>());
+```
+
 ## all\_of, any\_of and none\_of
 
 ```cpp
@@ -47,6 +53,4 @@ cout << *it;
 ## generate
 
 ```cpp
-
 ```
-
