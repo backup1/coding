@@ -79,3 +79,9 @@ int main(){
   return 0;
 }
 ```
+
+encode and decode : [https://techdevguide.withgoogle.com/resources/former-interview-question-compression-and-decompression](https://techdevguide.withgoogle.com/resources/former-interview-question-compression-and-decompression/#!)/
+
+encode : [https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html](https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html)
+
+decode : [https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html](https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html)
