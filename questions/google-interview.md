@@ -1,6 +1,6 @@
 # Google interview
 
-flatten iterators : https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/
+flatten iterators : [https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/](https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/#!)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -85,3 +85,40 @@ encode and decode : [https://techdevguide.withgoogle.com/resources/former-interv
 encode : [https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html](https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html)
 
 decode : [https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html](https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html)
+
+lake volume : [https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/](https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/#!)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+// O(n)
+int getVolume(vector<int> height){
+  int sz = height.size();
+  if(sz <= 2) return 0;
+  int hmax = height[0],idx = 0;
+  for(int i = 1; i < sz; ++i){
+    if(height[i] > hmax){
+      hmax = height[i];
+      idx = i;
+    }
+  }
+  int h = height[0], ret = 0;
+  for(int i = 1; i < idx; ++i){
+    if(height[i] < h) ret += h-height[i];
+    else h = height[i];
+  }
+  h = height.back();
+  for(int i = sz-2; i > idx; --i){
+    if(height[i] < h) ret += h-height[i];
+    else h = height[i];
+  }
+  return ret;
+}
+
+int main(){
+  vector<int> height = {1,3,2,4,1,3,1,4,5,2,2,1,4,2,2};
+  cout << getVolume(height) << endl; // 15
+  return 0;
+}
+```
