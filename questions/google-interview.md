@@ -185,3 +185,123 @@ int main(){
   return 0;
 }
 ```
+
+**minesweeper** : [https://techdevguide.withgoogle.com/resources/former-interview-question-minesweeper/](https://techdevguide.withgoogle.com/resources/former-interview-question-minesweeper/#!)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+template<typename T>
+class Mine{
+public:
+  void resize(int rows,int cols){
+    _data.resize(rows*cols);
+    _rows = rows;
+    _cols = cols;
+  }
+  T& at(int row,int col){
+    return _data.at(row*_cols+col);
+  }
+  int rows(){
+    return _rows;
+  }
+  int cols(){
+    return _cols;
+  }
+private:
+  vector<T> _data;
+  int _rows = 0;
+  int _cols = 0;
+};
+
+constexpr int kMine = 9;
+vector<pair<int,int>> dirs = { {1,0}, {-1,0}, {0,1}, {0,-1} };
+
+class MineGame{
+private:
+  struct Spot{
+    int val = 0;
+    bool visible = false;
+  };
+  Mine<Spot> game;
+public:
+  MineGame(int rows,int cols,int nbMines){
+    game.resize(rows,cols);
+    const int tot = rows*cols;
+    if(nbMines > tot){
+      cout << "Too many mines!" << endl;
+      nbMines = tot;
+    }
+    for(int i = 0; i < nbMines; ++i){
+      game.at(i/cols,i%cols).val = (i < nbMines ? kMine : 0);
+    }
+    // random shuffle
+    for(int i = 0; i < min(nbMines,tot-1); ++i){
+      int j = i + (rand()%(tot-i));
+      swap(game.at(i/cols,i%cols),game.at(j/cols,j%cols));
+    }
+    // set value
+    for(int x = 0; x < rows; ++x){
+      for(int y = 0; y < cols; ++y){
+        if(game.at(x,y).val != kMine) continue;
+        for(int dx : {-1,0,1}){
+          for(int dy : {-1,0,1}){
+            int nx = x + dx, ny = y + dy;
+            if(0 <= nx and nx < rows and 0 <= ny and ny < cols and game.at(nx,ny).val != kMine){
+              game.at(nx,ny).val++;
+            }
+          }
+        }
+      }
+    }
+  }
+  bool onClick(int row,int col){
+    if(row < 0 or row >= game.rows() or col < 0 or col >= game.cols()) return false;
+    if(game.at(row,col).visible == true) return false;
+    game.at(row,col).visible = true;
+    if(game.at(row,col).val == kMine){
+      cout << "BOOM!" << endl;
+      return true;
+    }
+    if(game.at(row,col).val != 0) return false;
+    for(auto& dir : dirs){
+      onClick(row + dir.first, col + dir.second);
+    }
+    return false;
+  }
+  void show(bool showAll){
+    for(int i = 0; i < game.rows(); ++i){
+      for(int j = 0; j < game.cols(); ++j){
+        if(game.at(i,j).visible or showAll){
+          cout << game.at(i,j).val << ' ';
+        }
+        else{
+          cout << ". ";
+        }
+      }
+      cout << endl;
+    }
+    cout << endl;
+  }
+};
+
+int main(){
+  //srand(chrono::steady_clock::now().time_since_epoch().count());
+  srand(time(NULL));
+  //srand(0);
+  MineGame minegame(8,13,7);
+  minegame.show(true);
+  minegame.onClick(5,1);
+  minegame.show(false);
+  minegame.onClick(2,6);
+  minegame.show(false);
+  minegame.onClick(9,3);
+  minegame.show(false);
+  minegame.onClick(0,0);
+  minegame.show(false);
+  minegame.onClick(3,5);
+  minegame.show(false);
+  return 0;
+}c
+```
