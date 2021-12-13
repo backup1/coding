@@ -1,6 +1,6 @@
 # Google interview
 
-flatten iterators : [https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/](https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/#!)
+**flatten iterators** : [https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/](https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/#!)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -39,7 +39,7 @@ int main(){
 }
 ```
 
-find longest word : [https://techdevguide.withgoogle.com/resources/former-interview-question-find-longest-word/](https://techdevguide.withgoogle.com/resources/former-interview-question-find-longest-word/#!)
+**find longest word** : [https://techdevguide.withgoogle.com/resources/former-interview-question-find-longest-word/](https://techdevguide.withgoogle.com/resources/former-interview-question-find-longest-word/#!)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -86,7 +86,7 @@ encode : [https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-str
 
 decode : [https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html](https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html)
 
-lake volume : [https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/](https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/#!)
+**lake volume** : [https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/](https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/#!)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -119,6 +119,69 @@ int getVolume(vector<int> height){
 int main(){
   vector<int> height = {1,3,2,4,1,3,1,4,5,2,2,1,4,2,2};
   cout << getVolume(height) << endl; // 15
+  return 0;
+}
+```
+
+**word squares** : [https://techdevguide.withgoogle.com/resources/former-interview-question-word-squares/](https://techdevguide.withgoogle.com/resources/former-interview-question-word-squares/#!)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using vecstr = vector<string>;
+
+class WordSquares{
+private:
+  vecstr _words;
+  unordered_map<string,vecstr> _prefixLookup;
+  vector<vecstr> _result;
+
+  void makePrefixLookup(){
+    for(const string& word : _words){
+      for(int i = 0; i < word.size(); ++i){
+        _prefixLookup[word.substr(0,i)].emplace_back(word);
+      }
+    }
+  }
+
+  void collectWordSquares(const vecstr& psol){
+    if(psol.size() == _words[0].size()){
+      _result.push_back(psol);
+      return;
+    }
+    vecstr cands = getCandidates(psol);
+    for(const string& word : cands){
+      vecstr npsol = psol;
+      npsol.push_back(word);
+      collectWordSquares(npsol);
+    }
+  }
+
+  vecstr getCandidates(const vecstr& psol){
+    int pos = psol.size();
+    string prefix = "";
+    for(auto& s : psol){
+      prefix.push_back(s[pos]);
+    }
+    return _prefixLookup[prefix];
+  }
+
+public:
+  // T(n,k) = N * ( T(n-1,k-1) + k )
+  vector<vecstr> getWordSquares(const vecstr& words){
+    _words = words;
+    makePrefixLookup();
+    collectWordSquares(vecstr());
+    return move(_result);
+  }
+};
+
+int main(){
+  vecstr words = {"AREA","BALL","DEAR","LADY","LEAD","YARD"};
+  for(vecstr& vs : WordSquares().getWordSquares(words)){
+    for(string& s : vs) cout << s << '\n';
+    cout << '\n';
+  }
   return 0;
 }
 ```
