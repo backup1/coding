@@ -337,5 +337,15 @@ int main(){
   minegame.onClick(3,5);
   minegame.show(false);
   return 0;
-}c
+}
 ```
+
+Flood-it : [https://unixpapa.com/floodit/?sz=14\&nc=5](https://unixpapa.com/floodit/?sz=14\&nc=5)
+
+Each situation is considered as a node in a graph, then (C-1) oriented edges for the next situations.
+
+We can do BFS in this case, but it is still slow.
+
+Doing Dijkstra or A\* with a measure of lower bound. Number of remaining color is ok, but not enough. Counting the max distance to the remaining components is a good choice of this measure.
+
+C++ RVO, what it is ?
