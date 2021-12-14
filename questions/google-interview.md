@@ -84,6 +84,40 @@ encode and decode : [https://techdevguide.withgoogle.com/resources/former-interv
 
 encode : [https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html](https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html)
 
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+string encode(string s){
+  int n = s.size();
+  vector<vector<string>> dp(n,vector<string>(n,""));
+  for(int step = 1; step <= n; ++step){
+    for(int i = 0; i+step <= n; ++i){
+      string t = s.substr(i,step), replace = "";
+      int j = i+step-1;
+      dp[i][j] = t;
+      auto pos = (t+t).find(t,1);
+      if(pos < t.size()){
+        replace = to_string(t.size()/pos)+"["+dp[i][i+pos-1]+"]";
+        if(replace.size() < t.size()) dp[i][j] = replace;
+      }
+      for(int k = i; k < j; ++k){
+        if(dp[i][k].size()+dp[k+1][j].size() < dp[i][j].size()){
+          dp[i][j] = dp[i][k]+dp[k+1][j];
+        }
+      }
+      //cout << "dp[" << i << "][" << j << "] = " << dp[i][j] << endl;
+    }
+  }
+  return dp[0][n-1];
+}
+
+int main(){
+  cout << encode("aaaaaabaaaaababcabcabcababababc") << endl;
+  return 0;
+}
+```
+
 decode : [https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html](https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html)
 
 **lake volume** : [https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/](https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/#!)
