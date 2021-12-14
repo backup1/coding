@@ -348,4 +348,4 @@ We can do BFS in this case, but it is still slow.
 
 Doing Dijkstra or A\* with a measure of lower bound. Number of remaining color is ok, but not enough. Counting the max distance to the remaining components is a good choice of this measure.
 
-C++ RVO, what it is ?
+C++ RVO, what it is ? **return value optimization** (RVO) [https://en.wikipedia.org/wiki/Copy\_elision](https://en.wikipedia.org/wiki/Copy\_elision)
