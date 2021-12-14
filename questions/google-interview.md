@@ -84,7 +84,7 @@ encode and decode : [https://techdevguide.withgoogle.com/resources/former-interv
 
 encode : [https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html](https://massivealgorithms.blogspot.com/2016/12/leetcode-471-encode-string-with.html)
 
-```
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
