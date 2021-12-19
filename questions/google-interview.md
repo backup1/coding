@@ -1,5 +1,7 @@
 # Google interview
 
+**System Design Interview book :** [https://ipfs.io/ipfs/bafykbzacecpbuvilbmokyl2ajs2hbve3qaut4h3vtir6htydecy2h5jaqmy7i?filename=Alex%20Yu%20-%20System%20Design%20Interview\_%20An%20Insider%E2%80%99s%20Guide-Independently%20published%20%282020%29.pdf](https://ipfs.io/ipfs/bafykbzacecpbuvilbmokyl2ajs2hbve3qaut4h3vtir6htydecy2h5jaqmy7i?filename=Alex%20Yu%20-%20System%20Design%20Interview\_%20An%20Insider%E2%80%99s%20Guide-Independently%20published%20%282020%29.pdf)
+
 **flatten iterators** : [https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/](https://techdevguide.withgoogle.com/resources/former-interview-question-flatten-iterators/#!)
 
 ```cpp
