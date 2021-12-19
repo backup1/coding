@@ -107,7 +107,7 @@ string encode(string s){
         }
       }
       //cout << "dp[" << i << "][" << j << "] = " << dp[i][j] << endl;
-    }
+    }c
   }
   return dp[0][n-1];
 }
@@ -119,6 +119,35 @@ int main(){
 ```
 
 decode : [https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html](https://massivealgorithms.blogspot.com/2016/09/leetcode-394-decode-string.html)
+
+**decode string :** [https://leetcode.com/problems/decode-string/](https://leetcode.com/problems/decode-string/)
+
+```cpp
+string decodeString(string s) {
+  string ans = "";
+  int n = 0;
+  for(int i = 0; i < s.size(); ++i){
+    char c = s[i];
+    if(c == '['){
+      int cnt = 1;
+      string inside = "";
+      while(cnt > 0){
+        ++i;
+        if(s[i] == '[') ++cnt;
+        else if(s[i] == ']') --cnt;
+        if(cnt == 0) break;
+        inside.push_back(s[i]);
+      }
+      string tmp = decodeString(inside);
+      for(int j = 0; j < n; ++j) ans += tmp;
+      n = 0;
+    }
+    else if(isdigit(c)) n = 10*n+(c-'0');
+    else ans.push_back(c);
+  }
+  return ans;
+}
+```
 
 **lake volume** : [https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/](https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/#!)
 
