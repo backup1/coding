@@ -43,3 +43,18 @@ void check(vector<vector<bool>>& vu,int r,int c,int bx,int by,int ex,int ey,int 
   }
 }
 ```
+
+1402 Reducing Dishes [https://leetcode.com/problems/reducing-dishes/](https://leetcode.com/problems/reducing-dishes/)
+
+```cpp
+int maxSatisfaction(vector<int>& satisfaction) {
+  sort(begin(satisfaction),end(satisfaction),[](int& a,int& b){return a > b;});
+  int sum = 0,ans = 0;
+  for(int i : satisfaction){
+    sum += i;
+    if(sum <= 0) break;
+    ans += sum;
+  }
+  return ans;
+}
+```
