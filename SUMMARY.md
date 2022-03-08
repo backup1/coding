@@ -150,6 +150,7 @@
 
 * [RAII - file](training/raii-file.md)
 * [matrix](training/matrix.md)
+* [bad polymorphism matrix](training/bad-polymorphism-matrix.md)
 
 ## Past Codes
 
