@@ -146,6 +146,10 @@
 * [Modulo - Power and Combi](questions/modulo-power-and-combi.md)
 * [Misc](questions/misc.md)
 
+## Training
+
+* [RAII - file](training/raii-file.md)
+
 ## Past Codes
 
 * [Maths](past-codes/maths.md)
