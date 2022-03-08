@@ -1,6 +1,6 @@
 # bad polymorphism matrix
 
-example : g++ does good for static (3x faster) while clang does not bet static vs dynamicr
+example : g++ does good for static (3x faster) while clang does not bet static vs dynamic
 
 ```cpp
 #include <chrono>
