@@ -32,41 +32,25 @@ class file
   FILE *file_ptr_;
 
 public:
-
-  
-  file(file &&other) noexcept : file()
-  {
-  
+  file(file &&other) noexcept : file(){
   }
 
-  file &operator=(file &&other)
-  {
-  
+  file &operator=(file &&other){
   }
 
-  file(const char *filename) noexcept : file()
-  {
-  
+  file(const char *filename) noexcept : file(){
   }
 
-  ~file()
-  {
-  
+  ~file(){
   }
 
-  void swap(file &other) noexcept
-  {
-  
+  void swap(file &other) noexcept{
   }
 
-  bool is_valid() const
-  {
-  
+  bool is_valid() const{
   }
 
-  FILE *get() const
-  {
-  
+  FILE *get() const{
   }
 };
 
@@ -118,36 +102,30 @@ public:
   file(file const&)            = delete;
   file& operator=(file const&) = delete;
   
-  file(file &&other) noexcept : file()
-  {
+  file(file &&other) noexcept : file(){
     swap(other);
     //file_ptr_ = other.file_ptr_;
     //other.file_ptr_ = nullptr;
   }
 
-  file &operator=(file &&other)
-  {
+  file &operator=(file &&other){
     swap(other);
     return *this;
   }
 
-  ~file()
-  {
+  ~file(){
     if(is_valid()) fclose(file_ptr_);
   }
 
-  void swap(file &other) noexcept
-  {
+  void swap(file &other) noexcept{
     std::swap(file_ptr_,other.file_ptr_);
   }
 
-  bool is_valid() const
-  {
+  bool is_valid() const{
     return file_ptr_ != nullptr;
   }
 
-  FILE *get() const
-  {
+  FILE *get() const{
     return file_ptr_;
   }
 };

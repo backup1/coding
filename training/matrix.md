@@ -2,7 +2,7 @@
 
 squelette to start
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 
@@ -12,26 +12,21 @@ squelette to start
 struct matrix
 {
 public:
-  matrix(std::size_t d0 = 0, std::size_t d1 = 0) : data_(d0 * d1), dim0_(d0), dim1_(d1)
-  {
+  matrix(std::size_t d0 = 0, std::size_t d1 = 0) : data_(d0 * d1), dim0_(d0), dim1_(d1){
   }
 
-  float &operator()(std::size_t i0, std::size_t i1)
-  {
+  float &operator()(std::size_t i0, std::size_t i1){
     return data_[i0 + i1 * dim0_];
   }
 
-  float const &operator()(std::size_t i0, std::size_t i1) const
-  {
+  float const &operator()(std::size_t i0, std::size_t i1) const{
     return data_[i0 + i1 * dim0_];
   }
 
-  std::size_t size() const
-  {
+  std::size_t size() const{
     return data_.size();
   }
-  std::size_t size(int d) const
-  {
+  std::size_t size(int d) const{
     return d == 0 ? dim0_ : dim1_;
   }
 
@@ -42,8 +37,7 @@ private:
 
 std::ostream &operator<<(std::ostream &os, matrix const &mat)
 {
-  for (std::size_t i1 = 0; i1 != mat.size(1); ++i1)
-  {
+  for (std::size_t i1 = 0; i1 != mat.size(1); ++i1){
     std::cout << "[ ";
     for (std::size_t i0 = 0; i0 != mat.size(0); ++i0)
       std::cout << mat(i0, i1) << " ";
@@ -69,13 +63,11 @@ void sample_behavior()
   std::cout << m_45.size(0) << std::endl;
   std::cout << m_45.size(1) << std::endl;
 
-  for (std::size_t i1 = 0; i1 != m_45.size(1); ++i1)
-  {
+  for (std::size_t i1 = 0; i1 != m_45.size(1); ++i1){
     for (std::size_t i0 = 0; i0 != m_45.size(0); ++i0)
       m_45(i0, i1) = (1 + i0) + 10 * (1 + i1);
   }
 
   std::cout << m_45 << std::endl;
 }
-
 ```
