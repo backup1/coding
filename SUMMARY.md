@@ -149,6 +149,7 @@
 ## Training
 
 * [RAII - file](training/raii-file.md)
+* [matrix](training/matrix.md)
 
 ## Past Codes
 
