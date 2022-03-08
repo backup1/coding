@@ -1,8 +1,8 @@
 # bad polymorphism matrix
 
-example
+example : g++ does good for static (3x faster) while clang does not bet static vs dynamicr
 
-```
+```cpp
 #include <chrono>
 #include <iostream>
 #include <memory>
