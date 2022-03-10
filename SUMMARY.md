@@ -152,6 +152,7 @@
 * [matrix](training/matrix.md)
 * [bad polymorphism matrix](training/bad-polymorphism-matrix.md)
 * [polymorphism matrix](training/polymorphism-matrix.md)
+* [matrix sum](training/matrix-sum.md)
 
 ## Past Codes
 
