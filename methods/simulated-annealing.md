@@ -4,7 +4,7 @@ Chip design algorithm
 
 https://www.geeksforgeeks.org/simulated-annealing/
 
-Questions 1a/ https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
+Questions 1a/ \[LeetCode#1815] https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
 
 ```cpp
 class Solution {
@@ -57,7 +57,7 @@ public:
 };
 ```
 
-Question 1b/ [https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169](https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169)
+Question 1b/ \[UVA#10228] [https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169](https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169)
 
 ```cpp
 #include <bits/stdc++.h>
