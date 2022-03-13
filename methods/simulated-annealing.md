@@ -195,7 +195,7 @@ link : 题目：http://poj.org/problem?id=2069
 
 3/ https://www.cnblogs.com/peng-ym/p/9192203.html
 
-4/ blogs https://www.cnblogs.com/flashhu/p/8884132.html https://www.cnblogs.com/peng-ym/p/9158909.html https://m-sea.blog.luogu.org/qian-tan-SA https://zhuanlan.zhihu.com/p/23968011 https://cardiffle.github.io/2019/08/05/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%ABSA/
+4/ blogs https://www.cnblogs.com/flashhu/p/8884132.html https://www.cnblogs.com/peng-ym/p/9158909.html https://m-sea.blog.luogu.org/qian-tan-SA https://zhuanlan.zhihu.com/p/23968011 https://cardiffle.github.io/2019/08/05/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%ABSA/ [https://blog.csdn.net/crazyhacking/article/details/8715932?utm\_medium=distribute.pc\_relevant.none-task-blog-2\~default\~baidujs\_title\~default-0.pc\_relevant\_default\&spm=1001.2101.3001.4242.1\&utm\_relevant\_index=3](https://blog.csdn.net/crazyhacking/article/details/8715932?spm=1001.2101.3001.4242.1)
 
 5/ English blogs https://codeforces.com/blog/entry/94437 http://www.usaco.org/index.php?page=viewproblem2\&cpid=698 https://codeforces.com/contest/1556/problem/H https://atcoder.jp/contests/intro-heuristics/tasks/intro\_heuristics\_a
 
