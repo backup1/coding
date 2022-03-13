@@ -126,6 +126,10 @@ int main(){
 }
 ```
 
+Question 1c/ CEOI 2004 Two sawmills [https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf](https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf)
+
+submit : [https://www.luogu.com.cn/problem/P4360](https://www.luogu.com.cn/problem/P4360)
+
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
 
 3/ https://www.cnblogs.com/peng-ym/p/9192203.html
