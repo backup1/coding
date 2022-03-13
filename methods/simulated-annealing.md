@@ -130,6 +130,63 @@ Question 1c/ CEOI 2004 Two sawmills [https://www.oi.edu.pl/old/ceoi2004/problems
 
 submit : [https://www.luogu.com.cn/problem/P4360](https://www.luogu.com.cn/problem/P4360)
 
+blog : [https://blog.csdn.net/qq\_35786326/article/details/109177830](https://blog.csdn.net/qq\_35786326/article/details/109177830)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+vector<ll> w,d;
+ll sumwd,n;
+struct node{
+  ll a,b;
+  ll calc(){
+  // \sum_{1..a} wi*(da-di) + \sum_{a+1..b} wi*(db-di) + \sum_{b+1..n} wi*(dn-di)
+  // = da*\sum_{1..a} wi + db*\sum_{a+1..b} wi + dn*\sum_{b+1..n} wi - \sum_{1..n} wi*di
+  // = da*psum_a + db*(psum_b-psum_a) + dn*(psum_n-psum_b) - \sum_{1..n} wi*di
+    if(a > b) swap(a,b);
+    return d[a]*w[a]+d[b]*(w[b]-w[a])+d[n+1]*(w[n]-w[b])-sumwd;
+  }
+};
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  srand(time(NULL));
+  cin >> n;
+  w.resize(n+5);
+  d.resize(n+5);
+  sumwd = 0;
+  for(int i = 1; i <= n; ++i){
+    cin >> w[i] >> d[i+1];
+    sumwd += w[i]*d[i];
+    d[i+1] += d[i];
+    w[i] += w[i-1];
+  }
+  node best;
+  best.a = 1;
+  best.b = 1;
+  double lr = 0.999;
+  for(int i = 0; i < 100; ++i){
+    node ans;
+    ans.a = rand()%n + 1;
+    ans.b = rand()%n + 1;
+    for(double t = n; t > 0.5; t *= lr){
+      node res;
+      res.a = (ans.a+ll(round(t*(2.0*rand()/RAND_MAX-1))))%n;
+      res.b = (ans.b+ll(round(t*(2.0*rand()/RAND_MAX-1))))%n;
+      res.a = (res.a+n)%n + 1;
+      res.b = (res.b+n)%n + 1;
+      if(ans.calc() > res.calc() or exp((ans.calc()-res.calc())/t)*RAND_MAX > rand()){
+        ans = res;
+        if(best.calc() > ans.calc()) best = ans;
+      }
+    }
+  }
+  cout << best.calc();
+  return 0;
+}
+```
+
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
 
 3/ https://www.cnblogs.com/peng-ym/p/9192203.html
