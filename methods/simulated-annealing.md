@@ -4,7 +4,7 @@ Chip design algorithm
 
 https://www.geeksforgeeks.org/simulated-annealing/
 
-Questions 1/ https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
+Questions 1a/ https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
 
 ```cpp
 class Solution {
@@ -55,6 +55,75 @@ public:
         return happy_group;
     }
 };
+```
+
+Question 1b/ [https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169](https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169)
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+struct node{
+  double x,y;
+};
+double calc(node& pt,vector<node>& v){
+  double ret = 0;
+  for(auto& item : v){
+    double dx = item.x - pt.x, dy = item.y - pt.y;
+    ret += sqrt(dx*dx+dy*dy);
+  }
+  return ret;
+}
+void simulate_annealing(int n,vector<node>& v){
+  srand(time(NULL));
+  node a;
+  for(auto& item : v){
+    a.x += item.x;
+    a.y += item.y;
+  }
+  a.x /= n;
+  a.y /= n;
+  double best = calc(a,v);
+  double ans = best, X = a.x, Y = a.y;
+  double lr = 0.99;
+  for(double t = 1e5; t > 1e-5; t *= lr){
+    node b;
+    b.x = a.x + t*(2*rand()-RAND_MAX)/RAND_MAX;
+    b.y = a.y + t*(2*rand()-RAND_MAX)/RAND_MAX;
+    double res = calc(b,v);
+    if(best > res){
+      best = res;
+      X = b.x;
+      Y = b.y;
+    }
+    if(ans > res or exp((ans-res)/t) > (double)rand()/RAND_MAX){
+      ans = res;
+      a = b;
+    }
+  }
+  cout.precision(0);
+  cout << fixed << best << '\n';
+}
+void play(){
+  int n;
+  cin >> n;
+  vector<node> v(n);
+  double ax = 0, ay = 0;
+  for(int i = 0; i < n; ++i){
+    cin >> v[i].x >> v[i].y;
+  }
+  simulate_annealing(n,v);
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int T;
+  cin >> T;
+  while(T--){
+    play();
+    if(T) cout << '\n';
+  }
+  return 0;
+}
 ```
 
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
