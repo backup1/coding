@@ -201,4 +201,11 @@ link : 题目：http://poj.org/problem?id=2069
 
 Hill Climb : https://codeforces.com/contest/723/problem/E solution : https://codeforces.com/blog/entry/57437
 
-除了模拟退火外，还有不少随机化算法。比如遗传算法、蚁群算法，这些算法被称为“元启发算法”，有兴趣的读者可以查阅相关资料。S
+除了模拟退火外，还有不少随机化算法。比如遗传算法、蚁群算法，这些算法被称为“元启发算法”，有兴趣的读者可以查阅相关资料。
+
+blog : [https://blog.csdn.net/weixin\_42604241/article/details/97509168?spm=1001.2101.3001.6650.3\&utm\_medium=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-3.pc\_relevant\_default\&depth\_1-utm\_source=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-3.pc\_relevant\_default\&utm\_relevant\_index=6](https://blog.csdn.net/weixin\_42604241/article/details/97509168?spm=1001.2101.3001.6650.3\&depth\_1-utm\_source=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-3.pc\_relevant\_default)
+
+1. 数值概率算法
+2. 蒙特卡罗（Monte Carlo）算法
+3. 拉斯维加斯（Las Vegas）算法
+4. 舍伍德（Sherwood）算法

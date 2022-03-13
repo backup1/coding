@@ -92,7 +92,7 @@
 * [Mo's algorithm with update](methods/mos-algorithm-with-update.md)
 * [Sqrt Decomposition](methods/sqrt-decomposition.md)
 * [Simulated annealing](methods/simulated-annealing.md)
-*
+* [Genetic Algorithm](methods/genetic-algorithm.md)
 * [Misc](methods/misc.md)
 
 ## String
