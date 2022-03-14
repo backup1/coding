@@ -193,8 +193,55 @@ link : 题目：http://poj.org/problem?id=2069
 
 Question 1e/ **USACO 2017 January Platinum Subsequence Reverse** : [http://www.usaco.org/index.php?page=viewproblem2\&cpid=698](http://www.usaco.org/index.php?page=viewproblem2\&cpid=698)
 
-```
-// Some code
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+const int N = 51;
+int good[N], backup[N], a[N];
+int main(){
+    freopen("subrev.in", "r", stdin);
+    freopen("subrev.out", "w", stdout);
+    srand(time(NULL));
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    int n;
+    cin >> n;
+    for(int i = 0; i < n; i++){
+        good[i] = rand() % 2;
+        cin >> a[i];
+    }
+    double T = 1e9, t = T;
+    int best = 0;
+    int ans = 0;
+    while(clock() / (double) CLOCKS_PER_SEC <= 1.95){
+        vector<int> p;
+        for(int i = 0; i < n; ++i) backup[i] = good[i];
+        for(int i = 0; i < n*t/T; ++i) good[rand()%n] ^= 1;
+        for(int i = 0; i < n; ++i){
+            if(good[i]) p.push_back(i);
+        }
+        int sz = p.size();
+        for(int i = 0; (i<<1) < sz; ++i) swap(a[p[i]], a[p[sz-1-i]]);
+        vector<int> v;
+        for(int i = 0; i < n; ++i){
+            if(v.empty() or a[i] >= v.back()) v.push_back(a[i]);
+            else{
+                auto it = upper_bound(begin(v),end(v),a[i]);
+                *it = a[i];
+            }
+        }
+        int res = v.size();
+        best = max(best, res);
+        for(int i = 0; (i<<1) < sz; ++i) swap(a[p[i]], a[p[sz-1-i]]);
+        if(res > ans or exp((res-ans)/t)*RAND_MAX > rand()) ans = res;
+        else{
+            for(int i = 0; i < n; ++i) good[i] = backup[i];
+        }
+        t *= 0.9999;
+    }
+    cout << best << '\n';
+}
 ```
 
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
