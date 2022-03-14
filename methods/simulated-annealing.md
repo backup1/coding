@@ -187,9 +187,7 @@ int main(){
 }
 ```
 
-Question 1d/ 题目：平面上给定n条线段，找出一个点，使这个点到这n条线段的距离和最小。
-
-link : 题目：http://poj.org/problem?id=2069
+Question 1d/ **POJ 2069 Super Star** : http://poj.org/problem?id=2069
 
 Question 1e/ **USACO 2017 January Platinum Subsequence Reverse** : [http://www.usaco.org/index.php?page=viewproblem2\&cpid=698](http://www.usaco.org/index.php?page=viewproblem2\&cpid=698)
 
