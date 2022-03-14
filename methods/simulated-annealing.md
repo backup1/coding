@@ -4,7 +4,7 @@ Chip design algorithm
 
 https://www.geeksforgeeks.org/simulated-annealing/
 
-Questions 1a/ \[LeetCode#1815] https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
+Questions 1a/ **\[LeetCode#1815]** https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
 
 ```cpp
 class Solution {
@@ -57,7 +57,7 @@ public:
 };
 ```
 
-Question 1b/ \[UVA#10228] [https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169](https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169)
+Question 1b/ **\[UVA#10228]** [https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169](https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -126,7 +126,7 @@ int main(){
 }
 ```
 
-Question 1c/ CEOI 2004 Two sawmills [https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf](https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf)
+Question 1c/ **CEOI 2004 Two sawmills** [https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf](https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf)
 
 submit : [https://www.luogu.com.cn/problem/P4360](https://www.luogu.com.cn/problem/P4360)
 
@@ -190,6 +190,12 @@ int main(){
 Question 1d/ 题目：平面上给定n条线段，找出一个点，使这个点到这n条线段的距离和最小。
 
 link : 题目：http://poj.org/problem?id=2069
+
+Question 1e/ **USACO 2017 January Platinum Subsequence Reverse** : [http://www.usaco.org/index.php?page=viewproblem2\&cpid=698](http://www.usaco.org/index.php?page=viewproblem2\&cpid=698)
+
+```
+// Some code
+```
 
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
 
