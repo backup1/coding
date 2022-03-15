@@ -92,6 +92,7 @@
 * [Mo's algorithm with update](methods/mos-algorithm-with-update.md)
 * [Sqrt Decomposition](methods/sqrt-decomposition.md)
 * [Simulated annealing](methods/simulated-annealing.md)
+* [Climb Hill](methods/climb-hill.md)
 * [Genetic Algorithm](methods/genetic-algorithm.md)
 * [Misc](methods/misc.md)
 

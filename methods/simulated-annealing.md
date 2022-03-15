@@ -187,9 +187,7 @@ int main(){
 }
 ```
 
-Question 1d/ **POJ 2069 Super Star** : http://poj.org/problem?id=2069
-
-Question 1e/ **USACO 2017 January Platinum Subsequence Reverse** : [http://www.usaco.org/index.php?page=viewproblem2\&cpid=698](http://www.usaco.org/index.php?page=viewproblem2\&cpid=698)
+Question 1d/ **USACO 2017 January Platinum Subsequence Reverse** : [http://www.usaco.org/index.php?page=viewproblem2\&cpid=698](http://www.usaco.org/index.php?page=viewproblem2\&cpid=698)
 
 ```cpp
 #include <bits/stdc++.h>
