@@ -280,7 +280,6 @@ int main(){
   bx /= n;
   by /= n;
   ld best = calc(bx,by);
-  cout.precision(3);
   while(clock() <= 0.95*CLOCKS_PER_SEC){
     ld ans = best, x = bx, y = by;
     for(ld t = 1e9; t > 1e-5; t*= 0.99){
