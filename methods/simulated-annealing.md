@@ -250,8 +250,59 @@ int main(){
 
 Question 5. P1337 \[JSOI2004]平衡点 / 吊打XXX [https://www.luogu.com.cn/problem/P1337](https://www.luogu.com.cn/problem/P1337)
 
-```
-// Some code
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ld = long double;
+int n;
+struct pt{
+  ld x,y,w;
+} pts[1005];
+ld calc(ld a,ld b){
+  ld ret = 0;
+  for(int i = 0; i < n; ++i){
+    ld x = pts[i].x, y = pts[i].y, w = pts[i].w;
+    ret += w * sqrt((x-a)*(x-a)+(y-b)*(y-b));
+  }
+  return ret;
+}
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  srand(time(NULL));
+  cin >> n;
+  ld bx = 0, by = 0;
+  for(int i = 0; i < n; ++i){
+    cin >> pts[i].x >> pts[i].y >> pts[i].w;
+    bx += pts[i].x;
+    by += pts[i].y;
+  }
+  bx /= n;
+  by /= n;
+  ld best = calc(bx,by);
+  cout.precision(3);
+  while(clock() <= 0.95*CLOCKS_PER_SEC){
+    ld ans = best, x = bx, y = by;
+    for(ld t = 1e9; t > 1e-5; t*= 0.99){
+      ld nx = x + t*(2*rand()-RAND_MAX)/RAND_MAX;
+      ld ny = y + t*(2*rand()-RAND_MAX)/RAND_MAX;
+      ld res = calc(nx,ny);
+      if(best > res){
+        best = res;
+        bx = nx;
+        by = ny;
+      }
+      if(ans > res or exp((ans-res)/t)*RAND_MAX > rand()){
+        ans = res;
+        x = nx;
+        y = ny;
+      }
+    }
+  }
+  cout.precision(3);
+  cout << fixed << bx << ' ' << by;
+  return 0;
+}
 ```
 
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
