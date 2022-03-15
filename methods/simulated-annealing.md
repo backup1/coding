@@ -2,9 +2,9 @@
 
 Chip design algorithm : https://www.geeksforgeeks.org/simulated-annealing/
 
-### Questions 1. **\[LeetCode#1815]**
+### Question 1. **\[LeetCode#1815]**
 
-Questions 1. https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
+Question 1. https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
 
 ```cpp
 class Solution {
@@ -270,6 +270,8 @@ int main(){
   ios::sync_with_stdio(0);
   cin.tie(0);
   srand(time(NULL));
+  srand(rand());
+  srand(rand()); // 玄学
   cin >> n;
   ld bx = 0, by = 0;
   for(int i = 0; i < n; ++i){
