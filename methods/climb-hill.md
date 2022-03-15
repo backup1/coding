@@ -1,6 +1,6 @@
 # Climb Hill
 
-\+Question 1/ **POJ 2069 Super Star** : http://poj.org/problem?id=2069
+Question 1/ **POJ 2069 Super Star** : http://poj.org/problem?id=2069
 
 ```cpp
 #include <cstdio>
@@ -47,5 +47,4 @@ int main(){
   while(scanf("%d",&n), n) play(n);
   return 0;
 }
-
 ```
