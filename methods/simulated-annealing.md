@@ -1,10 +1,10 @@
 # Simulated annealing
 
-Chip design algorithm
+Chip design algorithm : https://www.geeksforgeeks.org/simulated-annealing/
 
-https://www.geeksforgeeks.org/simulated-annealing/
+### Questions 1. **\[LeetCode#1815]**
 
-Questions 1a/ **\[LeetCode#1815]** https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
+Questions 1. https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/ https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/solution/
 
 ```cpp
 class Solution {
@@ -57,7 +57,9 @@ public:
 };
 ```
 
-Question 1b/ **\[UVA#10228]** [https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169](https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169)
+### Question 2. **\[UVA#10228]**
+
+Question 2. **\[UVA#10228]** [https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169](https://onlinejudge.org/index.php?option=com\_onlinejudge\&Itemid=8\&page=show\_problem\&problem=1169)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -126,6 +128,8 @@ int main(){
 }
 ```
 
+### Question 3. **CEOI 2004 Two sawmills**
+
 Question 1c/ **CEOI 2004 Two sawmills** [https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf](https://www.oi.edu.pl/old/ceoi2004/problems/two.pdf)
 
 submit : [https://www.luogu.com.cn/problem/P4360](https://www.luogu.com.cn/problem/P4360)
@@ -187,7 +191,9 @@ int main(){
 }
 ```
 
-Question 1d/ **USACO 2017 January Platinum Subsequence Reverse** : [http://www.usaco.org/index.php?page=viewproblem2\&cpid=698](http://www.usaco.org/index.php?page=viewproblem2\&cpid=698)
+### Question 4. **USACO 2017 January Platinum Subsequence Reversal**
+
+Question 4. **USACO 2017 January Platinum Subsequence Reversal** : [http://www.usaco.org/index.php?page=viewproblem2\&cpid=698](http://www.usaco.org/index.php?page=viewproblem2\&cpid=698)
 
 ```cpp
 #include <bits/stdc++.h>
