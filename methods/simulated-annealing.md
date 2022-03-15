@@ -246,6 +246,14 @@ int main(){
 }
 ```
 
+### Question 5. P1337 \[JSOI2004]平衡点 / 吊打XXX
+
+Question 5. P1337 \[JSOI2004]平衡点 / 吊打XXX [https://www.luogu.com.cn/problem/P1337](https://www.luogu.com.cn/problem/P1337)
+
+```
+// Some code
+```
+
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
 
 3/ https://www.cnblogs.com/peng-ym/p/9192203.html
