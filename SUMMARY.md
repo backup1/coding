@@ -93,6 +93,7 @@
 * [Sqrt Decomposition](methods/sqrt-decomposition.md)
 * [Simulated annealing](methods/simulated-annealing.md)
 * [Climb Hill](methods/climb-hill.md)
+* [Las Vegas Algorithm](methods/las-vegas-algorithm.md)
 * [Genetic Algorithm](methods/genetic-algorithm.md)
 * [Heuristic](methods/heuristic.md)
 * [Misc](methods/misc.md)
