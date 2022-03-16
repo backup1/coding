@@ -306,6 +306,16 @@ int main(){
 }
 ```
 
+### Question 6. Codeforces Gym#101158 J. [Cover the Polygon with Your Disk](https://codeforces.com/gym/101158/problem/J)
+
+Question : https://codeforces.com/gym/101158
+
+Editorial : https://cardiffle.github.io/2019/08/05/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%ABSA/
+
+```
+// Some code
+```
+
 2/ https://www.luogu.com.cn/problem/P1337 https://www.cnblogs.com/flashhu/p/8900466.html https://www.cnblogs.com/peng-ym/p/9189390.html
 
 3/ https://www.cnblogs.com/peng-ym/p/9192203.html
