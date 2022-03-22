@@ -144,6 +144,7 @@
 ## Questions
 
 * [interview questions](questions/interview-questions.md)
+* [Boyer–Moore majority vote algorithm](questions/boyer-moore-majority-vote-algorithm.md)
 * [interview question KMP](questions/interview-question-kmp.md)
 * [Google interview](questions/google-interview.md)
 * [Leetcode (Hard)](questions/leetcode-hard.md)
