@@ -105,6 +105,7 @@
 * [Aho](string/aho.md)
 * [Suffix Array](string/suffix-array.md)
 * [LCP](string/lcs.md)
+* [z-function](string/z-function.md)
 
 ## Utilities
 
