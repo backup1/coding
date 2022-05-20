@@ -127,3 +127,8 @@ Requirements:
 * Clients renting several times a year are eligible for a discount. Clients must have their driving license for at least two year, and be older than 25 years old.
 * The agency owner needs to handle a stock of spare wheel for the vehicles. For legal reasons, he also needs to track maintenance dates of the vehicles.
 * There several employees, with different working hours. We want to track which employee handles a given rental order.
+
+#### Other interviews
+
+1. check if a sequence of parathesis ( and ) is valid
+2. give the length of the longest valid subarray of parenthesis ( and ) in O(n^2)
