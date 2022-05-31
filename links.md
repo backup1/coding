@@ -4,23 +4,253 @@ Dynamic Connectivity Test Set : [https://codeforces.com/gym/100551](https://code
 
 USACO Guide training : [https://codeforces.com/gym/102951](https://codeforces.com/gym/102951)
 
+```
+Competitive Programming Contests Data resources:
+================================================
 
+APIO - Asia-Pacific Informatics Olympiad
+----------------------------------------
+2007-2018 : http://apio-olympiad.org
+2018 : https://apio2018.ru
+2019 : https://apio2019.ru
+2020 : https://apio2020.id
+
+B(alkan)OI - Balkan Olympiads in Informatics
+--------------------------------------------
+1999 : http://www.cs.uoi.gr/~stavros/boi99/boi99.htm
+2004 : http://www.boi2004-plovdiv.org/index.php?id=1
+2011 : http://www.boi2011.ro/boi2011/
+2012 : https://boi2012.dms.rs/
+2019 : https://boi2019.epy.gr/
+
+B(altic)OI - Baltic Olympiad in Informatics
+-------------------------------------------
+1998-2019 : https://boi.cses.fi/tasks.php
+website list : https://boi.cses.fi/contests.php
+2000 : http://ingforum.haninge.kth.se/BOI00/boi00.html
+2001 : https://oi.edu.pl/boi2001/index0055.html?id=11
+2002 : http://ims.mii.lt/olimp/senas/english/boi2002/
+2003 : http://kodu.ut.ee/~ahto/boi/2003/
+2006 : https://www.cs.helsinki.fi/group/boi2006/
+2007 : https://www.boi2007.de/en/tasks
+2008 : http://b08.oi.edu.pl/
+2009 : http://www.csc.kth.se/contest/boi/tasks.php
+2010 : http://kodu.ut.ee/~ahto/boi/2010/
+2012 : http://www.boi2012.lv/tasks
+2013 : https://boi2013.informatik-olympiade.de/?page_id=169
+2014 : http://www.boi2014.lmio.lt/tasks.html
+2014 : https://github.com/boi-2014/tasks
+2016 : https://www.cs.helsinki.fi/group/boi2016/tasks.shtml
+2018 : https://boi2018.progolymp.se/tasks/
+2018 : https://github.com/nordicolympiad/baltic-olympiad-2018
+2019 : https://boi2019.eio.ee/tasks/
+2020 : http://www.boi2020.lv/tasks.html
+
+BdOI - Bangladesh Olympiad in Informatics
+-----------------------------------------
+https://olympiad.org.bd/resource.html
+
+BCPC - Brookfield Computer Programming Challenge
+------------------------------------------------
+https://wumbogames.com/BCPC
+
+CCC - Canadian Computing Competition and CCO - Canadian Computing Olympiad
+--------------------------------------------------------------------------
+https://cemc.uwaterloo.ca/contests/past_contests.html
+http://mmhs.ca/ccc/index.htm
+
+CEOI - Central-European Olympiad in Informatics
+-----------------------------------------------
+2006-2019 : http://ceoi.inf.elte.hu/tasks-archive/
+
+COCI - CROATIAN OPEN COMPETITION IN INFORMATICS
+-----------------------------------------------
+2006-2019 : https://hsin.hr/coci
+online judge : https://evaluator.hsin.hr/
+
+EJOI - European Junior Olympiad in Informatics
+----------------------------------------------
+2017 : https://ejoi.org/contest/
+2018 : http://ejoi2018.org/tasksdownload  <== to download
+2019 : https://www.ejoi2019.si/           <== to download
+
+HP CodeWars
+-----------
+http://www.hpcodewars.org/
+
+HSPT - UCF High School Programming Tournament
+---------------------------------------------
+online : https://hspt.ucfprogrammingteam.org/index.php/past-contests/past-problem-sets-online
+onsite : https://hspt.ucfprogrammingteam.org/index.php/past-contests/past-problem-sets
+
+ICPC - International Collegiate Programming Contest
+(ACM - Association for Computing Machinery)
+---------------------------------------------------
+2011-2019 : https://icpc.baylor.edu/worldfinals/problems
+
+INOI - Indian Computing Olympiad
+--------------------------------
+https://www.iarcs.org.in/inoi/archives.php
+
+IOI - International Olympiad in Informatics
+-------------------------------------------
+1998-2019 and 1995 : https://ioinformatics.org/page/contests/10
+1989-2008 : http://olympiads.win.tue.nl/ioi/tasks.html
+2012 : http://www.ioi2012.org
+2013 : http://www.ioi2013.org
+2014 : https://www.ioi2014.org
+2015 : http://ioi2015.kz
+2016 : http://ioi2016.ru
+2017 : http://ioi2017.org
+2018 : http://ioi2018.jp
+2019 : http://ioi2019.az
+2020 : https://ioi2020.sg
+
+IPSC - Internet Problem Solving Contest
+---------------------------------------
+statement, analysis and input (no output) : https://ipsc.ksp.sk/
+
+JBOI - Junior Balkan Olympiads in Informatics
+---------------------------------------------
+2007 : Belgrade, Serbia http://www.jboi2007.org/
+2008 : Shumen, Bulgaria http://www.math.bas.bg/infos/JBOI_2008.html
+2009 : Shumen, JBOI Initiative http://cs.org.mk/jboi2009/
+2010 : Shumen, JBOI Initiative http://cs.org.mk/jboi2010/
+2011 : Bistrica, Romania http://www.boi2011.ro/jboi2011/
+2012 : Ohrid, Macedonia http://jboi2012.cs.org.mk
+2013 : Shumen, JBOI Initiative http://cs.org.mk/jboi2013/
+2014 : Belgrade, Serbia http://jboi2014.dms.rs
+2015 : Ohrid, Macedonia http://jboi2015.cs.org.mk/
+2016 : Skopje, Macedonia http://jboi2016.cs.org.mk/
+
+JOI - JOI Open Contest
+----------------------
+https://contests.ioi-jp.org/
+
+LMIO - Lithuanian Olympiad in Informatics
+-----------------------------------------
+https://online.lmio.lt/
+
+NOI - Nordic Olympiad in Informatics
+------------------------------------
+https://github.com/nordicolympiad
+http://nordic.progolymp.se/
+
+RMI - Romanian Master of Informatics
+------------------------------------
+2014 : http://rmi.lbi.ro/rmi_2014/
+2015 : http://rmi.lbi.ro/rmi_2015/
+2016 : http://rmi.lbi.ro/rmi_2016/
+2017 : http://rmi.lbi.ro/rmi_2017/
+2018 : http://rmi.lbi.ro/rmi_2018/
+2019 : http://rmi.lbi.ro/rmi_2019/
+
+SGNOI - Singapore National Olympiad in Informatics
+--------------------------------------------------
+1998-2019 : https://github.com/ranaldmiao/sg_noi_archive
+1998-2013 : https://www.comp.nus.edu.sg/~noi/tasks1998.html
+
+Swedish Olympiad
+----------------
+https://github.com/nordicolympiad
+
+USACO - USA Computing Olympiad
+------------------------------
+2011-2019 : http://usaco.org/index.php?page=contests
+2007-2011 statement : http://tjsct.wikidot.com/usaco/
+2006-2010 testdata : https://contest.usaco.org/TESTDATA/
+2006 Oct statement : http://www.comscigate.com/contests/USACO/2006/2006Oct/Problems.htm
+Other 2006 season statement could be found in vjudge via many online judge.
+http://pingce.ayyz.cn:9000/usaco/20110129214306/usaco_contest.html
+
+USACO Testdata and analysis
+---------------------------
+2005 : https://contest.usaco.org/OPEN06.htm
+2006 : https://contest.usaco.org/OCT06.htm
+2006 : https://contest.usaco.org/NOV06.htm
+2006 : https://contest.usaco.org/DEC06.htm
+2006 : https://contest.usaco.org/JAN07.htm
+2006 : https://contest.usaco.org/FEB07.htm
+2006 : https://contest.usaco.org/MAR07.htm
+2006 : https://contest.usaco.org/OPEN07.htm
+2006 : https://contest.usaco.org/CHN07.htm
+2007 : https://contest.usaco.org/OCT07.htm
+2007 : https://contest.usaco.org/NOV07.htm
+2007 : https://contest.usaco.org/DEC07.htm
+2007 : https://contest.usaco.org/JAN08.htm
+2007 : https://contest.usaco.org/FEB08.htm
+2007 : https://contest.usaco.org/MAR08.htm
+2007 : https://contest.usaco.org/OPEN08.htm
+2007 : https://contest.usaco.org/HOL09.htm
+2008 : https://contest.usaco.org/OCT08.htm
+2008 : https://contest.usaco.org/NOV08.htm
+2008 : https://contest.usaco.org/DEC08.htm
+2008 : https://contest.usaco.org/JAN09.htm
+2008 : https://contest.usaco.org/FEB09.htm
+2008 : https://contest.usaco.org/MAR09.htm
+2008 : https://contest.usaco.org/OPEN09.htm
+2008 : https://contest.usaco.org/HOL10.htm
+2009 : https://contest.usaco.org/OCT09.htm
+2009 : https://contest.usaco.org/NOV09.htm
+2009 : https://contest.usaco.org/DEC09.htm
+2009 : https://contest.usaco.org/JAN10.htm
+2009 : https://contest.usaco.org/FEB10.htm
+2009 : https://contest.usaco.org/MAR10.htm
+2009 : https://contest.usaco.org/OPEN10.htm
+2010 : https://contest.usaco.org/NOV10.htm
+2010 : https://contest.usaco.org/DEC10.htm
+2010 : https://contest.usaco.org/JAN11.htm
+2010 : https://contest.usaco.org/FEB11.htm
+2010 : https://contest.usaco.org/MAR11.htm
+2010 : https://contest.usaco.org/OPEN11.htm
+
+National OIs: http://olympiads.win.tue.nl/ioi/noi/index.html
+
+Some Contest Platforms
+----------------------
+Indonesia : https://tlx.toki.id/ (upsolving APIO, ICPC, IOI and Singapore NOI questions)
+USA : http://usaco.org/index.php?page=contests (upsolving USACO questions)
+BalticOI : https://cses.fi/boi/list/ (upsolving BalticOI questions)
+Macedonia : https://mendo.mk/Training.do?cid=2 (upsolving JBOI and EJOI 2017 questions)
+http://www.lydsy.com/JudgeOnline/problemset.php (upsolving many contest questions)
+
+EJOI2019 : https://oj.uz/problems/source/490
+EJOI2018 : https://loj.ac/problem/2813
+           https://loj.ac/problem/2814
+           https://loj.ac/problem/2815
+           https://loj.ac/problem/2816
+           https://loj.ac/problem/2817
+           https://loj.ac/problem/2818
+           https://codeforces.com/contest/1012
+           https://codeforces.com/contest/1013
+EJOI2017 : https://mendo.mk/Training.do?cid=2
+           https://mendo.mk/Task.do?id=774
+           https://mendo.mk/Task.do?id=775
+           https://mendo.mk/Task.do?id=776
+           https://mendo.mk/Task.do?id=777
+           https://mendo.mk/Task.do?id=778
+           https://mendo.mk/Task.do?id=779
+           https://csacademy.com/contest/ejoi-2017-day-1/
+           https://csacademy.com/contest/ejoi-2017-day-2/
+
+Famous CMS and many national OJ links : http://cms-dev.github.io/testimonials.html
+```
 
 KTH CP template using STL : [https://github.com/kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl)
 
 CP Book on problem solving : [https://www.mimuw.edu.pl/\~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf](https://www.mimuw.edu.pl/\~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf)
 
-Best algo site ever : [https://cp-algorithms.com/](https://cp-algorithms.com)
+Best algo site ever : [https://cp-algorithms.com/](https://cp-algorithms.com/)
 
 CSES Problem set : [https://cses.fi/problemset/list/](https://cses.fi/problemset/list/)
 
-Library Checker : [https://judge.yosupo.jp/](https://judge.yosupo.jp)
+Library Checker : [https://judge.yosupo.jp/](https://judge.yosupo.jp/)
 
 USACO guide : [https://usaco.guide](https://usaco.guide)
 
 Presentation of Bipartite matching using max-flow algo : [https://www.cs.cmu.edu/\~ckingsf/bioinfo-lectures/matching.pdf](https://www.cs.cmu.edu/\~ckingsf/bioinfo-lectures/matching.pdf)
 
-CP reference site : [https://noiref.codecla.ws/](https://noiref.codecla.ws)
+CP reference site : [https://noiref.codecla.ws/](https://noiref.codecla.ws/)
 
 CP library : [https://github.com/mochow13/competitive-programming-library](https://github.com/mochow13/competitive-programming-library)
 
@@ -42,7 +272,7 @@ G++ Release Notes (replacing 9 by any number <= 9) : [https://gcc.gnu.org/gcc-9/
 
 USACO Dashboard : [https://usaco-guide.vercel.app/dashboard/](https://usaco-guide.vercel.app/dashboard/)
 
-training site [https://algo.is/](https://algo.is)
+training site [https://algo.is/](https://algo.is/)
 
 general matching algo (not hopcroft-karp) O(n3) : [http://csclab.murraystate.edu/\~bob.pilgrim/445/munkres.html](http://csclab.murraystate.edu/\~bob.pilgrim/445/munkres.html)
 
