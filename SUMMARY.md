@@ -9,7 +9,7 @@
 
 ## Mathematics
 
-* [GCD](mathematics/gcd.md)
+* [GCD and extended Euclid algorithm](mathematics/gcd.md)
 * [Bit operation](mathematics/bit-operation.md)
 * [Russian peasant method for multiplication](mathematics/russian-peasant-method-for-multiplication.md)
 * [Power and Sum](mathematics/power.md)
