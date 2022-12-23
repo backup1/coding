@@ -1,5 +1,34 @@
 # input with space
 
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  int s;
+  cin >> s;
+  cin.ignore();
+  string line;
+  while(getline(cin,line)){
+    int c = count_if(line.begin(),line.end(),static_cast<int(*)(int)>(isspace)) + 1;
+    istringstream iss(line);
+    if(c == 3){
+      int x,y,a;
+      iss >> x >> y >> a;
+      cout << x << ' ' << y << ' ' << a << endl;
+    }
+    else{
+      int l,b,r,t;
+      iss >> l >> b >> r >> t;
+      cout << l << ' ' << b << ' ' << r << ' ' << t << endl;
+    }
+  }
+  return 0;
+}
+
+```
+
 ref [https://eecs.oregonstate.edu/ecampus-video/CS161/template/chapter\_3/strings.html](https://eecs.oregonstate.edu/ecampus-video/CS161/template/chapter\_3/strings.html)
 
 ```cpp
