@@ -26,7 +26,6 @@ int main(){
   }
   return 0;
 }
-
 ```
 
 ref [https://eecs.oregonstate.edu/ecampus-video/CS161/template/chapter\_3/strings.html](https://eecs.oregonstate.edu/ecampus-video/CS161/template/chapter\_3/strings.html)
