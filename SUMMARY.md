@@ -116,6 +116,7 @@
 
 ## C++ tips and tricks
 
+* [sort vector in STL](c++-tips-and-tricks/sort-vector-in-stl.md)
 * [struct in STL](c++-tips-and-tricks/struct-in-stl.md)
 * [auto](c++-tips-and-tricks/auto.md)
 * [lambda expression](c++-tips-and-tricks/lambda-expression.md)
