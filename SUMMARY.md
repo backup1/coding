@@ -128,6 +128,7 @@
 
 ## Templates
 
+* [Fast input](templates/fast-input.md)
 * [Normal template](templates/normal-template.md)
 * [USACO template](templates/usaco-template.md)
 * [Code Jam template](templates/code-jam-template.md)
