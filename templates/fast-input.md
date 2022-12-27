@@ -5,14 +5,14 @@
 #define int long long
 using namespace std;
 inline int read(){
-    int n=0,f=1,ch=getchar();
+    int n=0,f=1,ch=getchar_unlocked();
     while(ch<'0'||ch>'9'){
     	if(ch=='-')f=-1;
-    	ch=getchar();
+    	ch=getchar_unlocked();
     }
     while(ch>='0'&&ch<='9'){
     	n=n*10+ch-'0';
-    	ch=getchar();
+    	ch=getchar_unlocked();
     }
     return n*f;
 }
