@@ -2,6 +2,8 @@
 
 #### Balkan OI 2011 Time is money
 
+official editorial : [https://dmoj.ca/problem/bkoi11p5/editorial](https://dmoj.ca/problem/bkoi11p5/editorial)
+
 editorial : [https://bits-and-bytes.me/2020/04/14/BkOI-2011-Timeismoney/](https://bits-and-bytes.me/2020/04/14/BkOI-2011-Timeismoney/)
 
 ```cpp

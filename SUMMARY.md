@@ -176,5 +176,6 @@
 * [Meet in Middle](tricks/meet-in-middle.md)
 * [Slope Trick](tricks/slope-trick.md)
 * [2-SAT](tricks/2-sat.md)
+* [Alien Trick / Lambda Optim](tricks/alien-trick-lambda-optim.md)
 
 ## Interactive
