@@ -175,5 +175,6 @@
 * [Binary lifting related](tricks/binary-lifting-related.md)
 * [Meet in Middle](tricks/meet-in-middle.md)
 * [Slope Trick](tricks/slope-trick.md)
+* [2-SAT](tricks/2-sat.md)
 
 ## Interactive
