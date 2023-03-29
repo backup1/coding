@@ -168,3 +168,8 @@
 
 * [Maths](past-codes/maths.md)
 * [Editorials](past-codes/editorials.md)
+
+## Tricks
+
+* [Convex hull related](tricks/convex-hull-related.md)
+* [Binary lifting related](tricks/binary-lifting-related.md)
