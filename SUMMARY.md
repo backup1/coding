@@ -177,5 +177,8 @@
 * [Slope Trick](tricks/slope-trick.md)
 * [2-SAT](tricks/2-sat.md)
 * [Alien Trick / Lambda Optim](tricks/alien-trick-lambda-optim.md)
+* [Convex Hull Trick](tricks/convex-hull-trick.md)
 
 ## Interactive
+
+* [Base 4](interactive/base-4.md)
