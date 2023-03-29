@@ -182,3 +182,7 @@
 ## Interactive
 
 * [Base 4](interactive/base-4.md)
+* [Binary Search](interactive/binary-search.md)
+* [Binary Search + Cyclic round](interactive/binary-search-+-cyclic-round.md)
+* [Cyclic permutation](interactive/cyclic-permutation.md)
+* [More](interactive/more.md)
